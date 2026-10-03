@@ -1,0 +1,1436 @@
+[
+  {
+    "name": ".agents",
+    "path": "/home/lala_02/.agents",
+    "is_git": false,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [],
+    "file_count": 147,
+    "sample_files": [
+      ".skill-lock.json",
+      "skills",
+      "skills/okx-defi",
+      "skills/okx-growth-competition",
+      "skills/okx-ai",
+      "skills/okx-agent-payments-protocol",
+      "skills/okx-agentic-wallet",
+      "skills/okx-dapp-discovery"
+    ]
+  },
+  {
+    "name": ".aws",
+    "path": "/home/lala_02/.aws",
+    "is_git": false,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [],
+    "file_count": 41,
+    "sample_files": [
+      "amazonq",
+      "sso",
+      "amazonq/agents",
+      "amazonq/cache",
+      "amazonq/history",
+      "amazonq/lspLog.log",
+      "amazonq/mcpAdmin",
+      "amazonq/personas"
+    ]
+  },
+  {
+    "name": ".azure",
+    "path": "/home/lala_02/.azure",
+    "is_git": false,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [],
+    "file_count": 0,
+    "sample_files": []
+  },
+  {
+    "name": "Acke03",
+    "path": "/home/lala_02/Acke03",
+    "is_git": true,
+    "title": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefe",
+    "description_snippet": "![School of Solana](https://github.com/Ackee-Blockchain/school-of-solana/blob/master/.banner/banner.png?raw=true)",
+    "stack": [
+      "Rust/Cargo",
+      "Solana/Anchor",
+      "Node/TS"
+    ],
+    "remote": "https://github.com/School-of-Solana/task3-Olalolo22.git",
+    "branch": "main",
+    "total_commits": 2,
+    "user_commits": 0,
+    "other_commits": 2,
+    "first_commit": "dc6beb7|2025-10-22|Initial commit",
+    "latest_commit": "3980dcf|2025-10-28|add deadline",
+    "is_dirty": false,
+    "collaborators": [
+      "github-classroom[bot]"
+    ],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "Acke04",
+    "path": "/home/lala_02/Acke04",
+    "is_git": false,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [],
+    "file_count": 0,
+    "sample_files": []
+  },
+  {
+    "name": "Ackee_001",
+    "path": "/home/lala_02/Ackee_001",
+    "is_git": true,
+    "title": "# \ud83d\ude80 Rust & Solana Developer Portfolio",
+    "description_snippet": "> **Author:** Olalolo22",
+    "stack": [],
+    "remote": "https://github.com/Olalolo22/Ackee_001.git",
+    "branch": "main",
+    "total_commits": 3,
+    "user_commits": 3,
+    "other_commits": 0,
+    "first_commit": "2e8462e|2025-12-02|Initial commit",
+    "latest_commit": "3f68a7c|2025-12-03|Readme's",
+    "is_dirty": false,
+    "collaborators": [],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "Ackeo4",
+    "path": "/home/lala_02/Ackeo4",
+    "is_git": true,
+    "title": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefe",
+    "description_snippet": "![School of Solana](https://github.com/Ackee-Blockchain/school-of-solana/blob/master/.banner/banner.png?raw=true)",
+    "stack": [
+      "Rust/Cargo",
+      "Solana/Anchor",
+      "Node/TS"
+    ],
+    "remote": "https://github.com/School-of-Solana/task4-Olalolo22.git",
+    "branch": "main",
+    "total_commits": 2,
+    "user_commits": 0,
+    "other_commits": 2,
+    "first_commit": "e443cfc|2025-10-29|Initial commit",
+    "latest_commit": "6c3a953|2025-11-03|add deadline",
+    "is_dirty": false,
+    "collaborators": [
+      "github-classroom[bot]"
+    ],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "Aurelia-analyzer",
+    "path": "/home/lala_02/Aurelia-analyzer",
+    "is_git": true,
+    "title": "# Nigeria Real Estate Market Analyzer \ud83c\udfe1",
+    "description_snippet": "A data-driven Python tool designed to scrape, analyze, and visualize real estate listings from the Nigerian property market. This project provides valuable insights into property prices, distributions",
+    "stack": [
+      "Python"
+    ],
+    "remote": "https://github.com/Olalolo22/Aurelia-analyzer.git",
+    "branch": "main",
+    "total_commits": 2,
+    "user_commits": 2,
+    "other_commits": 0,
+    "first_commit": "ba75ddb|2025-09-13|Initial commit",
+    "latest_commit": "d62ebec|2025-09-13|Dummy data for the tool and plot saving",
+    "is_dirty": true,
+    "collaborators": [],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "Betty",
+    "path": "/home/lala_02/Betty",
+    "is_git": true,
+    "title": "# Betty",
+    "description_snippet": "[![Build Status](https://travis-ci.org/holbertonschool/Betty.svg?branch=master)](https://travis-ci.org/holbertonschool/Betty)",
+    "stack": [],
+    "remote": "https://github.com/alx-tools/Betty.git",
+    "branch": "master",
+    "total_commits": 198,
+    "user_commits": 0,
+    "other_commits": 198,
+    "first_commit": "307e48d|2016-07-08|Initial commit",
+    "latest_commit": "438f97c|2020-07-06|[fix]: deprecated syntax left brace warning",
+    "is_dirty": false,
+    "collaborators": [
+      "Alex Farioletti",
+      "Alexandre Gautier",
+      "Daniel Alzugaray",
+      "Diego Romero",
+      "Dora Korpar"
+    ],
+    "branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "Contd_Practice",
+    "path": "/home/lala_02/Contd_Practice",
+    "is_git": true,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [],
+    "remote": "https://github.com/Olalolo22/Contd_Practice.git",
+    "branch": "main",
+    "total_commits": 10,
+    "user_commits": 10,
+    "other_commits": 0,
+    "first_commit": "fbc3cdd|2024-10-11|First commit on this repo",
+    "latest_commit": "2b8acd4|2024-12-17|New project",
+    "is_dirty": true,
+    "collaborators": [],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "Converge",
+    "path": "/home/lala_02/Converge",
+    "is_git": true,
+    "title": "# Converge",
+    "description_snippet": "## Ephemeral Coordination Rooms on Solana",
+    "stack": [],
+    "remote": "https://github.com/Olalolo22/Converge.git",
+    "branch": "main",
+    "total_commits": 14,
+    "user_commits": 14,
+    "other_commits": 0,
+    "first_commit": "0082976|2026-08-08|feat: initial Converge app \u2014 MagicBlock ER co-signature rooms on Solana",
+    "latest_commit": "74b3b07|2026-08-08|docs: add technical roadmap for post-hackathon",
+    "is_dirty": false,
+    "collaborators": [],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "Credence-Contracts",
+    "path": "/home/lala_02/Credence-Contracts",
+    "is_git": true,
+    "title": "# Credence Contracts",
+    "description_snippet": "Soroban smart contracts for the Credence economic trust protocol. This workspace holds the identity bond and delegation contracts.",
+    "stack": [
+      "Rust/Cargo",
+      "Node/TS"
+    ],
+    "remote": "git@github.com:Olalolo22/Credence-Contracts.git",
+    "branch": "test/issue-1313-cost-benchmark-boundary-recovery",
+    "total_commits": 1367,
+    "user_commits": 1,
+    "other_commits": 1366,
+    "first_commit": "6b63ffbd8|2026-02-18|chore: initial Credence Soroban bond contract (Rust)",
+    "latest_commit": "613b7294b|2026-09-30|test(credence_bond): add boundary and recovery test coverage for cost.rs (#1313)",
+    "is_dirty": false,
+    "collaborators": [
+      "0darkside0rbit-star",
+      "0xMosas",
+      "0x_Dave.",
+      "6akola",
+      "AI"
+    ],
+    "branches": [
+      "main",
+      "test/issue-1313-cost-benchmark-boundary-recovery"
+    ]
+  },
+  {
+    "name": "Disciplr-backend",
+    "path": "/home/lala_02/Disciplr-backend",
+    "is_git": true,
+    "title": "# disciplr-backend",
+    "description_snippet": "API and milestone engine for Disciplr: programmable time-locked capital vaults on Stellar.",
+    "stack": [
+      "Node/TS"
+    ],
+    "remote": "git@github.com:Olalolo22/Disciplr-backend.git",
+    "branch": "fix/issue-1652-oauth-jwt-secret",
+    "total_commits": 1400,
+    "user_commits": 1,
+    "other_commits": 1399,
+    "first_commit": "963c5b4|2026-02-18|Initial commit: Disciplr backend (Express, TypeScript)",
+    "latest_commit": "94880da|2026-09-28|fix(oauth): eliminate insecure JWT_SECRET fallback and enforce fail-closed in production",
+    "is_dirty": false,
+    "collaborators": [
+      "0s & 1s",
+      "0xMosas",
+      "0xblackadam",
+      "100x",
+      "1nonlypiece"
+    ],
+    "branches": [
+      "fix/issue-1652-oauth-jwt-secret",
+      "main"
+    ]
+  },
+  {
+    "name": "FirstChatBck",
+    "path": "/home/lala_02/FirstChatBck",
+    "is_git": true,
+    "title": "Backend repo for FIRSTCHAT!",
+    "description_snippet": "",
+    "stack": [],
+    "remote": "https://github.com/FirstChatOrg/FirstChatBck.git",
+    "branch": "main",
+    "total_commits": 2,
+    "user_commits": 2,
+    "other_commits": 0,
+    "first_commit": "c32a0b5|2025-06-30|Initial commit",
+    "latest_commit": "23323a3|2025-06-30|Update README.md",
+    "is_dirty": false,
+    "collaborators": [],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "First_One",
+    "path": "/home/lala_02/First_One",
+    "is_git": false,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [],
+    "file_count": 2,
+    "sample_files": [
+      "ploii",
+      "resume"
+    ]
+  },
+  {
+    "name": "HNG13_0",
+    "path": "/home/lala_02/HNG13_0",
+    "is_git": true,
+    "title": "Project is a dynamic RESTful API built with Python FastAPI, designed to serve personalized user profile information enha",
+    "description_snippet": "# Profile API with Cat Facts",
+    "stack": [
+      "Python"
+    ],
+    "remote": "https://github.com/Olalolo22/HNG13_0.git",
+    "branch": "main",
+    "total_commits": 3,
+    "user_commits": 3,
+    "other_commits": 0,
+    "first_commit": "1fb8bac|2025-10-17|Initial commit",
+    "latest_commit": "44b69c0|2025-10-19|Updated Readme",
+    "is_dirty": false,
+    "collaborators": [],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "HNG13_1",
+    "path": "/home/lala_02/HNG13_1",
+    "is_git": true,
+    "title": "\u2b50 **String Analyzer API: Unraveling Text with Intelligent Analysis**",
+    "description_snippet": "## Overview",
+    "stack": [
+      "Python"
+    ],
+    "remote": "https://github.com/Olalolo22/HNG13_1.git",
+    "branch": "main",
+    "total_commits": 3,
+    "user_commits": 3,
+    "other_commits": 0,
+    "first_commit": "137f81b|2025-10-20|Initial commit",
+    "latest_commit": "f84e9f0|2025-10-21|Created Procfile for Railway host",
+    "is_dirty": false,
+    "collaborators": [],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "HNG13_2",
+    "path": "/home/lala_02/HNG13_2",
+    "is_git": true,
+    "title": "# Global Country & Currency Data API \ud83c\udf0d",
+    "description_snippet": "This project delivers a robust Flask API for retrieving comprehensive global country data, including population, capital, region, and currency exchange rates. It leverages external APIs to gather and ",
+    "stack": [
+      "Python"
+    ],
+    "remote": "https://github.com/Olalolo22/HNG13_2.git",
+    "branch": "main",
+    "total_commits": 6,
+    "user_commits": 6,
+    "other_commits": 0,
+    "first_commit": "bd156ff|2025-10-26|Initial commit",
+    "latest_commit": "a3902dc|2025-10-28|Fixed route order",
+    "is_dirty": true,
+    "collaborators": [],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "HNG13_3_Agent",
+    "path": "/home/lala_02/HNG13_3_Agent",
+    "is_git": true,
+    "title": "# Smart Read Later Organizer API",
+    "description_snippet": "## Overview",
+    "stack": [
+      "Python"
+    ],
+    "remote": "https://github.com/Olalolo22/HNG13_3_Agent.git",
+    "branch": "main",
+    "total_commits": 9,
+    "user_commits": 9,
+    "other_commits": 0,
+    "first_commit": "a1adfa1|2025-11-02|Initial commit",
+    "latest_commit": "cead8be|2025-11-09|agentpy readdy",
+    "is_dirty": true,
+    "collaborators": [],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "MarketPadi",
+    "path": "/home/lala_02/MarketPadi",
+    "is_git": true,
+    "title": "Empty README",
+    "description_snippet": "",
+    "stack": [],
+    "remote": "git@github.com:MarketPadi-Org/MarketPadi.git",
+    "branch": "feature/project-setup",
+    "total_commits": 7,
+    "user_commits": 7,
+    "other_commits": 0,
+    "first_commit": "f70fbb2|2026-01-15|Initial commit",
+    "latest_commit": "8df524e|2026-01-19| added complete auth and mvp scurity",
+    "is_dirty": true,
+    "collaborators": [],
+    "branches": [
+      "dev",
+      "feature/project-setup",
+      "main"
+    ]
+  },
+  {
+    "name": "Mizan",
+    "path": "/home/lala_02/Mizan",
+    "is_git": true,
+    "title": "# Mizan",
+    "description_snippet": "**Zero-knowledge compliance infrastructure for institutional Real World Assets on Arc.**",
+    "stack": [],
+    "remote": "https://github.com/Olalolo22/Mizan.git",
+    "branch": "fix/evm-sp1-proof",
+    "total_commits": 28,
+    "user_commits": 28,
+    "other_commits": 0,
+    "first_commit": "acfb270|2026-07-12|Initial commit: ZK setup, smart contracts, and repo skeleton",
+    "latest_commit": "a36d590|2026-07-13|fix(zk): update public inputs padding and JSON format for EVM ABI compatibility",
+    "is_dirty": true,
+    "collaborators": [],
+    "branches": [
+      "fix/evm-sp1-proof",
+      "main"
+    ]
+  },
+  {
+    "name": "Ohbed",
+    "path": "/home/lala_02/Ohbed",
+    "is_git": false,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [
+      "C"
+    ],
+    "file_count": 2,
+    "sample_files": [
+      "main.c",
+      "main"
+    ]
+  },
+  {
+    "name": "Phantom_hms",
+    "path": "/home/lala_02/Phantom_hms",
+    "is_git": true,
+    "title": "# Phantom_hms",
+    "description_snippet": "",
+    "stack": [],
+    "remote": "https://github.com/Olalolo22/Phantom_hms.git",
+    "branch": "main",
+    "total_commits": 2,
+    "user_commits": 2,
+    "other_commits": 0,
+    "first_commit": "f1fb07e|2025-11-29|Initial commit",
+    "latest_commit": "4ce6170|2026-06-24|major dump and clearing space tbh",
+    "is_dirty": false,
+    "collaborators": [],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "ProofPass",
+    "path": "/home/lala_02/ProofPass",
+    "is_git": true,
+    "title": "# ProofPass \u2014 ZK Accredited Investor Gate",
+    "description_snippet": "Zero-knowledge proof system allowing investors to prove SEC accredited status (net worth > $1M excluding primary residence) from a DocuSign-signed CPA attestation PDF, without revealing the document. ",
+    "stack": [],
+    "remote": "https://github.com/Jaydearcadian/ProofPass.git",
+    "branch": "main",
+    "total_commits": 24,
+    "user_commits": 20,
+    "other_commits": 4,
+    "first_commit": "51808c4|2026-06-25|docs: initial project setup and README",
+    "latest_commit": "703918c|2026-07-03|chore: Finalize project for submission",
+    "is_dirty": true,
+    "collaborators": [
+      "jaydearcadian"
+    ],
+    "branches": [
+      "feat/noir-ultrahonk-soroban-gate",
+      "main"
+    ]
+  },
+  {
+    "name": "Ragent",
+    "path": "/home/lala_02/Ragent",
+    "is_git": true,
+    "title": "# Ragent \u2014 AI agents hiring AI agents.",
+    "description_snippet": "**The trustless negotiation and settlement layer for the agentic economy.**",
+    "stack": [],
+    "remote": "https://github.com/Olalolo22/Ragent.git",
+    "branch": "fix/vercel-500-errors",
+    "total_commits": 75,
+    "user_commits": 75,
+    "other_commits": 0,
+    "first_commit": "6b91884|2026-07-03|docs: Initial project setup and README",
+    "latest_commit": "f8cce71|2026-09-03|docs(roadmap): add autonomous external agents implementation plan",
+    "is_dirty": true,
+    "collaborators": [],
+    "branches": [
+      "fix/vercel-500-errors",
+      "main",
+      "ui_v2"
+    ]
+  },
+  {
+    "name": "SJ_consulting",
+    "path": "/home/lala_02/SJ_consulting",
+    "is_git": true,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [
+      "Supabase"
+    ],
+    "remote": "git@github.com:WebDevConstruct/SJ_consulting.git",
+    "branch": "main",
+    "total_commits": 32,
+    "user_commits": 32,
+    "other_commits": 0,
+    "first_commit": "4d3c0b4|2026-09-23|feat: initial backend foundation",
+    "latest_commit": "42af5cf|2026-10-01|feat(admin): add department deliverables tracking and CEO-governed staff payroll workflows",
+    "is_dirty": true,
+    "collaborators": [],
+    "branches": [
+      "feat/frontend-integration",
+      "main"
+    ]
+  },
+  {
+    "name": "Sentinel",
+    "path": "/home/lala_02/Sentinel",
+    "is_git": true,
+    "title": "<p align=\"center\">",
+    "description_snippet": "<img src=\"logo.png\" alt=\"Sentinel Logo\" width=\"200\"/>",
+    "stack": [
+      "Node/TS"
+    ],
+    "remote": "https://github.com/Olalolo22/Sentinel.git",
+    "branch": "main",
+    "total_commits": 50,
+    "user_commits": 46,
+    "other_commits": 4,
+    "first_commit": "99ec748|2026-07-14|Day 1: monorepo scaffold, Stage 0 normalization + 48 tests, DB schema, Redis client, ed25519 signing, /v1/health",
+    "latest_commit": "81af72f|2026-08-04|url set",
+    "is_dirty": false,
+    "collaborators": [
+      "SAVAGE"
+    ],
+    "branches": [
+      "feat/landing-page",
+      "main"
+    ]
+  },
+  {
+    "name": "Stellar-iPredict",
+    "path": "/home/lala_02/Stellar-iPredict",
+    "is_git": true,
+    "title": "<p align=\"center\">",
+    "description_snippet": "<img src=\"frontend/public/logo.png\" width=\"96\" height=\"96\" alt=\"iPredict logo\" />",
+    "stack": [
+      "Node/TS",
+      "Makefile/C"
+    ],
+    "remote": "git@github.com:Olalolo22/Stellar-iPredict.git",
+    "branch": "test/issue-541-oracle-lifecycle-e2e",
+    "total_commits": 536,
+    "user_commits": 3,
+    "other_commits": 533,
+    "first_commit": "aea0b67|2026-02-27|chore: initialize repo with project docs and gitignore",
+    "latest_commit": "d8f8edf|2026-09-30|fix(ci): renumber markets sort migration to 0029, sync schema snapshot, and update brace-expansion",
+    "is_dirty": false,
+    "collaborators": [
+      "0takuc0mrade",
+      "0xMegie",
+      "0xblackadam",
+      "0xsteins",
+      "Abdulganiyyu Mustapha Muhammad"
+    ],
+    "branches": [
+      "docs/issue-538-contract-upgrade-storage-compatibility",
+      "implementation-drips",
+      "test/issue-541-oracle-lifecycle-e2e",
+      "test/route-auth-registry-548"
+    ]
+  },
+  {
+    "name": "Stellarlend-frontend",
+    "path": "/home/lala_02/Stellarlend-frontend",
+    "is_git": true,
+    "title": "# Stellarlend",
+    "description_snippet": "**Fast & Secure DeFi Lending on Stellar**",
+    "stack": [
+      "Node/TS"
+    ],
+    "remote": "git@github.com:Olalolo22/Stellarlend-frontend.git",
+    "branch": "test/issue-1552-pageheader-stories-boundary",
+    "total_commits": 953,
+    "user_commits": 1,
+    "other_commits": 952,
+    "first_commit": "1201390|2025-03-22|init",
+    "latest_commit": "c5e12b7|2026-09-30|test(common): add failure-path and boundary coverage for PageHeader.stories.tsx (#1552)",
+    "is_dirty": false,
+    "collaborators": [
+      "1nonlypiece",
+      "Abdul Omeiza",
+      "Abdul-dev-creator",
+      "AbdulAwwal",
+      "AbdulCoderr"
+    ],
+    "branches": [
+      "main",
+      "test/issue-1552-pageheader-stories-boundary",
+      "test/issue-1564-navbar-failure-boundary"
+    ]
+  },
+  {
+    "name": "Task2-practice",
+    "path": "/home/lala_02/Task2-practice",
+    "is_git": false,
+    "title": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefe",
+    "description_snippet": "![School of Solana](https://github.com/Ackee-Blockchain/school-of-solana/blob/master/.banner/banner.png?raw=true)",
+    "stack": [
+      "Rust/Cargo"
+    ],
+    "file_count": 9,
+    "sample_files": [
+      "src",
+      "Cargo.lock",
+      "Cargo.toml",
+      "README.md",
+      "rust-toolchain.toml",
+      "src/calculator.rs",
+      "src/shapes.rs",
+      "src/tests.rs"
+    ]
+  },
+  {
+    "name": "UnderSeal",
+    "path": "/home/lala_02/UnderSeal",
+    "is_git": true,
+    "title": "# UnderSeal \u2014 Confidential Underwriting for On-Chain Credit",
+    "description_snippet": "> **Borrowers prove they qualify for a loan without revealing their financial data. Lenders receive only a verified risk tier.**",
+    "stack": [],
+    "remote": "https://github.com/Olalolo22/UnderSeal.git",
+    "branch": "main",
+    "total_commits": 5,
+    "user_commits": 5,
+    "other_commits": 0,
+    "first_commit": "352f410|2026-07-19|Initial commit: Midnight Compact contracts and Next.js frontend base",
+    "latest_commit": "56f2596|2026-07-19|docs: polished hackathon README",
+    "is_dirty": true,
+    "collaborators": [],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "Veridian",
+    "path": "/home/lala_02/Veridian",
+    "is_git": false,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [],
+    "file_count": 0,
+    "sample_files": []
+  },
+  {
+    "name": "Vicar",
+    "path": "/home/lala_02/Vicar",
+    "is_git": true,
+    "title": "# Vicar",
+    "description_snippet": "",
+    "stack": [
+      "Python"
+    ],
+    "remote": "https://github.com/Cavista-Hackathon-2025/Vicar.git",
+    "branch": "main",
+    "total_commits": 11,
+    "user_commits": 11,
+    "other_commits": 0,
+    "first_commit": "d0a5f14|2025-02-22|Initial commit",
+    "latest_commit": "20ce65d|2025-02-23|Moved files",
+    "is_dirty": true,
+    "collaborators": [],
+    "branches": [
+      "dev",
+      "main",
+      "vicar-api"
+    ]
+  },
+  {
+    "name": "aegis-ledger",
+    "path": "/home/lala_02/aegis-ledger",
+    "is_git": true,
+    "title": "# Aegis \u2014 Private USDC Payroll for Solana Teams",
+    "description_snippet": "> Pay your contributors, contractors, and agencies in USDC without doxxing individual salaries on Solscan.",
+    "stack": [
+      "Node/TS",
+      "Supabase"
+    ],
+    "remote": "git@github.com:Olalolo22/aegis-ledger.git",
+    "branch": "feat/colosseum-usdc-payroll",
+    "total_commits": 45,
+    "user_commits": 45,
+    "other_commits": 0,
+    "first_commit": "e81a7bd|2026-04-26|checkpoint: stable custodial backend before zero-trust refactor",
+    "latest_commit": "4c73900|2026-09-24|fix(payroll): resolve TEE batch failures, address curve validation, and Buffer polyfills",
+    "is_dirty": true,
+    "collaborators": [],
+    "branches": [
+      "feat/colosseum-usdc-payroll",
+      "feature/zero-trust-refactor",
+      "magic-mvp"
+    ]
+  },
+  {
+    "name": "agent-challenge-readlater",
+    "path": "/home/lala_02/agent-challenge-readlater",
+    "is_git": true,
+    "title": "# Nosana x ElizaOS Agent Challenge",
+    "description_snippet": "![ElizaOS](./assets/NosanaXEliza.jpg)",
+    "stack": [
+      "Node/TS"
+    ],
+    "remote": "https://github.com/Olalolo22/agent-challenge.git",
+    "branch": "main",
+    "total_commits": 156,
+    "user_commits": 0,
+    "other_commits": 156,
+    "first_commit": "239fce2|2025-06-17|Init Mastra",
+    "latest_commit": "8adcc12|2026-04-01|Add embedding config to readme",
+    "is_dirty": true,
+    "collaborators": [
+      "David Britt",
+      "KeesGeerligs",
+      "Yogesh Khutwad"
+    ],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "agent-challenge-t",
+    "path": "/home/lala_02/agent-challenge-t",
+    "is_git": true,
+    "title": "# Nosana x ElizaOS Agent Challenge",
+    "description_snippet": "![ElizaOS](./assets/NosanaXEliza.jpg)",
+    "stack": [
+      "Node/TS"
+    ],
+    "remote": "https://github.com/Olalolo22/agent-challenge-fin.git",
+    "branch": "main",
+    "total_commits": 156,
+    "user_commits": 0,
+    "other_commits": 156,
+    "first_commit": "239fce2|2025-06-17|Init Mastra",
+    "latest_commit": "8adcc12|2026-04-01|Add embedding config to readme",
+    "is_dirty": true,
+    "collaborators": [
+      "David Britt",
+      "KeesGeerligs",
+      "Yogesh Khutwad"
+    ],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "agent-challenge-wealth",
+    "path": "/home/lala_02/agent-challenge-wealth",
+    "is_git": true,
+    "title": "# Nosana x ElizaOS Agent Challenge",
+    "description_snippet": "![ElizaOS](./assets/NosanaXEliza.jpg)",
+    "stack": [
+      "Node/TS"
+    ],
+    "remote": "https://github.com/Olalolo22/agent-challenge-wealth.git",
+    "branch": "main",
+    "total_commits": 156,
+    "user_commits": 0,
+    "other_commits": 156,
+    "first_commit": "239fce2|2025-06-17|Init Mastra",
+    "latest_commit": "8adcc12|2026-04-01|Add embedding config to readme",
+    "is_dirty": false,
+    "collaborators": [
+      "David Britt",
+      "KeesGeerligs",
+      "Yogesh Khutwad"
+    ],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "alx-higher_level_programming",
+    "path": "/home/lala_02/alx-higher_level_programming",
+    "is_git": true,
+    "title": "This repo deals with high-level languages learnt during tasks",
+    "description_snippet": "",
+    "stack": [],
+    "remote": "https://github.com/Olalolo22/alx-higher_level_programming.git",
+    "branch": "main",
+    "total_commits": 12,
+    "user_commits": 12,
+    "other_commits": 0,
+    "first_commit": "1517408|2024-09-27|Added a script that runs a pyhton script and added the main file",
+    "latest_commit": "e61af4a|2025-06-02|Mass pushing",
+    "is_dirty": false,
+    "collaborators": [],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "alx-low_level_programming",
+    "path": "/home/lala_02/alx-low_level_programming",
+    "is_git": true,
+    "title": "readme for low-level language",
+    "description_snippet": "",
+    "stack": [],
+    "remote": "https://github.com/Olalolo22/alx-low_level_programming.git",
+    "branch": "master",
+    "total_commits": 69,
+    "user_commits": 69,
+    "other_commits": 0,
+    "first_commit": "825c04b|2023-12-16|preprocessor",
+    "latest_commit": "d2bfb59|2025-04-18|Weird display",
+    "is_dirty": true,
+    "collaborators": [],
+    "branches": [
+      "master"
+    ]
+  },
+  {
+    "name": "alx-polly",
+    "path": "/home/lala_02/alx-polly",
+    "is_git": true,
+    "title": "# ALX Polly: A Polling Application",
+    "description_snippet": "Welcome to ALX Polly, a full-stack polling application built with Next.js, TypeScript, and Supabase. This project serves as a practical learning ground for modern web development concepts, with a spec",
+    "stack": [
+      "Node/TS"
+    ],
+    "remote": "https://github.com/Olalolo22/alx-polly.git",
+    "branch": "main",
+    "total_commits": 4,
+    "user_commits": 0,
+    "other_commits": 4,
+    "first_commit": "ff1b489|2025-07-25|Create repo and add readme.MD",
+    "latest_commit": "20085bc|2025-07-25|deletion",
+    "is_dirty": false,
+    "collaborators": [
+      "Danson"
+    ],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "alx-polly2",
+    "path": "/home/lala_02/alx-polly2",
+    "is_git": true,
+    "title": "zero_day",
+    "description_snippet": "",
+    "stack": [],
+    "remote": "https://github.com/Olalolo22/alx-polly2.git",
+    "branch": "main",
+    "total_commits": 10,
+    "user_commits": 10,
+    "other_commits": 0,
+    "first_commit": "39b5007|2023-05-09|My first commit",
+    "latest_commit": "08bfaad|2025-09-07|Tests produced",
+    "is_dirty": true,
+    "collaborators": [],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "chat_backend",
+    "path": "/home/lala_02/chat_backend",
+    "is_git": false,
+    "title": "Ask copilot if auth.py file or any other file aligns with whatsapp's backend services but with a smaller user base(<500>",
+    "description_snippet": "ask if each file is secure",
+    "stack": [
+      "Python"
+    ],
+    "file_count": 31,
+    "sample_files": [
+      ".vscode",
+      "README.md",
+      ".env",
+      "requirements.txt",
+      "app",
+      ".vscode/settings.json",
+      "app/init_db.py",
+      "app/config.py"
+    ]
+  },
+  {
+    "name": "count_pgm",
+    "path": "/home/lala_02/count_pgm",
+    "is_git": true,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [
+      "Rust/Cargo"
+    ],
+    "remote": "No remote",
+    "branch": "HEAD",
+    "total_commits": 0,
+    "user_commits": 0,
+    "other_commits": 0,
+    "first_commit": "",
+    "latest_commit": "",
+    "is_dirty": true,
+    "collaborators": [],
+    "branches": []
+  },
+  {
+    "name": "example-zkloan",
+    "path": "/home/lala_02/example-zkloan",
+    "is_git": true,
+    "title": "# The ZK Loan credit scorer dapp",
+    "description_snippet": "**Attribution: This project is built on the Midnight Network.**",
+    "stack": [
+      "Node/TS"
+    ],
+    "remote": "https://github.com/midnightntwrk/example-zkloan.git",
+    "branch": "main",
+    "total_commits": 71,
+    "user_commits": 0,
+    "other_commits": 71,
+    "first_commit": "a2e3e3d|2026-02-22|Initial commit",
+    "latest_commit": "a0846fd|2026-07-17|Merge pull request #39 from midnightntwrk/chore/compat-matrix-alignment",
+    "is_dirty": true,
+    "collaborators": [
+      "Adam Reynolds",
+      "Chris Ferry",
+      "Giles Cope",
+      "Hector Bulgarini",
+      "Idris Olubisi"
+    ],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "finsa-directus-backend",
+    "path": "/home/lala_02/finsa-directus-backend",
+    "is_git": true,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [],
+    "remote": "https://github.com/FINSA-TECH-ORG/Finsa-directus-backend.git",
+    "branch": "main",
+    "total_commits": 1,
+    "user_commits": 1,
+    "other_commits": 0,
+    "first_commit": "f409f35|2026-05-25|initial commit: directus backend configured for railway deployment with automated bootstrap, schema apply, and hardened permissions",
+    "latest_commit": "f409f35|2026-05-25|initial commit: directus backend configured for railway deployment with automated bootstrap, schema apply, and hardened permissions",
+    "is_dirty": false,
+    "collaborators": [],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "finsa_backend",
+    "path": "/home/lala_02/finsa_backend",
+    "is_git": true,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [
+      "Python"
+    ],
+    "remote": "No remote",
+    "branch": "HEAD",
+    "total_commits": 0,
+    "user_commits": 0,
+    "other_commits": 0,
+    "first_commit": "",
+    "latest_commit": "",
+    "is_dirty": true,
+    "collaborators": [],
+    "branches": []
+  },
+  {
+    "name": "finsa_backend2",
+    "path": "/home/lala_02/finsa_backend2",
+    "is_git": false,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [],
+    "file_count": 0,
+    "sample_files": []
+  },
+  {
+    "name": "fizz_bz",
+    "path": "/home/lala_02/fizz_bz",
+    "is_git": true,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [
+      "Rust/Cargo"
+    ],
+    "remote": "No remote",
+    "branch": "HEAD",
+    "total_commits": 0,
+    "user_commits": 0,
+    "other_commits": 0,
+    "first_commit": "",
+    "latest_commit": "",
+    "is_dirty": true,
+    "collaborators": [],
+    "branches": []
+  },
+  {
+    "name": "harvest",
+    "path": "/home/lala_02/harvest",
+    "is_git": true,
+    "title": "# \ud83c\udf3e Harvest",
+    "description_snippet": "> **Automated Covered-Call Yield Vaults for Tokenized Equities on Solana**",
+    "stack": [
+      "Rust/Cargo",
+      "Solana/Anchor",
+      "Node/TS"
+    ],
+    "remote": "git@github.com:Olalolo22/harvest.git",
+    "branch": "main",
+    "total_commits": 45,
+    "user_commits": 45,
+    "other_commits": 0,
+    "first_commit": "ce82f1d|2026-09-15|chore: anchor init scaffold + devnet config",
+    "latest_commit": "39f1afc|2026-09-26|style: restore signature Harvest wheat emoji to brand headers and empty state",
+    "is_dirty": true,
+    "collaborators": [],
+    "branches": [
+      "design-v2",
+      "main",
+      "v0/harvest-ui"
+    ]
+  },
+  {
+    "name": "mb_ideas",
+    "path": "/home/lala_02/mb_ideas",
+    "is_git": false,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [],
+    "file_count": 1,
+    "sample_files": [
+      "WHAT_TO_BUILD.md"
+    ]
+  },
+  {
+    "name": "meridian",
+    "path": "/home/lala_02/meridian",
+    "is_git": true,
+    "title": "# Meridian",
+    "description_snippet": "**Stablecoin yield aggregator on Stellar, built for emerging market savers.**",
+    "stack": [
+      "Node/TS"
+    ],
+    "remote": "https://github.com/drydocs/meridian.git",
+    "branch": "fix/issue-554",
+    "total_commits": 643,
+    "user_commits": 0,
+    "other_commits": 643,
+    "first_commit": "5d13e62|2026-04-17|feat: initial project scaffold",
+    "latest_commit": "05b251e|2026-08-30|fix(contracts): error on malformed DeFindex valuation, add vault zero-assets backstop",
+    "is_dirty": false,
+    "collaborators": [
+      "AYo101o",
+      "Aakriti Arya",
+      "Abdussalam Abdulmujeeb Mujahid",
+      "Adefokun Adeoluwa",
+      "Ayinkx"
+    ],
+    "branches": [
+      "fix/issue-554",
+      "main"
+    ]
+  },
+  {
+    "name": "prac_01",
+    "path": "/home/lala_02/prac_01",
+    "is_git": true,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [
+      "Rust/Cargo"
+    ],
+    "remote": "No remote",
+    "branch": "HEAD",
+    "total_commits": 0,
+    "user_commits": 0,
+    "other_commits": 0,
+    "first_commit": "",
+    "latest_commit": "",
+    "is_dirty": true,
+    "collaborators": [],
+    "branches": []
+  },
+  {
+    "name": "practice-C",
+    "path": "/home/lala_02/practice-C",
+    "is_git": false,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [
+      "C"
+    ],
+    "file_count": 2,
+    "sample_files": [
+      "well.C",
+      "11-print_to.c"
+    ]
+  },
+  {
+    "name": "program-Olalolo22",
+    "path": "/home/lala_02/program-Olalolo22",
+    "is_git": true,
+    "title": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefe",
+    "description_snippet": "![School of Solana](https://github.com/Ackee-Blockchain/school-of-solana/blob/master/.banner/banner.png?raw=true)",
+    "stack": [],
+    "remote": "https://github.com/School-of-Solana/program-Olalolo22.git",
+    "branch": "solution",
+    "total_commits": 3,
+    "user_commits": 3,
+    "other_commits": 0,
+    "first_commit": "ba9222c|2025-11-25|Final Submission",
+    "latest_commit": "dde9128|2025-11-25|good fix",
+    "is_dirty": false,
+    "collaborators": [],
+    "branches": [
+      "clean_submission",
+      "main",
+      "solution"
+    ]
+  },
+  {
+    "name": "program-Olalolo22-copy",
+    "path": "/home/lala_02/program-Olalolo22-copy",
+    "is_git": true,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [],
+    "remote": "https://github.com/School-of-Solana/program-Olalolo22.git",
+    "branch": "clean_submission",
+    "total_commits": 2,
+    "user_commits": 2,
+    "other_commits": 0,
+    "first_commit": "ba9222c|2025-11-25|Final Submission",
+    "latest_commit": "95c5f2a|2025-11-25|Final Submission Light",
+    "is_dirty": true,
+    "collaborators": [],
+    "branches": [
+      "clean_submission",
+      "main"
+    ]
+  },
+  {
+    "name": "rescue",
+    "path": "/home/lala_02/rescue",
+    "is_git": true,
+    "title": "# Rescue Protocol",
+    "description_snippet": "**A pre-liquidation intervention primitive for Solana.**",
+    "stack": [
+      "Node/TS"
+    ],
+    "remote": "git@github.com:Olalolo22/rescue.git",
+    "branch": "main",
+    "total_commits": 34,
+    "user_commits": 34,
+    "other_commits": 0,
+    "first_commit": "669c174|2026-09-06|feat: initial rescue architecture, brainstorm, and milestone 0 verification suite",
+    "latest_commit": "aa6d6b2|2026-09-10|chore(config): configure devnet cluster and portable wallet path in rescue-protocol",
+    "is_dirty": true,
+    "collaborators": [],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "rescue2",
+    "path": "/home/lala_02/rescue2",
+    "is_git": true,
+    "title": "# Rescue Protocol",
+    "description_snippet": "**A pre-liquidation intervention primitive for Solana.**",
+    "stack": [
+      "Node/TS"
+    ],
+    "remote": "git@github.com:Olalolo22/rescue2.git",
+    "branch": "main",
+    "total_commits": 27,
+    "user_commits": 16,
+    "other_commits": 11,
+    "first_commit": "035674f|2026-09-07|Initial commit from v0",
+    "latest_commit": "fa54b9d|2026-09-10|docs: update README with hackathon-winning architecture, live telemetry, and benchmark proofs",
+    "is_dirty": false,
+    "collaborators": [
+      "v0",
+      "vercel[bot]"
+    ],
+    "branches": [
+      "main",
+      "mbv2",
+      "v0/rescue-protocol-3-97c63b70"
+    ]
+  },
+  {
+    "name": "routedock",
+    "path": "/home/lala_02/routedock",
+    "is_git": true,
+    "title": "# RouteDock",
+    "description_snippet": "**Unified payment execution layer for autonomous agents on Stellar**",
+    "stack": [
+      "Node/TS",
+      "Supabase"
+    ],
+    "remote": "git@github.com:Olalolo22/routedock.git",
+    "branch": "fix/issue-371-mainnet-deployment-docs",
+    "total_commits": 429,
+    "user_commits": 35,
+    "other_commits": 394,
+    "first_commit": "e6bc7ea|2026-04-13|RouteDock: unified payment execution layer for Stellar agents",
+    "latest_commit": "b32ecc1|2026-09-30|docs: add --source-account to vault read-backs and native XLM sweep to emergency response",
+    "is_dirty": false,
+    "collaborators": [
+      "Akpolo Ogagaoghene Prince",
+      "Aman Koli",
+      "Ayomide",
+      "BOA",
+      "Bernard.O"
+    ],
+    "branches": [
+      "feat/issue-162-handlers",
+      "fix/issue-209",
+      "fix/issue-210",
+      "fix/issue-220",
+      "fix/issue-223",
+      "fix/issue-311-fastify-reply-hijack",
+      "fix/issue-313-vault-constructor",
+      "fix/issue-345-stale-docs-page",
+      "fix/issue-371-mainnet-deployment-docs",
+      "main"
+    ]
+  },
+  {
+    "name": "rst01",
+    "path": "/home/lala_02/rst01",
+    "is_git": false,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [],
+    "file_count": 1,
+    "sample_files": [
+      ".main.rs.swp"
+    ]
+  },
+  {
+    "name": "rugroll",
+    "path": "/home/lala_02/rugroll",
+    "is_git": true,
+    "title": "# \ud83d\udc80 RugRoll \u2014 Provably Fair Crash Game on MagicBlock Ephemeral Rollups",
+    "description_snippet": "> **\ud83c\udf10 Live App:** [https://rugroll-nine.vercel.app](https://rugroll-nine.vercel.app) \u00b7 **\ud83c\udfae Live Arena:** [https://rugroll-nine.vercel.app/game](https://rugroll-nine.vercel.app/game)",
+    "stack": [
+      "Rust/Cargo",
+      "Solana/Anchor"
+    ],
+    "remote": "git@github.com:Olalolo22/rugroll.git",
+    "branch": "feat/onchain-er",
+    "total_commits": 12,
+    "user_commits": 12,
+    "other_commits": 0,
+    "first_commit": "70f2233|2026-09-05|feat: initial RugRoll scaffold",
+    "latest_commit": "3bf1509|2026-09-10|perf(cargo): optimize release profile for cloud shell memory constraints (disable fat lto)",
+    "is_dirty": false,
+    "collaborators": [],
+    "branches": [
+      "feat/onchain-er",
+      "main"
+    ]
+  },
+  {
+    "name": "rust-crash-course",
+    "path": "/home/lala_02/rust-crash-course",
+    "is_git": true,
+    "title": "# Rust Crash Course",
+    "description_snippet": "[contributors-shield]: https://img.shields.io/github/contributors/cyfrin/rust-crash-course.svg?style=for-the-badge",
+    "stack": [],
+    "remote": "https://github.com/Cyfrin/rust-crash-course.git",
+    "branch": "main",
+    "total_commits": 142,
+    "user_commits": 0,
+    "other_commits": 142,
+    "first_commit": "f0d5312|2025-05-26|Initial commit",
+    "latest_commit": "19ea665|2025-10-13|Merge pull request #13 from Danziger/patch-1",
+    "is_dirty": true,
+    "collaborators": [
+      "0xRektified",
+      "Dani G\u00e1mez Franco",
+      "Yashwanth Sai Sollu",
+      "t4sk",
+      "tsk"
+    ],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "sekured-realestate",
+    "path": "/home/lala_02/sekured-realestate",
+    "is_git": true,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [
+      "Node/TS"
+    ],
+    "remote": "git@github.com:Olalolo22/sekured-realestate.git",
+    "branch": "main",
+    "total_commits": 10,
+    "user_commits": 10,
+    "other_commits": 0,
+    "first_commit": "252def6|2026-09-03|feat: initial prototype for SEKURED Real Estate Group & Belmont Residence",
+    "latest_commit": "6a8126c|2026-09-03|redesign(mobile): replace nested cards with clean borderless mobile floorplan visualizer and fintech timeline",
+    "is_dirty": false,
+    "collaborators": [],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "target",
+    "path": "/home/lala_02/target",
+    "is_git": false,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [],
+    "file_count": 0,
+    "sample_files": []
+  },
+  {
+    "name": "welcome-to-docker",
+    "path": "/home/lala_02/welcome-to-docker",
+    "is_git": true,
+    "title": "# Welcome to Docker",
+    "description_snippet": "This is a repo for new users getting started with Docker.",
+    "stack": [
+      "Node/TS"
+    ],
+    "remote": "https://github.com/docker/welcome-to-docker.git",
+    "branch": "main",
+    "total_commits": 24,
+    "user_commits": 0,
+    "other_commits": 24,
+    "first_commit": "c843665|2023-02-24|Initial commit",
+    "latest_commit": "373269c|2023-11-13|Add user config for automated merge. (#25)",
+    "is_dirty": false,
+    "collaborators": [
+      "Cody Rigney",
+      "Nuno Cora\u00e7\u00e3o",
+      "marisimon"
+    ],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "wetty",
+    "path": "/home/lala_02/wetty",
+    "is_git": true,
+    "title": "# WeTTY = Web + TTY.",
+    "description_snippet": "<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->",
+    "stack": [
+      "Node/TS"
+    ],
+    "remote": "https://github.com/butlerx/wetty.git",
+    "branch": "main",
+    "total_commits": 517,
+    "user_commits": 0,
+    "other_commits": 517,
+    "first_commit": "4deed78|2014-03-29|Initial commit",
+    "latest_commit": "643e88b|2024-07-20|Use esbuild Instead of Snowpack (and fix build error) (#530)",
+    "is_dirty": true,
+    "collaborators": [
+      "Aayush Garg-gamer1478",
+      "Alex Cline",
+      "Andreas Kloeckner",
+      "Anthony Jund",
+      "Antonio Calatrava"
+    ],
+    "branches": [
+      "main"
+    ]
+  },
+  {
+    "name": "yinka-fashion",
+    "path": "/home/lala_02/yinka-fashion",
+    "is_git": true,
+    "title": "No README",
+    "description_snippet": "",
+    "stack": [
+      "Node/TS"
+    ],
+    "remote": "git@github.com:Olalolo22/yinka-fashion.git",
+    "branch": "main",
+    "total_commits": 4,
+    "user_commits": 4,
+    "other_commits": 0,
+    "first_commit": "799603e|2026-09-03|feat: initial prototype for Yinka's Fashion Brand",
+    "latest_commit": "30374eb|2026-09-03|brand: add real Yinkianny Stitches SVG logo (dress+hanger icon, pink+gold), update brand name and colors",
+    "is_dirty": false,
+    "collaborators": [],
+    "branches": [
+      "main"
+    ]
+  }
+]

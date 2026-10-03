@@ -1,0 +1,3701 @@
+{
+  "Ackee_001": {
+    "remotes": {
+      "origin": "https://github.com/Olalolo22/Ackee_001.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "main": {
+        "total_user_commits_in_history": 3,
+        "latest_user_commit": {
+          "sha": "3f68a7c",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-12-03",
+          "message": "Readme's"
+        },
+        "divergence": {}
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 3,
+        "latest_user_commit": {
+          "sha": "3f68a7c",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-12-03",
+          "message": "Readme's"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "Aurelia-analyzer": {
+    "remotes": {
+      "origin": "https://github.com/Olalolo22/Aurelia-analyzer.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "main": {
+        "total_user_commits_in_history": 2,
+        "latest_user_commit": {
+          "sha": "d62ebec",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-09-13",
+          "message": "Dummy data for the tool and plot saving"
+        },
+        "divergence": {}
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 2,
+        "latest_user_commit": {
+          "sha": "d62ebec",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-09-13",
+          "message": "Dummy data for the tool and plot saving"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "Contd_Practice": {
+    "remotes": {
+      "origin": "https://github.com/Olalolo22/Contd_Practice.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "main": {
+        "total_user_commits_in_history": 10,
+        "latest_user_commit": {
+          "sha": "2b8acd4",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2024-12-17",
+          "message": "New project"
+        },
+        "divergence": {}
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 10,
+        "latest_user_commit": {
+          "sha": "2b8acd4",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2024-12-17",
+          "message": "New project"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "Converge": {
+    "remotes": {
+      "origin": "https://github.com/Olalolo22/Converge.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "main": {
+        "total_user_commits_in_history": 14,
+        "latest_user_commit": {
+          "sha": "74b3b07",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-08-08",
+          "message": "docs: add technical roadmap for post-hackathon"
+        },
+        "divergence": {}
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 14,
+        "latest_user_commit": {
+          "sha": "74b3b07",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-08-08",
+          "message": "docs: add technical roadmap for post-hackathon"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "Credence-Contracts": {
+    "remotes": {
+      "origin": "git@github.com:Olalolo22/Credence-Contracts.git",
+      "upstream": "https://github.com/CredenceOrg/Credence-Contracts.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "test/issue-1313-cost-benchmark-boundary-recovery": {
+        "total_user_commits_in_history": 1,
+        "latest_user_commit": {
+          "sha": "613b7294b",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-30",
+          "message": "test(credence_bond): add boundary and recovery test coverage for cost.rs (#1313)"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 1,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "613b7294b",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-30",
+              "message": "test(credence_bond): add boundary and recovery test coverage for cost.rs (#1313)"
+            }
+          ],
+          "diff_summary": " 4 files changed, 1316 insertions(+), 39 deletions(-)"
+        }
+      },
+      "origin/test/issue-1313-cost-benchmark-boundary-recovery": {
+        "total_user_commits_in_history": 1,
+        "latest_user_commit": {
+          "sha": "613b7294b",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-30",
+          "message": "test(credence_bond): add boundary and recovery test coverage for cost.rs (#1313)"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 1,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "613b7294b",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-30",
+              "message": "test(credence_bond): add boundary and recovery test coverage for cost.rs (#1313)"
+            }
+          ],
+          "diff_summary": " 4 files changed, 1316 insertions(+), 39 deletions(-)"
+        }
+      }
+    }
+  },
+  "Disciplr-backend": {
+    "remotes": {
+      "origin": "git@github.com:Olalolo22/Disciplr-backend.git",
+      "upstream": "https://github.com/Disciplr-Org/Disciplr-backend.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "fix/issue-1652-oauth-jwt-secret": {
+        "total_user_commits_in_history": 1,
+        "latest_user_commit": {
+          "sha": "94880da",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-28",
+          "message": "fix(oauth): eliminate insecure JWT_SECRET fallback and enforce fail-closed in production"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 1,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "94880da",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-28",
+              "message": "fix(oauth): eliminate insecure JWT_SECRET fallback and enforce fail-closed in production"
+            }
+          ],
+          "diff_summary": " 4 files changed, 347 insertions(+), 30 deletions(-)"
+        }
+      },
+      "origin/fix/issue-1652-oauth-jwt-secret": {
+        "total_user_commits_in_history": 1,
+        "latest_user_commit": {
+          "sha": "94880da",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-28",
+          "message": "fix(oauth): eliminate insecure JWT_SECRET fallback and enforce fail-closed in production"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 1,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "94880da",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-28",
+              "message": "fix(oauth): eliminate insecure JWT_SECRET fallback and enforce fail-closed in production"
+            }
+          ],
+          "diff_summary": " 4 files changed, 347 insertions(+), 30 deletions(-)"
+        }
+      }
+    }
+  },
+  "FirstChatBck": {
+    "remotes": {
+      "origin": "https://github.com/FirstChatOrg/FirstChatBck.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "main": {
+        "total_user_commits_in_history": 2,
+        "latest_user_commit": {
+          "sha": "23323a3",
+          "author": "Olalolo22 <116976810+Olalolo22@users.noreply.github.com>",
+          "date": "2025-06-30",
+          "message": "Update README.md"
+        },
+        "divergence": {}
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 2,
+        "latest_user_commit": {
+          "sha": "23323a3",
+          "author": "Olalolo22 <116976810+Olalolo22@users.noreply.github.com>",
+          "date": "2025-06-30",
+          "message": "Update README.md"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "HNG13_0": {
+    "remotes": {
+      "origin": "https://github.com/Olalolo22/HNG13_0.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "main": {
+        "total_user_commits_in_history": 3,
+        "latest_user_commit": {
+          "sha": "44b69c0",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-10-19",
+          "message": "Updated Readme"
+        },
+        "divergence": {}
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 3,
+        "latest_user_commit": {
+          "sha": "44b69c0",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-10-19",
+          "message": "Updated Readme"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "HNG13_1": {
+    "remotes": {
+      "origin": "https://github.com/Olalolo22/HNG13_1.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "main": {
+        "total_user_commits_in_history": 3,
+        "latest_user_commit": {
+          "sha": "f84e9f0",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-10-21",
+          "message": "Created Procfile for Railway host"
+        },
+        "divergence": {}
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 3,
+        "latest_user_commit": {
+          "sha": "f84e9f0",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-10-21",
+          "message": "Created Procfile for Railway host"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "HNG13_2": {
+    "remotes": {
+      "origin": "https://github.com/Olalolo22/HNG13_2.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "main": {
+        "total_user_commits_in_history": 6,
+        "latest_user_commit": {
+          "sha": "a3902dc",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-10-28",
+          "message": "Fixed route order"
+        },
+        "divergence": {}
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 6,
+        "latest_user_commit": {
+          "sha": "a3902dc",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-10-28",
+          "message": "Fixed route order"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "HNG13_3_Agent": {
+    "remotes": {
+      "origin": "https://github.com/Olalolo22/HNG13_3_Agent.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "main": {
+        "total_user_commits_in_history": 9,
+        "latest_user_commit": {
+          "sha": "cead8be",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-11-09",
+          "message": "agentpy readdy"
+        },
+        "divergence": {}
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 9,
+        "latest_user_commit": {
+          "sha": "cead8be",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-11-09",
+          "message": "agentpy readdy"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "MarketPadi": {
+    "remotes": {
+      "origin": "git@github.com:MarketPadi-Org/MarketPadi.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "dev": {
+        "total_user_commits_in_history": 2,
+        "latest_user_commit": {
+          "sha": "9097fa6",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-01-15",
+          "message": "Initial repo structure"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 0,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "feature/project-setup": {
+        "total_user_commits_in_history": 7,
+        "latest_user_commit": {
+          "sha": "8df524e",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-01-19",
+          "message": " added complete auth and mvp scurity"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 5,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "8df524e",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-01-19",
+              "message": " added complete auth and mvp scurity"
+            },
+            {
+              "sha": "1a8f1f2",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-01-18",
+              "message": "added difft user profiles behaviour"
+            },
+            {
+              "sha": "5683fe4",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-01-18",
+              "message": "updated config and db files"
+            },
+            {
+              "sha": "b3b9364",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-01-17",
+              "message": "docker file and database setup files"
+            },
+            {
+              "sha": "6f4512b",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-01-17",
+              "message": "Added requiremnets.txt file"
+            }
+          ],
+          "diff_summary": " 19 files changed, 3888 insertions(+), 2 deletions(-)"
+        }
+      },
+      "main": {
+        "total_user_commits_in_history": 2,
+        "latest_user_commit": {
+          "sha": "9097fa6",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-01-15",
+          "message": "Initial repo structure"
+        },
+        "divergence": {}
+      },
+      "origin/dev": {
+        "total_user_commits_in_history": 2,
+        "latest_user_commit": {
+          "sha": "9097fa6",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-01-15",
+          "message": "Initial repo structure"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 0,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "origin/feature/project-setup": {
+        "total_user_commits_in_history": 7,
+        "latest_user_commit": {
+          "sha": "8df524e",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-01-19",
+          "message": " added complete auth and mvp scurity"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 5,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "8df524e",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-01-19",
+              "message": " added complete auth and mvp scurity"
+            },
+            {
+              "sha": "1a8f1f2",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-01-18",
+              "message": "added difft user profiles behaviour"
+            },
+            {
+              "sha": "5683fe4",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-01-18",
+              "message": "updated config and db files"
+            },
+            {
+              "sha": "b3b9364",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-01-17",
+              "message": "docker file and database setup files"
+            },
+            {
+              "sha": "6f4512b",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-01-17",
+              "message": "Added requiremnets.txt file"
+            }
+          ],
+          "diff_summary": " 19 files changed, 3888 insertions(+), 2 deletions(-)"
+        }
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 2,
+        "latest_user_commit": {
+          "sha": "9097fa6",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-01-15",
+          "message": "Initial repo structure"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "Mizan": {
+    "remotes": {
+      "origin": "https://github.com/Olalolo22/Mizan.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "fix/evm-sp1-proof": {
+        "total_user_commits_in_history": 28,
+        "latest_user_commit": {
+          "sha": "a36d590",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-07-13",
+          "message": "fix(zk): update public inputs padding and JSON format for EVM ABI compatibility"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 2,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "a36d590",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-07-13",
+              "message": "fix(zk): update public inputs padding and JSON format for EVM ABI compatibility"
+            },
+            {
+              "sha": "d689ef9",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-07-13",
+              "message": "fix: keep SP1 4-byte prefix in proof bytes for EVM Verifier"
+            }
+          ],
+          "diff_summary": " 3 files changed, 21 insertions(+), 160 deletions(-)"
+        }
+      },
+      "main": {
+        "total_user_commits_in_history": 26,
+        "latest_user_commit": {
+          "sha": "d2112d7",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-07-13",
+          "message": "chore: ignore technical debt doc"
+        },
+        "divergence": {}
+      },
+      "origin/fix/evm-sp1-proof": {
+        "total_user_commits_in_history": 28,
+        "latest_user_commit": {
+          "sha": "a36d590",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-07-13",
+          "message": "fix(zk): update public inputs padding and JSON format for EVM ABI compatibility"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 2,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "a36d590",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-07-13",
+              "message": "fix(zk): update public inputs padding and JSON format for EVM ABI compatibility"
+            },
+            {
+              "sha": "d689ef9",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-07-13",
+              "message": "fix: keep SP1 4-byte prefix in proof bytes for EVM Verifier"
+            }
+          ],
+          "diff_summary": " 3 files changed, 21 insertions(+), 160 deletions(-)"
+        }
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 25,
+        "latest_user_commit": {
+          "sha": "5e92ffd",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-07-12",
+          "message": "fix: cast eth_accounts to string[] to resolve Vercel TS build error"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "Phantom_hms": {
+    "remotes": {
+      "origin": "https://github.com/Olalolo22/Phantom_hms.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "main": {
+        "total_user_commits_in_history": 2,
+        "latest_user_commit": {
+          "sha": "4ce6170",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-06-24",
+          "message": "major dump and clearing space tbh"
+        },
+        "divergence": {}
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 2,
+        "latest_user_commit": {
+          "sha": "4ce6170",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-06-24",
+          "message": "major dump and clearing space tbh"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "ProofPass": {
+    "remotes": {
+      "jaydearcadian": "https://github.com/Jaydearcadian/ProofPass.git",
+      "origin": "https://github.com/Olalolo22/ProofPass"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "feat/noir-ultrahonk-soroban-gate": {
+        "total_user_commits_in_history": 9,
+        "latest_user_commit": {
+          "sha": "8b33b55",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-06-30",
+          "message": "docs: unignore and include mock attestation PDF to unblock partner proof generation"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 12,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "main": {
+        "total_user_commits_in_history": 20,
+        "latest_user_commit": {
+          "sha": "703918c",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-07-03",
+          "message": "chore: Finalize project for submission"
+        },
+        "divergence": {}
+      },
+      "jaydearcadian/feat/frontend-integration": {
+        "total_user_commits_in_history": 9,
+        "latest_user_commit": {
+          "sha": "8b33b55",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-06-30",
+          "message": "docs: unignore and include mock attestation PDF to unblock partner proof generation"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 11,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "jaydearcadian/feat/noir-ultrahonk-soroban-gate": {
+        "total_user_commits_in_history": 9,
+        "latest_user_commit": {
+          "sha": "8b33b55",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-06-30",
+          "message": "docs: unignore and include mock attestation PDF to unblock partner proof generation"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 12,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "jaydearcadian/main": {
+        "total_user_commits_in_history": 9,
+        "latest_user_commit": {
+          "sha": "8b33b55",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-06-30",
+          "message": "docs: unignore and include mock attestation PDF to unblock partner proof generation"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 15,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 20,
+        "latest_user_commit": {
+          "sha": "703918c",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-07-03",
+          "message": "chore: Finalize project for submission"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "Ragent": {
+    "remotes": {
+      "origin": "https://github.com/Olalolo22/Ragent.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "fix/vercel-500-errors": {
+        "total_user_commits_in_history": 75,
+        "latest_user_commit": {
+          "sha": "f8cce71",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-03",
+          "message": "docs(roadmap): add autonomous external agents implementation plan"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 0,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "main": {
+        "total_user_commits_in_history": 75,
+        "latest_user_commit": {
+          "sha": "f8cce71",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-03",
+          "message": "docs(roadmap): add autonomous external agents implementation plan"
+        },
+        "divergence": {}
+      },
+      "ui_v2": {
+        "total_user_commits_in_history": 67,
+        "latest_user_commit": {
+          "sha": "79cddeb",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-07-08",
+          "message": "docs: overhaul README with zero-custody architecture and roadmap links"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 8,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "origin/fix/vercel-500-errors": {
+        "total_user_commits_in_history": 75,
+        "latest_user_commit": {
+          "sha": "f8cce71",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-03",
+          "message": "docs(roadmap): add autonomous external agents implementation plan"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 0,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 75,
+        "latest_user_commit": {
+          "sha": "f8cce71",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-03",
+          "message": "docs(roadmap): add autonomous external agents implementation plan"
+        },
+        "divergence": {}
+      },
+      "origin/ui_v2": {
+        "total_user_commits_in_history": 67,
+        "latest_user_commit": {
+          "sha": "79cddeb",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-07-08",
+          "message": "docs: overhaul README with zero-custody architecture and roadmap links"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 8,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      }
+    }
+  },
+  "SJ_consulting": {
+    "remotes": {
+      "origin": "git@github.com:WebDevConstruct/SJ_consulting.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "feat/frontend-integration": {
+        "total_user_commits_in_history": 32,
+        "latest_user_commit": {
+          "sha": "42af5cf",
+          "author": "Lala (WDC) <lala@webdevconstruct.com>",
+          "date": "2026-10-01",
+          "message": "feat(admin): add department deliverables tracking and CEO-governed staff payroll workflows"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 0,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "main": {
+        "total_user_commits_in_history": 32,
+        "latest_user_commit": {
+          "sha": "42af5cf",
+          "author": "Lala (WDC) <lala@webdevconstruct.com>",
+          "date": "2026-10-01",
+          "message": "feat(admin): add department deliverables tracking and CEO-governed staff payroll workflows"
+        },
+        "divergence": {}
+      },
+      "origin/feat/frontend-integration": {
+        "total_user_commits_in_history": 32,
+        "latest_user_commit": {
+          "sha": "42af5cf",
+          "author": "Lala (WDC) <lala@webdevconstruct.com>",
+          "date": "2026-10-01",
+          "message": "feat(admin): add department deliverables tracking and CEO-governed staff payroll workflows"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 0,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 32,
+        "latest_user_commit": {
+          "sha": "42af5cf",
+          "author": "Lala (WDC) <lala@webdevconstruct.com>",
+          "date": "2026-10-01",
+          "message": "feat(admin): add department deliverables tracking and CEO-governed staff payroll workflows"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "Sentinel": {
+    "remotes": {
+      "origin": "https://github.com/Olalolo22/Sentinel.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "feat/landing-page": {
+        "total_user_commits_in_history": 38,
+        "latest_user_commit": {
+          "sha": "a4b8c56",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-07-25",
+          "message": "style(web): add explicit Demo Mode badges, Testnet Escrow Pool labels, and Sample Data tags across UI"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 8,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "main": {
+        "total_user_commits_in_history": 46,
+        "latest_user_commit": {
+          "sha": "81af72f",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-08-04",
+          "message": "url set"
+        },
+        "divergence": {}
+      },
+      "origin/claude/full-build": {
+        "total_user_commits_in_history": 6,
+        "latest_user_commit": {
+          "sha": "103b84a",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-07-16",
+          "message": "feat: upgrade judge to Gemini 1.5 Pro for maximum context window"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 40,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "origin/feat/landing-page": {
+        "total_user_commits_in_history": 38,
+        "latest_user_commit": {
+          "sha": "a4b8c56",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-07-25",
+          "message": "style(web): add explicit Demo Mode badges, Testnet Escrow Pool labels, and Sample Data tags across UI"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 8,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 46,
+        "latest_user_commit": {
+          "sha": "81af72f",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-08-04",
+          "message": "url set"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "Stellar-iPredict": {
+    "remotes": {
+      "origin": "git@github.com:Olalolo22/Stellar-iPredict.git",
+      "upstream": "https://github.com/Akanimoh12/Stellar-iPredict.git"
+    },
+    "default_branch": "implementation-drips",
+    "branches_with_user_work": {
+      "docs/issue-538-contract-upgrade-storage-compatibility": {
+        "total_user_commits_in_history": 3,
+        "latest_user_commit": {
+          "sha": "b4e027e",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-30",
+          "message": "fix(ci): renumber markets sort migration to 0029, sync schema snapshot, and update brace-expansion"
+        },
+        "divergence": {
+          "base_branch": "implementation-drips",
+          "ahead_count": 2,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "b4e027e",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-30",
+              "message": "fix(ci): renumber markets sort migration to 0029, sync schema snapshot, and update brace-expansion"
+            },
+            {
+              "sha": "594bde1",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-30",
+              "message": "docs(contracts): document upgrade procedure and storage compatibility rules (#538)"
+            }
+          ],
+          "diff_summary": " 11 files changed, 374 insertions(+), 138 deletions(-)"
+        }
+      },
+      "implementation-drips": {
+        "total_user_commits_in_history": 1,
+        "latest_user_commit": {
+          "sha": "1df5caa",
+          "author": "Muhammed <116976810+Olalolo22@users.noreply.github.com>",
+          "date": "2026-09-29",
+          "message": "test(backend): assert API route authentication registry and fail-closed enforcement (#548) (#756)"
+        },
+        "divergence": {}
+      },
+      "test/issue-541-oracle-lifecycle-e2e": {
+        "total_user_commits_in_history": 3,
+        "latest_user_commit": {
+          "sha": "d8f8edf",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-30",
+          "message": "fix(ci): renumber markets sort migration to 0029, sync schema snapshot, and update brace-expansion"
+        },
+        "divergence": {
+          "base_branch": "implementation-drips",
+          "ahead_count": 2,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "d8f8edf",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-30",
+              "message": "fix(ci): renumber markets sort migration to 0029, sync schema snapshot, and update brace-expansion"
+            },
+            {
+              "sha": "eac30e5",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-30",
+              "message": "test(e2e): add end-to-end test covering full optimistic oracle lifecycle (#541)"
+            }
+          ],
+          "diff_summary": " 11 files changed, 1388 insertions(+), 23 deletions(-)"
+        }
+      },
+      "test/route-auth-registry-548": {
+        "total_user_commits_in_history": 1,
+        "latest_user_commit": {
+          "sha": "d4a175f",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-29",
+          "message": "test(backend): assert API route authentication registry and fail-closed enforcement (#548)"
+        },
+        "divergence": {
+          "base_branch": "implementation-drips",
+          "ahead_count": 1,
+          "behind_count": 13,
+          "user_ahead_commits": [
+            {
+              "sha": "d4a175f",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-29",
+              "message": "test(backend): assert API route authentication registry and fail-closed enforcement (#548)"
+            }
+          ],
+          "diff_summary": " 3 files changed, 378 insertions(+)"
+        }
+      },
+      "origin/docs/issue-538-contract-upgrade-storage-compatibility": {
+        "total_user_commits_in_history": 3,
+        "latest_user_commit": {
+          "sha": "b4e027e",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-30",
+          "message": "fix(ci): renumber markets sort migration to 0029, sync schema snapshot, and update brace-expansion"
+        },
+        "divergence": {
+          "base_branch": "implementation-drips",
+          "ahead_count": 2,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "b4e027e",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-30",
+              "message": "fix(ci): renumber markets sort migration to 0029, sync schema snapshot, and update brace-expansion"
+            },
+            {
+              "sha": "594bde1",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-30",
+              "message": "docs(contracts): document upgrade procedure and storage compatibility rules (#538)"
+            }
+          ],
+          "diff_summary": " 11 files changed, 374 insertions(+), 138 deletions(-)"
+        }
+      },
+      "origin/test/issue-541-oracle-lifecycle-e2e": {
+        "total_user_commits_in_history": 3,
+        "latest_user_commit": {
+          "sha": "d8f8edf",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-30",
+          "message": "fix(ci): renumber markets sort migration to 0029, sync schema snapshot, and update brace-expansion"
+        },
+        "divergence": {
+          "base_branch": "implementation-drips",
+          "ahead_count": 2,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "d8f8edf",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-30",
+              "message": "fix(ci): renumber markets sort migration to 0029, sync schema snapshot, and update brace-expansion"
+            },
+            {
+              "sha": "eac30e5",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-30",
+              "message": "test(e2e): add end-to-end test covering full optimistic oracle lifecycle (#541)"
+            }
+          ],
+          "diff_summary": " 11 files changed, 1388 insertions(+), 23 deletions(-)"
+        }
+      },
+      "origin/test/route-auth-registry-548": {
+        "total_user_commits_in_history": 1,
+        "latest_user_commit": {
+          "sha": "d4a175f",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-29",
+          "message": "test(backend): assert API route authentication registry and fail-closed enforcement (#548)"
+        },
+        "divergence": {
+          "base_branch": "implementation-drips",
+          "ahead_count": 1,
+          "behind_count": 13,
+          "user_ahead_commits": [
+            {
+              "sha": "d4a175f",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-29",
+              "message": "test(backend): assert API route authentication registry and fail-closed enforcement (#548)"
+            }
+          ],
+          "diff_summary": " 3 files changed, 378 insertions(+)"
+        }
+      }
+    }
+  },
+  "Stellarlend-frontend": {
+    "remotes": {
+      "origin": "git@github.com:Olalolo22/Stellarlend-frontend.git",
+      "upstream": "https://github.com/StellarLend/Stellarlend-frontend.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "test/issue-1552-pageheader-stories-boundary": {
+        "total_user_commits_in_history": 1,
+        "latest_user_commit": {
+          "sha": "c5e12b7",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-30",
+          "message": "test(common): add failure-path and boundary coverage for PageHeader.stories.tsx (#1552)"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 1,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "c5e12b7",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-30",
+              "message": "test(common): add failure-path and boundary coverage for PageHeader.stories.tsx (#1552)"
+            }
+          ],
+          "diff_summary": " 3 files changed, 467 insertions(+), 11 deletions(-)"
+        }
+      },
+      "test/issue-1564-navbar-failure-boundary": {
+        "total_user_commits_in_history": 1,
+        "latest_user_commit": {
+          "sha": "d98e0dc",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-30",
+          "message": "test(shared): add failure-path and boundary coverage for Navbar.tsx (#1564)"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 1,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "d98e0dc",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-30",
+              "message": "test(shared): add failure-path and boundary coverage for Navbar.tsx (#1564)"
+            }
+          ],
+          "diff_summary": " 2 files changed, 735 insertions(+), 15 deletions(-)"
+        }
+      },
+      "origin/test/issue-1552-pageheader-stories-boundary": {
+        "total_user_commits_in_history": 1,
+        "latest_user_commit": {
+          "sha": "c5e12b7",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-30",
+          "message": "test(common): add failure-path and boundary coverage for PageHeader.stories.tsx (#1552)"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 1,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "c5e12b7",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-30",
+              "message": "test(common): add failure-path and boundary coverage for PageHeader.stories.tsx (#1552)"
+            }
+          ],
+          "diff_summary": " 3 files changed, 467 insertions(+), 11 deletions(-)"
+        }
+      },
+      "origin/test/issue-1564-navbar-failure-boundary": {
+        "total_user_commits_in_history": 1,
+        "latest_user_commit": {
+          "sha": "d98e0dc",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-30",
+          "message": "test(shared): add failure-path and boundary coverage for Navbar.tsx (#1564)"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 1,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "d98e0dc",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-30",
+              "message": "test(shared): add failure-path and boundary coverage for Navbar.tsx (#1564)"
+            }
+          ],
+          "diff_summary": " 2 files changed, 735 insertions(+), 15 deletions(-)"
+        }
+      }
+    }
+  },
+  "UnderSeal": {
+    "remotes": {
+      "origin": "https://github.com/Olalolo22/UnderSeal.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "main": {
+        "total_user_commits_in_history": 5,
+        "latest_user_commit": {
+          "sha": "56f2596",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-07-19",
+          "message": "docs: polished hackathon README"
+        },
+        "divergence": {}
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 5,
+        "latest_user_commit": {
+          "sha": "56f2596",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-07-19",
+          "message": "docs: polished hackathon README"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "Vicar": {
+    "remotes": {
+      "origin": "https://github.com/Cavista-Hackathon-2025/Vicar.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "dev": {
+        "total_user_commits_in_history": 3,
+        "latest_user_commit": {
+          "sha": "9b8e9d4",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-02-22",
+          "message": "DB file update"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 3,
+          "behind_count": 11,
+          "user_ahead_commits": [
+            {
+              "sha": "9b8e9d4",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-22",
+              "message": "DB file update"
+            },
+            {
+              "sha": "e031490",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-22",
+              "message": "First commit on new branch"
+            },
+            {
+              "sha": "0aa8fdf",
+              "author": "Olalolo22 <116976810+Olalolo22@users.noreply.github.com>",
+              "date": "2025-02-22",
+              "message": "Initial commit"
+            }
+          ],
+          "diff_summary": "No diff"
+        }
+      },
+      "main": {
+        "total_user_commits_in_history": 11,
+        "latest_user_commit": {
+          "sha": "20ce65d",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-02-23",
+          "message": "Moved files"
+        },
+        "divergence": {}
+      },
+      "vicar-api": {
+        "total_user_commits_in_history": 10,
+        "latest_user_commit": {
+          "sha": "53d2c92",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-02-23",
+          "message": "More updates"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 10,
+          "behind_count": 11,
+          "user_ahead_commits": [
+            {
+              "sha": "53d2c92",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-23",
+              "message": "More updates"
+            },
+            {
+              "sha": "65eada6",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-23",
+              "message": "API test"
+            },
+            {
+              "sha": "ef61525",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-23",
+              "message": "Major update"
+            },
+            {
+              "sha": "f819826",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-23",
+              "message": "More chnages for host"
+            },
+            {
+              "sha": "e9e4cb9",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-23",
+              "message": "Added Heroku files"
+            },
+            {
+              "sha": "8543a10",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-22",
+              "message": "Add gitignore and environment example files"
+            },
+            {
+              "sha": "48cd46e",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-22",
+              "message": "Ready for review"
+            },
+            {
+              "sha": "9b8e9d4",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-22",
+              "message": "DB file update"
+            },
+            {
+              "sha": "e031490",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-22",
+              "message": "First commit on new branch"
+            },
+            {
+              "sha": "0aa8fdf",
+              "author": "Olalolo22 <116976810+Olalolo22@users.noreply.github.com>",
+              "date": "2025-02-22",
+              "message": "Initial commit"
+            }
+          ],
+          "diff_summary": "No diff"
+        }
+      },
+      "origin/dev": {
+        "total_user_commits_in_history": 3,
+        "latest_user_commit": {
+          "sha": "9b8e9d4",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-02-22",
+          "message": "DB file update"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 3,
+          "behind_count": 11,
+          "user_ahead_commits": [
+            {
+              "sha": "9b8e9d4",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-22",
+              "message": "DB file update"
+            },
+            {
+              "sha": "e031490",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-22",
+              "message": "First commit on new branch"
+            },
+            {
+              "sha": "0aa8fdf",
+              "author": "Olalolo22 <116976810+Olalolo22@users.noreply.github.com>",
+              "date": "2025-02-22",
+              "message": "Initial commit"
+            }
+          ],
+          "diff_summary": "No diff"
+        }
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 11,
+        "latest_user_commit": {
+          "sha": "20ce65d",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-02-23",
+          "message": "Moved files"
+        },
+        "divergence": {}
+      },
+      "origin/vicar-api": {
+        "total_user_commits_in_history": 10,
+        "latest_user_commit": {
+          "sha": "53d2c92",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-02-23",
+          "message": "More updates"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 10,
+          "behind_count": 11,
+          "user_ahead_commits": [
+            {
+              "sha": "53d2c92",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-23",
+              "message": "More updates"
+            },
+            {
+              "sha": "65eada6",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-23",
+              "message": "API test"
+            },
+            {
+              "sha": "ef61525",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-23",
+              "message": "Major update"
+            },
+            {
+              "sha": "f819826",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-23",
+              "message": "More chnages for host"
+            },
+            {
+              "sha": "e9e4cb9",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-23",
+              "message": "Added Heroku files"
+            },
+            {
+              "sha": "8543a10",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-22",
+              "message": "Add gitignore and environment example files"
+            },
+            {
+              "sha": "48cd46e",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-22",
+              "message": "Ready for review"
+            },
+            {
+              "sha": "9b8e9d4",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-22",
+              "message": "DB file update"
+            },
+            {
+              "sha": "e031490",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-02-22",
+              "message": "First commit on new branch"
+            },
+            {
+              "sha": "0aa8fdf",
+              "author": "Olalolo22 <116976810+Olalolo22@users.noreply.github.com>",
+              "date": "2025-02-22",
+              "message": "Initial commit"
+            }
+          ],
+          "diff_summary": "No diff"
+        }
+      }
+    }
+  },
+  "aegis-ledger": {
+    "remotes": {
+      "origin": "git@github.com:Olalolo22/aegis-ledger.git"
+    },
+    "default_branch": "feature/zero-trust-refactor",
+    "branches_with_user_work": {
+      "feat/colosseum-usdc-payroll": {
+        "total_user_commits_in_history": 45,
+        "latest_user_commit": {
+          "sha": "4c73900",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-24",
+          "message": "fix(payroll): resolve TEE batch failures, address curve validation, and Buffer polyfills"
+        },
+        "divergence": {
+          "base_branch": "feature/zero-trust-refactor",
+          "ahead_count": 5,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "4c73900",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-24",
+              "message": "fix(payroll): resolve TEE batch failures, address curve validation, and Buffer polyfills"
+            },
+            {
+              "sha": "f0eb751",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-24",
+              "message": "feat(settlement): add dual-rail architecture with MagicBlock TEE (<1s batch) and Cloak ZK"
+            },
+            {
+              "sha": "a662bdc",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-24",
+              "message": "feat(payroll): overhaul positioning and implement drag-and-drop CSV batch importer"
+            },
+            {
+              "sha": "2b7d10a",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-03",
+              "message": "docs: add comprehensive master strategy dossier and eternal playbook"
+            },
+            {
+              "sha": "67f7ffc",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-03",
+              "message": "docs: overhaul positioning, triad architecture, and roadmap spec"
+            }
+          ],
+          "diff_summary": " 14 files changed, 1553 insertions(+), 616 deletions(-)"
+        }
+      },
+      "feature/zero-trust-refactor": {
+        "total_user_commits_in_history": 40,
+        "latest_user_commit": {
+          "sha": "8b60135",
+          "author": "Olumide <Olumide2956@gmail.com>",
+          "date": "2026-05-15",
+          "message": "feat: still repo clewnup"
+        },
+        "divergence": {}
+      },
+      "magic-mvp": {
+        "total_user_commits_in_history": 42,
+        "latest_user_commit": {
+          "sha": "2b7d10a",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-03",
+          "message": "docs: add comprehensive master strategy dossier and eternal playbook"
+        },
+        "divergence": {
+          "base_branch": "feature/zero-trust-refactor",
+          "ahead_count": 2,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "2b7d10a",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-03",
+              "message": "docs: add comprehensive master strategy dossier and eternal playbook"
+            },
+            {
+              "sha": "67f7ffc",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-03",
+              "message": "docs: overhaul positioning, triad architecture, and roadmap spec"
+            }
+          ],
+          "diff_summary": " 3 files changed, 439 insertions(+), 355 deletions(-)"
+        }
+      },
+      "origin/feat/colosseum-usdc-payroll": {
+        "total_user_commits_in_history": 45,
+        "latest_user_commit": {
+          "sha": "4c73900",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-24",
+          "message": "fix(payroll): resolve TEE batch failures, address curve validation, and Buffer polyfills"
+        },
+        "divergence": {
+          "base_branch": "feature/zero-trust-refactor",
+          "ahead_count": 5,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "4c73900",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-24",
+              "message": "fix(payroll): resolve TEE batch failures, address curve validation, and Buffer polyfills"
+            },
+            {
+              "sha": "f0eb751",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-24",
+              "message": "feat(settlement): add dual-rail architecture with MagicBlock TEE (<1s batch) and Cloak ZK"
+            },
+            {
+              "sha": "a662bdc",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-24",
+              "message": "feat(payroll): overhaul positioning and implement drag-and-drop CSV batch importer"
+            },
+            {
+              "sha": "2b7d10a",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-03",
+              "message": "docs: add comprehensive master strategy dossier and eternal playbook"
+            },
+            {
+              "sha": "67f7ffc",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-03",
+              "message": "docs: overhaul positioning, triad architecture, and roadmap spec"
+            }
+          ],
+          "diff_summary": " 14 files changed, 1553 insertions(+), 616 deletions(-)"
+        }
+      },
+      "origin/feat/hackathon-final": {
+        "total_user_commits_in_history": 40,
+        "latest_user_commit": {
+          "sha": "8b60135",
+          "author": "Olumide <Olumide2956@gmail.com>",
+          "date": "2026-05-15",
+          "message": "feat: still repo clewnup"
+        },
+        "divergence": {
+          "base_branch": "feature/zero-trust-refactor",
+          "ahead_count": 0,
+          "behind_count": 0,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "origin/feat/showcase-layout": {
+        "total_user_commits_in_history": 17,
+        "latest_user_commit": {
+          "sha": "99d3531",
+          "author": "Olumide <Olumide2956@gmail.com>",
+          "date": "2026-05-11",
+          "message": "chore: backup showcase layout"
+        },
+        "divergence": {
+          "base_branch": "feature/zero-trust-refactor",
+          "ahead_count": 1,
+          "behind_count": 24,
+          "user_ahead_commits": [
+            {
+              "sha": "99d3531",
+              "author": "Olumide <Olumide2956@gmail.com>",
+              "date": "2026-05-11",
+              "message": "chore: backup showcase layout"
+            }
+          ],
+          "diff_summary": " 3 files changed, 986 insertions(+), 832 deletions(-)"
+        }
+      },
+      "origin/feature/zero-trust-refactor": {
+        "total_user_commits_in_history": 40,
+        "latest_user_commit": {
+          "sha": "8b60135",
+          "author": "Olumide <Olumide2956@gmail.com>",
+          "date": "2026-05-15",
+          "message": "feat: still repo clewnup"
+        },
+        "divergence": {}
+      },
+      "origin/magic-mvp": {
+        "total_user_commits_in_history": 42,
+        "latest_user_commit": {
+          "sha": "2b7d10a",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-03",
+          "message": "docs: add comprehensive master strategy dossier and eternal playbook"
+        },
+        "divergence": {
+          "base_branch": "feature/zero-trust-refactor",
+          "ahead_count": 2,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "2b7d10a",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-03",
+              "message": "docs: add comprehensive master strategy dossier and eternal playbook"
+            },
+            {
+              "sha": "67f7ffc",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-03",
+              "message": "docs: overhaul positioning, triad architecture, and roadmap spec"
+            }
+          ],
+          "diff_summary": " 3 files changed, 439 insertions(+), 355 deletions(-)"
+        }
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 40,
+        "latest_user_commit": {
+          "sha": "8b60135",
+          "author": "Olumide <Olumide2956@gmail.com>",
+          "date": "2026-05-15",
+          "message": "feat: still repo clewnup"
+        },
+        "divergence": {
+          "base_branch": "feature/zero-trust-refactor",
+          "ahead_count": 0,
+          "behind_count": 0,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      }
+    }
+  },
+  "alx-higher_level_programming": {
+    "remotes": {
+      "origin": "https://github.com/Olalolo22/alx-higher_level_programming.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "main": {
+        "total_user_commits_in_history": 12,
+        "latest_user_commit": {
+          "sha": "e61af4a",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-06-02",
+          "message": "Mass pushing"
+        },
+        "divergence": {}
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 12,
+        "latest_user_commit": {
+          "sha": "e61af4a",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-06-02",
+          "message": "Mass pushing"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "alx-low_level_programming": {
+    "remotes": {
+      "origin": "https://github.com/Olalolo22/alx-low_level_programming.git"
+    },
+    "default_branch": "master",
+    "branches_with_user_work": {
+      "master": {
+        "total_user_commits_in_history": 69,
+        "latest_user_commit": {
+          "sha": "d2bfb59",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-04-18",
+          "message": "Weird display"
+        },
+        "divergence": {}
+      },
+      "origin/master": {
+        "total_user_commits_in_history": 69,
+        "latest_user_commit": {
+          "sha": "d2bfb59",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-04-18",
+          "message": "Weird display"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "alx-polly2": {
+    "remotes": {
+      "origin": "https://github.com/Olalolo22/alx-polly2.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "main": {
+        "total_user_commits_in_history": 10,
+        "latest_user_commit": {
+          "sha": "08bfaad",
+          "author": "Olumide <olumide2956@gmail.com>",
+          "date": "2025-09-07",
+          "message": "Tests produced"
+        },
+        "divergence": {}
+      },
+      "origin/day8-before": {
+        "total_user_commits_in_history": 12,
+        "latest_user_commit": {
+          "sha": "ae14b75",
+          "author": "Olumide <olumide2956@gmail.com>",
+          "date": "2025-09-07",
+          "message": "Added polls page update"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 2,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "ae14b75",
+              "author": "Olumide <olumide2956@gmail.com>",
+              "date": "2025-09-07",
+              "message": "Added polls page update"
+            },
+            {
+              "sha": "8c32e82",
+              "author": "Olumide <olumide2956@gmail.com>",
+              "date": "2025-09-07",
+              "message": "Before optimization: i renamed to page-before.tsx"
+            }
+          ],
+          "diff_summary": " 2 files changed, 264 insertions(+), 66 deletions(-)"
+        }
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 10,
+        "latest_user_commit": {
+          "sha": "08bfaad",
+          "author": "Olumide <olumide2956@gmail.com>",
+          "date": "2025-09-07",
+          "message": "Tests produced"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "finsa-directus-backend": {
+    "remotes": {
+      "origin": "https://github.com/FINSA-TECH-ORG/Finsa-directus-backend.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "main": {
+        "total_user_commits_in_history": 1,
+        "latest_user_commit": {
+          "sha": "f409f35",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-05-25",
+          "message": "initial commit: directus backend configured for railway deployment with automated bootstrap, schema apply, and hardened permissions"
+        },
+        "divergence": {}
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 1,
+        "latest_user_commit": {
+          "sha": "f409f35",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-05-25",
+          "message": "initial commit: directus backend configured for railway deployment with automated bootstrap, schema apply, and hardened permissions"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "harvest": {
+    "remotes": {
+      "origin": "git@github.com:Olalolo22/harvest.git",
+      "partner": "https://github.com/etvjay/harvest.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "design-v2": {
+        "total_user_commits_in_history": 25,
+        "latest_user_commit": {
+          "sha": "ea4a776",
+          "author": "Harvest <harvest@stocklana.fi>",
+          "date": "2026-09-17",
+          "message": "fix(modals): enable smooth scrolling, body scroll locking, and max-height constraints across all popups and drawers"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 21,
+          "behind_count": 34,
+          "user_ahead_commits": [
+            {
+              "sha": "ea4a776",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(modals): enable smooth scrolling, body scroll locking, and max-height constraints across all popups and drawers"
+            },
+            {
+              "sha": "6a02c43",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "docs: institutional-grade README and ARCHITECTURE specification with mathematical options pricing, PDA directory, settlement logic, and devnet addresses"
+            },
+            {
+              "sha": "9e4d129",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "feat: live keeper status & settled cycle ledger section showcasing autonomous crank engine"
+            },
+            {
+              "sha": "d3adbae",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "feat: dynamic strike selector in vault modal (conservative, balanced, aggressive) with real-time recalculations"
+            },
+            {
+              "sha": "9966048",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "feat(pyth): add live Pyth Hermes oracle price ticker and dynamic benchmark pricing"
+            },
+            {
+              "sha": "eae0192",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "feat(faucet): add 1-click Devnet token airdrop faucet for judges"
+            },
+            {
+              "sha": "98c6b65",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "feat(portfolio): add My Harvest portfolio slide-over drawer"
+            },
+            {
+              "sha": "c142cb5",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "feat(design-v2): implement Cleara-inspired financial redesign for Harvest"
+            },
+            {
+              "sha": "0cc4aa6",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(deploy): configure static export and output directories for Vercel deployment"
+            },
+            {
+              "sha": "9de0a6c",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(build): resolve eslint no-explicit-any, autoprefixer flex-end, and wallet standard discovery"
+            },
+            {
+              "sha": "238c48d",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(deploy): remove root vercel.json in favor of native Vercel root directory and trim unused dependencies"
+            },
+            {
+              "sha": "8dd8785",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(vercel): add next dependency to root package.json for Vercel framework detection"
+            },
+            {
+              "sha": "2fd8b1b",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "feat(ui): integrate Solana wallet adapter, vault modal, and devnet parameters"
+            },
+            {
+              "sha": "15626ee",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "chore: sync verified backend, IDL, and scripts from main"
+            }
+          ],
+          "diff_summary": " 47 files changed, 12331 insertions(+), 745 deletions(-)"
+        }
+      },
+      "main": {
+        "total_user_commits_in_history": 45,
+        "latest_user_commit": {
+          "sha": "39f1afc",
+          "author": "Harvest <harvest@stocklana.fi>",
+          "date": "2026-09-26",
+          "message": "style: restore signature Harvest wheat emoji to brand headers and empty state"
+        },
+        "divergence": {}
+      },
+      "v0/harvest-ui": {
+        "total_user_commits_in_history": 17,
+        "latest_user_commit": {
+          "sha": "0cc4aa6",
+          "author": "Harvest <harvest@stocklana.fi>",
+          "date": "2026-09-17",
+          "message": "fix(deploy): configure static export and output directories for Vercel deployment"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 13,
+          "behind_count": 34,
+          "user_ahead_commits": [
+            {
+              "sha": "0cc4aa6",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(deploy): configure static export and output directories for Vercel deployment"
+            },
+            {
+              "sha": "9de0a6c",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(build): resolve eslint no-explicit-any, autoprefixer flex-end, and wallet standard discovery"
+            },
+            {
+              "sha": "238c48d",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(deploy): remove root vercel.json in favor of native Vercel root directory and trim unused dependencies"
+            },
+            {
+              "sha": "8dd8785",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(vercel): add next dependency to root package.json for Vercel framework detection"
+            },
+            {
+              "sha": "2fd8b1b",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "feat(ui): integrate Solana wallet adapter, vault modal, and devnet parameters"
+            },
+            {
+              "sha": "15626ee",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "chore: sync verified backend, IDL, and scripts from main"
+            }
+          ],
+          "diff_summary": " 26 files changed, 8244 insertions(+), 614 deletions(-)"
+        }
+      },
+      "origin/design-v2": {
+        "total_user_commits_in_history": 25,
+        "latest_user_commit": {
+          "sha": "ea4a776",
+          "author": "Harvest <harvest@stocklana.fi>",
+          "date": "2026-09-17",
+          "message": "fix(modals): enable smooth scrolling, body scroll locking, and max-height constraints across all popups and drawers"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 21,
+          "behind_count": 34,
+          "user_ahead_commits": [
+            {
+              "sha": "ea4a776",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(modals): enable smooth scrolling, body scroll locking, and max-height constraints across all popups and drawers"
+            },
+            {
+              "sha": "6a02c43",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "docs: institutional-grade README and ARCHITECTURE specification with mathematical options pricing, PDA directory, settlement logic, and devnet addresses"
+            },
+            {
+              "sha": "9e4d129",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "feat: live keeper status & settled cycle ledger section showcasing autonomous crank engine"
+            },
+            {
+              "sha": "d3adbae",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "feat: dynamic strike selector in vault modal (conservative, balanced, aggressive) with real-time recalculations"
+            },
+            {
+              "sha": "9966048",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "feat(pyth): add live Pyth Hermes oracle price ticker and dynamic benchmark pricing"
+            },
+            {
+              "sha": "eae0192",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "feat(faucet): add 1-click Devnet token airdrop faucet for judges"
+            },
+            {
+              "sha": "98c6b65",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "feat(portfolio): add My Harvest portfolio slide-over drawer"
+            },
+            {
+              "sha": "c142cb5",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "feat(design-v2): implement Cleara-inspired financial redesign for Harvest"
+            },
+            {
+              "sha": "0cc4aa6",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(deploy): configure static export and output directories for Vercel deployment"
+            },
+            {
+              "sha": "9de0a6c",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(build): resolve eslint no-explicit-any, autoprefixer flex-end, and wallet standard discovery"
+            },
+            {
+              "sha": "238c48d",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(deploy): remove root vercel.json in favor of native Vercel root directory and trim unused dependencies"
+            },
+            {
+              "sha": "8dd8785",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(vercel): add next dependency to root package.json for Vercel framework detection"
+            },
+            {
+              "sha": "2fd8b1b",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "feat(ui): integrate Solana wallet adapter, vault modal, and devnet parameters"
+            },
+            {
+              "sha": "15626ee",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "chore: sync verified backend, IDL, and scripts from main"
+            }
+          ],
+          "diff_summary": " 47 files changed, 12331 insertions(+), 745 deletions(-)"
+        }
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 45,
+        "latest_user_commit": {
+          "sha": "39f1afc",
+          "author": "Harvest <harvest@stocklana.fi>",
+          "date": "2026-09-26",
+          "message": "style: restore signature Harvest wheat emoji to brand headers and empty state"
+        },
+        "divergence": {}
+      },
+      "origin/v0/harvest-reference-landing": {
+        "total_user_commits_in_history": 17,
+        "latest_user_commit": {
+          "sha": "0cc4aa6",
+          "author": "Harvest <harvest@stocklana.fi>",
+          "date": "2026-09-17",
+          "message": "fix(deploy): configure static export and output directories for Vercel deployment"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 14,
+          "behind_count": 34,
+          "user_ahead_commits": [
+            {
+              "sha": "0cc4aa6",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(deploy): configure static export and output directories for Vercel deployment"
+            },
+            {
+              "sha": "9de0a6c",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(build): resolve eslint no-explicit-any, autoprefixer flex-end, and wallet standard discovery"
+            },
+            {
+              "sha": "238c48d",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(deploy): remove root vercel.json in favor of native Vercel root directory and trim unused dependencies"
+            },
+            {
+              "sha": "8dd8785",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(vercel): add next dependency to root package.json for Vercel framework detection"
+            },
+            {
+              "sha": "2fd8b1b",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "feat(ui): integrate Solana wallet adapter, vault modal, and devnet parameters"
+            },
+            {
+              "sha": "15626ee",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "chore: sync verified backend, IDL, and scripts from main"
+            }
+          ],
+          "diff_summary": " 26 files changed, 8244 insertions(+), 614 deletions(-)"
+        }
+      },
+      "origin/v0/harvest-ui": {
+        "total_user_commits_in_history": 17,
+        "latest_user_commit": {
+          "sha": "0cc4aa6",
+          "author": "Harvest <harvest@stocklana.fi>",
+          "date": "2026-09-17",
+          "message": "fix(deploy): configure static export and output directories for Vercel deployment"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 13,
+          "behind_count": 34,
+          "user_ahead_commits": [
+            {
+              "sha": "0cc4aa6",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(deploy): configure static export and output directories for Vercel deployment"
+            },
+            {
+              "sha": "9de0a6c",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(build): resolve eslint no-explicit-any, autoprefixer flex-end, and wallet standard discovery"
+            },
+            {
+              "sha": "238c48d",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(deploy): remove root vercel.json in favor of native Vercel root directory and trim unused dependencies"
+            },
+            {
+              "sha": "8dd8785",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "fix(vercel): add next dependency to root package.json for Vercel framework detection"
+            },
+            {
+              "sha": "2fd8b1b",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "feat(ui): integrate Solana wallet adapter, vault modal, and devnet parameters"
+            },
+            {
+              "sha": "15626ee",
+              "author": "Harvest <harvest@stocklana.fi>",
+              "date": "2026-09-17",
+              "message": "chore: sync verified backend, IDL, and scripts from main"
+            }
+          ],
+          "diff_summary": " 26 files changed, 8244 insertions(+), 614 deletions(-)"
+        }
+      },
+      "partner/fix/problem-section-chapter-motion": {
+        "total_user_commits_in_history": 33,
+        "latest_user_commit": {
+          "sha": "57dc34e",
+          "author": "Ubuntu <ubuntu@ip-172-31-14-153.us-west-2.compute.internal>",
+          "date": "2026-09-25",
+          "message": "chore(app): add pinned hero image asset"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 12,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      }
+    }
+  },
+  "program-Olalolo22": {
+    "remotes": {
+      "origin": "https://github.com/School-of-Solana/program-Olalolo22.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "clean_submission": {
+        "total_user_commits_in_history": 2,
+        "latest_user_commit": {
+          "sha": "95c5f2a",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-11-25",
+          "message": "Final Submission Light"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 2,
+          "behind_count": 4,
+          "user_ahead_commits": [
+            {
+              "sha": "95c5f2a",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-11-25",
+              "message": "Final Submission Light"
+            },
+            {
+              "sha": "ba9222c",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-11-25",
+              "message": "Final Submission"
+            }
+          ],
+          "diff_summary": "No diff"
+        }
+      },
+      "main": {
+        "total_user_commits_in_history": 2,
+        "latest_user_commit": {
+          "sha": "c367498",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-11-25",
+          "message": "gitignire"
+        },
+        "divergence": {}
+      },
+      "solution": {
+        "total_user_commits_in_history": 3,
+        "latest_user_commit": {
+          "sha": "dde9128",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-11-25",
+          "message": "good fix"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 3,
+          "behind_count": 4,
+          "user_ahead_commits": [
+            {
+              "sha": "dde9128",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-11-25",
+              "message": "good fix"
+            },
+            {
+              "sha": "95c5f2a",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-11-25",
+              "message": "Final Submission Light"
+            },
+            {
+              "sha": "ba9222c",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-11-25",
+              "message": "Final Submission"
+            }
+          ],
+          "diff_summary": "No diff"
+        }
+      }
+    }
+  },
+  "program-Olalolo22-copy": {
+    "remotes": {
+      "origin": "https://github.com/School-of-Solana/program-Olalolo22.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "clean_submission": {
+        "total_user_commits_in_history": 2,
+        "latest_user_commit": {
+          "sha": "95c5f2a",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-11-25",
+          "message": "Final Submission Light"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 2,
+          "behind_count": 4,
+          "user_ahead_commits": [
+            {
+              "sha": "95c5f2a",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-11-25",
+              "message": "Final Submission Light"
+            },
+            {
+              "sha": "ba9222c",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2025-11-25",
+              "message": "Final Submission"
+            }
+          ],
+          "diff_summary": "No diff"
+        }
+      },
+      "main": {
+        "total_user_commits_in_history": 2,
+        "latest_user_commit": {
+          "sha": "c367498",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2025-11-25",
+          "message": "gitignire"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "rescue": {
+    "remotes": {
+      "origin": "git@github.com:Olalolo22/rescue.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "main": {
+        "total_user_commits_in_history": 34,
+        "latest_user_commit": {
+          "sha": "aa6d6b2",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-10",
+          "message": "chore(config): configure devnet cluster and portable wallet path in rescue-protocol"
+        },
+        "divergence": {}
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 34,
+        "latest_user_commit": {
+          "sha": "aa6d6b2",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-10",
+          "message": "chore(config): configure devnet cluster and portable wallet path in rescue-protocol"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "rescue2": {
+    "remotes": {
+      "origin": "git@github.com:Olalolo22/rescue2.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "main": {
+        "total_user_commits_in_history": 16,
+        "latest_user_commit": {
+          "sha": "fa54b9d",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-10",
+          "message": "docs: update README with hackathon-winning architecture, live telemetry, and benchmark proofs"
+        },
+        "divergence": {}
+      },
+      "mbv2": {
+        "total_user_commits_in_history": 5,
+        "latest_user_commit": {
+          "sha": "b593cc6",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-09",
+          "message": "feat(ui): update console home landing page and wire live telemetry on mbv2"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 21,
+          "behind_count": 16,
+          "user_ahead_commits": [
+            {
+              "sha": "b593cc6",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-09",
+              "message": "feat(ui): update console home landing page and wire live telemetry on mbv2"
+            },
+            {
+              "sha": "6e3ebf7",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-09",
+              "message": "feat(protocol): import Anchor smart contracts, scripts, and verification harness from rescue"
+            },
+            {
+              "sha": "21f7b99",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-08",
+              "message": "feat(ui): unified Navbar with WalletButton on all pages + dynamic borrower key"
+            },
+            {
+              "sha": "d308f3a",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-08",
+              "message": "feat(wallet): wire Solana Wallet Adapter and modal into v0 branch"
+            },
+            {
+              "sha": "49c604f",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-08",
+              "message": "feat(protocol): fuse core backend engine, Invariants, and on-chain telemetry into v0/rescue-protocol-3-97c63b70"
+            }
+          ],
+          "diff_summary": " 78 files changed, 13078 insertions(+), 117 deletions(-)"
+        }
+      },
+      "v0/rescue-protocol-3-97c63b70": {
+        "total_user_commits_in_history": 3,
+        "latest_user_commit": {
+          "sha": "21f7b99",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-08",
+          "message": "feat(ui): unified Navbar with WalletButton on all pages + dynamic borrower key"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 15,
+          "behind_count": 16,
+          "user_ahead_commits": [
+            {
+              "sha": "21f7b99",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-08",
+              "message": "feat(ui): unified Navbar with WalletButton on all pages + dynamic borrower key"
+            },
+            {
+              "sha": "d308f3a",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-08",
+              "message": "feat(wallet): wire Solana Wallet Adapter and modal into v0 branch"
+            },
+            {
+              "sha": "49c604f",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-08",
+              "message": "feat(protocol): fuse core backend engine, Invariants, and on-chain telemetry into v0/rescue-protocol-3-97c63b70"
+            }
+          ],
+          "diff_summary": " 18 files changed, 1491 insertions(+), 144 deletions(-)"
+        }
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 16,
+        "latest_user_commit": {
+          "sha": "fa54b9d",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-10",
+          "message": "docs: update README with hackathon-winning architecture, live telemetry, and benchmark proofs"
+        },
+        "divergence": {}
+      },
+      "origin/mbv2": {
+        "total_user_commits_in_history": 5,
+        "latest_user_commit": {
+          "sha": "b593cc6",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-09",
+          "message": "feat(ui): update console home landing page and wire live telemetry on mbv2"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 21,
+          "behind_count": 16,
+          "user_ahead_commits": [
+            {
+              "sha": "b593cc6",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-09",
+              "message": "feat(ui): update console home landing page and wire live telemetry on mbv2"
+            },
+            {
+              "sha": "6e3ebf7",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-09",
+              "message": "feat(protocol): import Anchor smart contracts, scripts, and verification harness from rescue"
+            },
+            {
+              "sha": "21f7b99",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-08",
+              "message": "feat(ui): unified Navbar with WalletButton on all pages + dynamic borrower key"
+            },
+            {
+              "sha": "d308f3a",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-08",
+              "message": "feat(wallet): wire Solana Wallet Adapter and modal into v0 branch"
+            },
+            {
+              "sha": "49c604f",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-08",
+              "message": "feat(protocol): fuse core backend engine, Invariants, and on-chain telemetry into v0/rescue-protocol-3-97c63b70"
+            }
+          ],
+          "diff_summary": " 78 files changed, 13078 insertions(+), 117 deletions(-)"
+        }
+      },
+      "origin/v0/rescue-protocol-3-97c63b70": {
+        "total_user_commits_in_history": 3,
+        "latest_user_commit": {
+          "sha": "21f7b99",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-08",
+          "message": "feat(ui): unified Navbar with WalletButton on all pages + dynamic borrower key"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 15,
+          "behind_count": 16,
+          "user_ahead_commits": [
+            {
+              "sha": "21f7b99",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-08",
+              "message": "feat(ui): unified Navbar with WalletButton on all pages + dynamic borrower key"
+            },
+            {
+              "sha": "d308f3a",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-08",
+              "message": "feat(wallet): wire Solana Wallet Adapter and modal into v0 branch"
+            },
+            {
+              "sha": "49c604f",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-09-08",
+              "message": "feat(protocol): fuse core backend engine, Invariants, and on-chain telemetry into v0/rescue-protocol-3-97c63b70"
+            }
+          ],
+          "diff_summary": " 18 files changed, 1491 insertions(+), 144 deletions(-)"
+        }
+      }
+    }
+  },
+  "routedock": {
+    "remotes": {
+      "fork": "git@github.com:Olalolo22/routedock.git",
+      "origin": "https://github.com/winsznx/routedock.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "feat/issue-162-handlers": {
+        "total_user_commits_in_history": 2,
+        "latest_user_commit": {
+          "sha": "0e178c9",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-08-08",
+          "message": "fix: address maintainer review \u2014 ToolResult type alias, HorizonBalance normalizer, typed dispatch, CI test step"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 372,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "fix/issue-209": {
+        "total_user_commits_in_history": 23,
+        "latest_user_commit": {
+          "sha": "79ad84b",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-09-02",
+          "message": "test(sdk): add recovery transition test for SessionReconciler (#209)"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 50,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "fix/issue-210": {
+        "total_user_commits_in_history": 19,
+        "latest_user_commit": {
+          "sha": "d409580",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-08-29",
+          "message": "fix(sdk-tests): use EndpointDescriptor object shape in registerProvider test fixture"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 115,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "fix/issue-220": {
+        "total_user_commits_in_history": 17,
+        "latest_user_commit": {
+          "sha": "86a5606",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-08-29",
+          "message": "fix(sdk,nulth-sdk): unify USDC decimal-to-integer conversion in usdcToStroops (#220)"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 1,
+          "behind_count": 118,
+          "user_ahead_commits": [
+            {
+              "sha": "86a5606",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-08-29",
+              "message": "fix(sdk,nulth-sdk): unify USDC decimal-to-integer conversion in usdcToStroops (#220)"
+            }
+          ],
+          "diff_summary": " 9 files changed, 102 insertions(+), 35 deletions(-)"
+        }
+      },
+      "fix/issue-223": {
+        "total_user_commits_in_history": 17,
+        "latest_user_commit": {
+          "sha": "ade7df3",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-08-29",
+          "message": "fix(agent): read live session spend from stats instead of hardcoded rate (#223)"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 117,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "fix/issue-311-fastify-reply-hijack": {
+        "total_user_commits_in_history": 24,
+        "latest_user_commit": {
+          "sha": "b9f4fd6",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-09-27",
+          "message": "fix(sdk): conditional hijack in Fastify adapter on settled pass-through (#311)"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 1,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "b9f4fd6",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(sdk): conditional hijack in Fastify adapter on settled pass-through (#311)"
+            }
+          ],
+          "diff_summary": " 3 files changed, 71 insertions(+), 8 deletions(-)"
+        }
+      },
+      "fix/issue-313-vault-constructor": {
+        "total_user_commits_in_history": 28,
+        "latest_user_commit": {
+          "sha": "8a33790",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-09-29",
+          "message": "test(agent-vault): update snapshots for constructor tuple registration"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 38,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "8a33790",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-29",
+              "message": "test(agent-vault): update snapshots for constructor tuple registration"
+            },
+            {
+              "sha": "26666b0",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(agent-vault): clone admin in test_admin_mutation_events"
+            },
+            {
+              "sha": "9c19e04",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(agent-vault): add explicit type annotations for Map::new in tests"
+            },
+            {
+              "sha": "f65324e",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(agent-vault): configure vault in constructor instead of unauthenticated initialize (#313)"
+            },
+            {
+              "sha": "b9f4fd6",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(sdk): conditional hijack in Fastify adapter on settled pass-through (#311)"
+            }
+          ],
+          "diff_summary": " 119 files changed, 6819 insertions(+), 1918 deletions(-)"
+        }
+      },
+      "fix/issue-345-stale-docs-page": {
+        "total_user_commits_in_history": 29,
+        "latest_user_commit": {
+          "sha": "4af2193",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-09-30",
+          "message": "docs(web): clarify session modes openSession call and restore express formatting"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 39,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "4af2193",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-30",
+              "message": "docs(web): clarify session modes openSession call and restore express formatting"
+            },
+            {
+              "sha": "12e68a1",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-30",
+              "message": "chore: sync pnpm-lock.yaml with apps/web devDependencies"
+            },
+            {
+              "sha": "a90efa9",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-29",
+              "message": "docs(web): update exports, client summary, provider adapters, manifest rejection, and mode router link"
+            },
+            {
+              "sha": "d46c1b8",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(web): escape quotes in manifest signature_version inline code"
+            },
+            {
+              "sha": "8818cbf",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "docs(web): fix stale manifest example, schema validation claims, and pay mode docs"
+            },
+            {
+              "sha": "b9f4fd6",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(sdk): conditional hijack in Fastify adapter on settled pass-through (#311)"
+            }
+          ],
+          "diff_summary": " 61 files changed, 3578 insertions(+), 419 deletions(-)"
+        }
+      },
+      "fix/issue-371-mainnet-deployment-docs": {
+        "total_user_commits_in_history": 35,
+        "latest_user_commit": {
+          "sha": "b32ecc1",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-09-30",
+          "message": "docs: add --source-account to vault read-backs and native XLM sweep to emergency response"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 55,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "b32ecc1",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-30",
+              "message": "docs: add --source-account to vault read-backs and native XLM sweep to emergency response"
+            },
+            {
+              "sha": "0d0a6dd",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "docs: fix mainnet emergency pause, vault policy steps, and monitoring references"
+            },
+            {
+              "sha": "4af2193",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-30",
+              "message": "docs(web): clarify session modes openSession call and restore express formatting"
+            },
+            {
+              "sha": "12e68a1",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-30",
+              "message": "chore: sync pnpm-lock.yaml with apps/web devDependencies"
+            },
+            {
+              "sha": "a90efa9",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-29",
+              "message": "docs(web): update exports, client summary, provider adapters, manifest rejection, and mode router link"
+            },
+            {
+              "sha": "d46c1b8",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(web): escape quotes in manifest signature_version inline code"
+            },
+            {
+              "sha": "8818cbf",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "docs(web): fix stale manifest example, schema validation claims, and pay mode docs"
+            },
+            {
+              "sha": "8a33790",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-29",
+              "message": "test(agent-vault): update snapshots for constructor tuple registration"
+            },
+            {
+              "sha": "26666b0",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(agent-vault): clone admin in test_admin_mutation_events"
+            },
+            {
+              "sha": "9c19e04",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(agent-vault): add explicit type annotations for Map::new in tests"
+            },
+            {
+              "sha": "f65324e",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(agent-vault): configure vault in constructor instead of unauthenticated initialize (#313)"
+            },
+            {
+              "sha": "b9f4fd6",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(sdk): conditional hijack in Fastify adapter on settled pass-through (#311)"
+            }
+          ],
+          "diff_summary": " 147 files changed, 8238 insertions(+), 2110 deletions(-)"
+        }
+      },
+      "main": {
+        "total_user_commits_in_history": 23,
+        "latest_user_commit": {
+          "sha": "79ad84b",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-09-02",
+          "message": "test(sdk): add recovery transition test for SessionReconciler (#209)"
+        },
+        "divergence": {}
+      },
+      "fork/changeset-release/main": {
+        "total_user_commits_in_history": 20,
+        "latest_user_commit": {
+          "sha": "d409580",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-08-29",
+          "message": "fix(sdk-tests): use EndpointDescriptor object shape in registerProvider test fixture"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 1,
+          "behind_count": 53,
+          "user_ahead_commits": [],
+          "diff_summary": " 14 files changed, 52 insertions(+), 46 deletions(-)"
+        }
+      },
+      "fork/feat/emergency-stop": {
+        "total_user_commits_in_history": 7,
+        "latest_user_commit": {
+          "sha": "1ee8174",
+          "author": "Muhammed <116976810+Olalolo22@users.noreply.github.com>",
+          "date": "2026-07-08",
+          "message": "chore: update test snapshots"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 5,
+          "behind_count": 287,
+          "user_ahead_commits": [
+            {
+              "sha": "1ee8174",
+              "author": "Muhammed <116976810+Olalolo22@users.noreply.github.com>",
+              "date": "2026-07-08",
+              "message": "chore: update test snapshots"
+            },
+            {
+              "sha": "62823da",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-07-08",
+              "message": "fix: add missing ContractFrozen error variant"
+            },
+            {
+              "sha": "3f10aac",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-06-30",
+              "message": "fix: import FromVal trait for test compilation"
+            },
+            {
+              "sha": "bf0b4ea",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-06-30",
+              "message": "fix: use from_val instead of try_from_val for older soroban-sdk compatibility"
+            },
+            {
+              "sha": "89b727c",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-06-30",
+              "message": "feat: add explicit freeze/unfreeze emergency stop (fixes #47)"
+            }
+          ],
+          "diff_summary": " 37 files changed, 1067 insertions(+), 38 deletions(-)"
+        }
+      },
+      "fork/feat/issue-136": {
+        "total_user_commits_in_history": 5,
+        "latest_user_commit": {
+          "sha": "0e3e726",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-07-30",
+          "message": "fix(fastify): bridge Express handlers with proper req/res shim"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 280,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "fork/feat/issue-142": {
+        "total_user_commits_in_history": 7,
+        "latest_user_commit": {
+          "sha": "33740f3",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-07-30",
+          "message": "fix(typecheck): resolve test file type annotations for issue #142"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 278,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "fork/feat/issue-162": {
+        "total_user_commits_in_history": 10,
+        "latest_user_commit": {
+          "sha": "418f886",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-07-30",
+          "message": "ci: build @routedock/routedock before typecheck job in CI"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 275,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "fork/feat/issue-162-handlers": {
+        "total_user_commits_in_history": 2,
+        "latest_user_commit": {
+          "sha": "0e178c9",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-08-08",
+          "message": "fix: address maintainer review \u2014 ToolResult type alias, HorizonBalance normalizer, typed dispatch, CI test step"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 371,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "fork/feat/issue-45": {
+        "total_user_commits_in_history": 5,
+        "latest_user_commit": {
+          "sha": "6ac1814",
+          "author": "Muhammed <116976810+Olalolo22@users.noreply.github.com>",
+          "date": "2026-07-08",
+          "message": "chore: regenerate snapshots after rebase"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 2,
+          "behind_count": 286,
+          "user_ahead_commits": [
+            {
+              "sha": "6ac1814",
+              "author": "Muhammed <116976810+Olalolo22@users.noreply.github.com>",
+              "date": "2026-07-08",
+              "message": "chore: regenerate snapshots after rebase"
+            },
+            {
+              "sha": "bef2796",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-06-30",
+              "message": "feat: add view functions and tests for issue #45"
+            }
+          ],
+          "diff_summary": " 38 files changed, 435 insertions(+), 36 deletions(-)"
+        }
+      },
+      "fork/feat/per-endpoint-spend-cap": {
+        "total_user_commits_in_history": 8,
+        "latest_user_commit": {
+          "sha": "3815dda",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-07-07",
+          "message": "test: fix ts inference string casting issue in smoke test"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 7,
+          "behind_count": 296,
+          "user_ahead_commits": [
+            {
+              "sha": "3815dda",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-07-07",
+              "message": "test: fix ts inference string casting issue in smoke test"
+            },
+            {
+              "sha": "b3d5ff7",
+              "author": "Muhammed <116976810+Olalolo22@users.noreply.github.com>",
+              "date": "2026-07-06",
+              "message": "chore: regenerate test snapshots after rebase onto main"
+            },
+            {
+              "sha": "a13051a",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-07-06",
+              "message": "test: update expected error code for NoPendingAdmin"
+            },
+            {
+              "sha": "7df7d88",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-07-06",
+              "message": "fix: add missing NoPendingAdmin error variant"
+            },
+            {
+              "sha": "481eced",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-07-06",
+              "message": "fix: insert transfer_admin and accept_admin into the impl block"
+            },
+            {
+              "sha": "14d7043",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-07-06",
+              "message": "fix: use env context instead of secrets in step-level if conditions"
+            },
+            {
+              "sha": "fa7eb2a",
+              "author": "Olumidelala <olumide2956@gmail.com>",
+              "date": "2026-06-30",
+              "message": "feat: implement admin transfer and acceptance with tests"
+            }
+          ],
+          "diff_summary": " 36 files changed, 1543 insertions(+), 32 deletions(-)"
+        }
+      },
+      "fork/fix/issue-209": {
+        "total_user_commits_in_history": 23,
+        "latest_user_commit": {
+          "sha": "79ad84b",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-09-02",
+          "message": "test(sdk): add recovery transition test for SessionReconciler (#209)"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 50,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "fork/fix/issue-210": {
+        "total_user_commits_in_history": 19,
+        "latest_user_commit": {
+          "sha": "d409580",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-08-29",
+          "message": "fix(sdk-tests): use EndpointDescriptor object shape in registerProvider test fixture"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 115,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "fork/fix/issue-220": {
+        "total_user_commits_in_history": 17,
+        "latest_user_commit": {
+          "sha": "86a5606",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-08-29",
+          "message": "fix(sdk,nulth-sdk): unify USDC decimal-to-integer conversion in usdcToStroops (#220)"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 1,
+          "behind_count": 118,
+          "user_ahead_commits": [
+            {
+              "sha": "86a5606",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-08-29",
+              "message": "fix(sdk,nulth-sdk): unify USDC decimal-to-integer conversion in usdcToStroops (#220)"
+            }
+          ],
+          "diff_summary": " 9 files changed, 102 insertions(+), 35 deletions(-)"
+        }
+      },
+      "fork/fix/issue-223": {
+        "total_user_commits_in_history": 17,
+        "latest_user_commit": {
+          "sha": "ade7df3",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-08-29",
+          "message": "fix(agent): read live session spend from stats instead of hardcoded rate (#223)"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 117,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "fork/fix/issue-311-fastify-reply-hijack": {
+        "total_user_commits_in_history": 24,
+        "latest_user_commit": {
+          "sha": "b9f4fd6",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-09-27",
+          "message": "fix(sdk): conditional hijack in Fastify adapter on settled pass-through (#311)"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 1,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "b9f4fd6",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(sdk): conditional hijack in Fastify adapter on settled pass-through (#311)"
+            }
+          ],
+          "diff_summary": " 3 files changed, 71 insertions(+), 8 deletions(-)"
+        }
+      },
+      "fork/fix/issue-313-vault-constructor": {
+        "total_user_commits_in_history": 28,
+        "latest_user_commit": {
+          "sha": "8a33790",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-09-29",
+          "message": "test(agent-vault): update snapshots for constructor tuple registration"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 38,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "8a33790",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-29",
+              "message": "test(agent-vault): update snapshots for constructor tuple registration"
+            },
+            {
+              "sha": "26666b0",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(agent-vault): clone admin in test_admin_mutation_events"
+            },
+            {
+              "sha": "9c19e04",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(agent-vault): add explicit type annotations for Map::new in tests"
+            },
+            {
+              "sha": "f65324e",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(agent-vault): configure vault in constructor instead of unauthenticated initialize (#313)"
+            },
+            {
+              "sha": "b9f4fd6",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(sdk): conditional hijack in Fastify adapter on settled pass-through (#311)"
+            }
+          ],
+          "diff_summary": " 119 files changed, 6819 insertions(+), 1918 deletions(-)"
+        }
+      },
+      "fork/fix/issue-345-stale-docs-page": {
+        "total_user_commits_in_history": 29,
+        "latest_user_commit": {
+          "sha": "4af2193",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-09-30",
+          "message": "docs(web): clarify session modes openSession call and restore express formatting"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 39,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "4af2193",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-30",
+              "message": "docs(web): clarify session modes openSession call and restore express formatting"
+            },
+            {
+              "sha": "12e68a1",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-30",
+              "message": "chore: sync pnpm-lock.yaml with apps/web devDependencies"
+            },
+            {
+              "sha": "a90efa9",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-29",
+              "message": "docs(web): update exports, client summary, provider adapters, manifest rejection, and mode router link"
+            },
+            {
+              "sha": "d46c1b8",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(web): escape quotes in manifest signature_version inline code"
+            },
+            {
+              "sha": "8818cbf",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "docs(web): fix stale manifest example, schema validation claims, and pay mode docs"
+            },
+            {
+              "sha": "b9f4fd6",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(sdk): conditional hijack in Fastify adapter on settled pass-through (#311)"
+            }
+          ],
+          "diff_summary": " 61 files changed, 3578 insertions(+), 419 deletions(-)"
+        }
+      },
+      "fork/fix/issue-371-mainnet-deployment-docs": {
+        "total_user_commits_in_history": 35,
+        "latest_user_commit": {
+          "sha": "b32ecc1",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-09-30",
+          "message": "docs: add --source-account to vault read-backs and native XLM sweep to emergency response"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 55,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "b32ecc1",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-30",
+              "message": "docs: add --source-account to vault read-backs and native XLM sweep to emergency response"
+            },
+            {
+              "sha": "0d0a6dd",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "docs: fix mainnet emergency pause, vault policy steps, and monitoring references"
+            },
+            {
+              "sha": "4af2193",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-30",
+              "message": "docs(web): clarify session modes openSession call and restore express formatting"
+            },
+            {
+              "sha": "12e68a1",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-30",
+              "message": "chore: sync pnpm-lock.yaml with apps/web devDependencies"
+            },
+            {
+              "sha": "a90efa9",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-29",
+              "message": "docs(web): update exports, client summary, provider adapters, manifest rejection, and mode router link"
+            },
+            {
+              "sha": "d46c1b8",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(web): escape quotes in manifest signature_version inline code"
+            },
+            {
+              "sha": "8818cbf",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "docs(web): fix stale manifest example, schema validation claims, and pay mode docs"
+            },
+            {
+              "sha": "8a33790",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-29",
+              "message": "test(agent-vault): update snapshots for constructor tuple registration"
+            },
+            {
+              "sha": "26666b0",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(agent-vault): clone admin in test_admin_mutation_events"
+            },
+            {
+              "sha": "9c19e04",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(agent-vault): add explicit type annotations for Map::new in tests"
+            },
+            {
+              "sha": "f65324e",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(agent-vault): configure vault in constructor instead of unauthenticated initialize (#313)"
+            },
+            {
+              "sha": "b9f4fd6",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(sdk): conditional hijack in Fastify adapter on settled pass-through (#311)"
+            }
+          ],
+          "diff_summary": " 147 files changed, 8238 insertions(+), 2110 deletions(-)"
+        }
+      },
+      "fork/main": {
+        "total_user_commits_in_history": 23,
+        "latest_user_commit": {
+          "sha": "79ad84b",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-09-02",
+          "message": "test(sdk): add recovery transition test for SessionReconciler (#209)"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 0,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "origin/changeset-release/main": {
+        "total_user_commits_in_history": 24,
+        "latest_user_commit": {
+          "sha": "b9f4fd6",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-09-27",
+          "message": "fix(sdk): conditional hijack in Fastify adapter on settled pass-through (#311)"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 35,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "b9f4fd6",
+              "author": "Olalolo22 <olalolo22@github.com>",
+              "date": "2026-09-27",
+              "message": "fix(sdk): conditional hijack in Fastify adapter on settled pass-through (#311)"
+            }
+          ],
+          "diff_summary": " 69 files changed, 3448 insertions(+), 479 deletions(-)"
+        }
+      },
+      "origin/dependabot/github_actions/actions/checkout-7": {
+        "total_user_commits_in_history": 20,
+        "latest_user_commit": {
+          "sha": "d409580",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-08-29",
+          "message": "fix(sdk-tests): use EndpointDescriptor object shape in registerProvider test fixture"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 52,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "origin/dependabot/github_actions/actions/setup-node-7": {
+        "total_user_commits_in_history": 20,
+        "latest_user_commit": {
+          "sha": "d409580",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-08-29",
+          "message": "fix(sdk-tests): use EndpointDescriptor object shape in registerProvider test fixture"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 0,
+          "behind_count": 52,
+          "user_ahead_commits": [],
+          "diff_summary": "No diff"
+        }
+      },
+      "origin/dependabot/github_actions/pnpm/action-setup-6.1.0": {
+        "total_user_commits_in_history": 23,
+        "latest_user_commit": {
+          "sha": "79ad84b",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-09-02",
+          "message": "test(sdk): add recovery transition test for SessionReconciler (#209)"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 1,
+          "behind_count": 42,
+          "user_ahead_commits": [],
+          "diff_summary": " 3 files changed, 6 insertions(+), 6 deletions(-)"
+        }
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 33,
+        "latest_user_commit": {
+          "sha": "4af2193",
+          "author": "Olalolo22 <olalolo22@github.com>",
+          "date": "2026-09-30",
+          "message": "docs(web): clarify session modes openSession call and restore express formatting"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "rugroll": {
+    "remotes": {
+      "origin": "git@github.com:Olalolo22/rugroll.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "feat/onchain-er": {
+        "total_user_commits_in_history": 12,
+        "latest_user_commit": {
+          "sha": "3bf1509",
+          "author": "Olalolo22 <olumide2925@cloudshell>",
+          "date": "2026-09-10",
+          "message": "perf(cargo): optimize release profile for cloud shell memory constraints (disable fat lto)"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 2,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "3bf1509",
+              "author": "Olalolo22 <olumide2925@cloudshell>",
+              "date": "2026-09-10",
+              "message": "perf(cargo): optimize release profile for cloud shell memory constraints (disable fat lto)"
+            },
+            {
+              "sha": "21319f4",
+              "author": "Olalolo22 <olumide2925@cloudshell>",
+              "date": "2026-09-10",
+              "message": "feat(onchain-er): configure program ID DSfJQMFV, add session key support, and wire TEE ER validator"
+            }
+          ],
+          "diff_summary": " 10 files changed, 50 insertions(+), 29 deletions(-)"
+        }
+      },
+      "main": {
+        "total_user_commits_in_history": 10,
+        "latest_user_commit": {
+          "sha": "25ce029",
+          "author": "Olalolo22 <olumide2925@cloudshell>",
+          "date": "2026-09-10",
+          "message": "fix(game): standardize 100bps multiplier scale, fix instant crash loop, and update live links"
+        },
+        "divergence": {}
+      },
+      "origin/feat/onchain-er": {
+        "total_user_commits_in_history": 12,
+        "latest_user_commit": {
+          "sha": "3bf1509",
+          "author": "Olalolo22 <olumide2925@cloudshell>",
+          "date": "2026-09-10",
+          "message": "perf(cargo): optimize release profile for cloud shell memory constraints (disable fat lto)"
+        },
+        "divergence": {
+          "base_branch": "main",
+          "ahead_count": 2,
+          "behind_count": 0,
+          "user_ahead_commits": [
+            {
+              "sha": "3bf1509",
+              "author": "Olalolo22 <olumide2925@cloudshell>",
+              "date": "2026-09-10",
+              "message": "perf(cargo): optimize release profile for cloud shell memory constraints (disable fat lto)"
+            },
+            {
+              "sha": "21319f4",
+              "author": "Olalolo22 <olumide2925@cloudshell>",
+              "date": "2026-09-10",
+              "message": "feat(onchain-er): configure program ID DSfJQMFV, add session key support, and wire TEE ER validator"
+            }
+          ],
+          "diff_summary": " 10 files changed, 50 insertions(+), 29 deletions(-)"
+        }
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 10,
+        "latest_user_commit": {
+          "sha": "25ce029",
+          "author": "Olalolo22 <olumide2925@cloudshell>",
+          "date": "2026-09-10",
+          "message": "fix(game): standardize 100bps multiplier scale, fix instant crash loop, and update live links"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "sekured-realestate": {
+    "remotes": {
+      "origin": "git@github.com:Olalolo22/sekured-realestate.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "main": {
+        "total_user_commits_in_history": 10,
+        "latest_user_commit": {
+          "sha": "6a8126c",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-03",
+          "message": "redesign(mobile): replace nested cards with clean borderless mobile floorplan visualizer and fintech timeline"
+        },
+        "divergence": {}
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 10,
+        "latest_user_commit": {
+          "sha": "6a8126c",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-03",
+          "message": "redesign(mobile): replace nested cards with clean borderless mobile floorplan visualizer and fintech timeline"
+        },
+        "divergence": {}
+      }
+    }
+  },
+  "yinka-fashion": {
+    "remotes": {
+      "origin": "git@github.com:Olalolo22/yinka-fashion.git"
+    },
+    "default_branch": "main",
+    "branches_with_user_work": {
+      "main": {
+        "total_user_commits_in_history": 4,
+        "latest_user_commit": {
+          "sha": "30374eb",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-03",
+          "message": "brand: add real Yinkianny Stitches SVG logo (dress+hanger icon, pink+gold), update brand name and colors"
+        },
+        "divergence": {}
+      },
+      "origin/main": {
+        "total_user_commits_in_history": 4,
+        "latest_user_commit": {
+          "sha": "30374eb",
+          "author": "Olumidelala <olumide2956@gmail.com>",
+          "date": "2026-09-03",
+          "message": "brand: add real Yinkianny Stitches SVG logo (dress+hanger icon, pink+gold), update brand name and colors"
+        },
+        "divergence": {}
+      }
+    }
+  }
+}

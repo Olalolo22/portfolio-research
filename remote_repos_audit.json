@@ -1,0 +1,290 @@
+{
+  "Olalolo22/Persist": {
+    "files": [
+      ".gitignore",
+      ".npmrc",
+      "LICENSE",
+      "README.md",
+      "ROADMAP.md",
+      "SUBMISSION_AGENTIC.md",
+      "SUBMISSION_WALRUS.md",
+      "agent-status.json",
+      "agent",
+      "contracts",
+      "deploy",
+      "docs",
+      "eslint.config.mjs",
+      "gk_demo_script.md",
+      "next.config.ts",
+      "package-lock.json",
+      "package.json",
+      "postcss.config.mjs",
+      "scripts",
+      "sdk",
+      "src",
+      "tailwind.config.ts",
+      "test.mjs",
+      "test_rpc.js",
+      "tsconfig.json"
+    ],
+    "readme_snippet": "# Persist\n\n## Some things are meant to outlast you.\n\n**Persist is Temporal Access Control for Sui.**\n\nIt creates cryptographically sealed capsules \u2014 time-locked, condition-gated, encrypted via Seal, stored permanently on Walrus \u2014 that unlock only when defined conditions are met. No gatekeeper. No private key holder.\n\nPersist adds one thing to the stack: **when** encrypted data can be accessed.\n\nEv",
+    "recent_commits": [
+      {
+        "sha": "df270a66",
+        "date": "2026-06-27T09:16:56Z",
+        "message": "Merge pull request #2 from Olalolo22/nifemi-version"
+      },
+      {
+        "sha": "fd558515",
+        "date": "2026-06-21T20:15:04Z",
+        "message": "feat: enhance UI components with animations and responsive adjustments"
+      },
+      {
+        "sha": "46bd2e3a",
+        "date": "2026-06-21T20:14:24Z",
+        "message": "feat: add framer-motion package for enhanced animations"
+      }
+    ]
+  },
+  "Olalolo22/Shadowbox": {
+    "files": [
+      ".gitignore",
+      "README.md",
+      "eslint.config.mjs",
+      "next.config.ts",
+      "package-lock.json",
+      "package.json",
+      "postcss.config.mjs",
+      "public",
+      "src",
+      "tsconfig.json"
+    ],
+    "readme_snippet": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).\n\n## Getting Started\n\nFirst, run the development server:\n\n```bash\nnpm run dev\n# or\nyarn dev\n# or\npnpm dev\n# or\nbun dev\n```\n\nOpen [http://localhost:3000](http://localhost:3000) with your browser to see the result.\n\nYou can start editing the page by mod",
+    "recent_commits": [
+      {
+        "sha": "fe29b406",
+        "date": "2026-05-24T12:34:51Z",
+        "message": "Initial commit: ShadowBox Confidential Finance Suite MVP"
+      }
+    ]
+  },
+  "Olalolo22/hackathon-scanner": {
+    "files": [
+      ".github",
+      ".gitignore",
+      "README.md"
+    ],
+    "readme_snippet": "# Hackathon Scanner \ud83d\udd0d\n\nDaily automated scanner that checks for open crypto/Web3 hackathons and sends push notifications to your phone.\n\n## Scans these platforms daily:\n- **Devpost** \u2014 blockchain hackathons\n- **DoraHacks** \u2014 Web3 BUIDLathons\n- **Colosseum** \u2014 Solana hackathons\n- **ETHGlobal** \u2014 Ethereum events\n- **Superteam Earn** \u2014 Solana bounties\n\n## Setup (5 minutes)\n\n### 1. Install ntfy on your",
+    "recent_commits": [
+      {
+        "sha": "2eeb6086",
+        "date": "2026-05-24T08:30:23Z",
+        "message": "daily hackathon scanner"
+      }
+    ]
+  },
+  "Olalolo22/TG-ct-auto-checker": {
+    "files": [
+      ".gitignore",
+      "README.md",
+      "package-lock.json",
+      "package.json",
+      "src"
+    ],
+    "readme_snippet": "# SolanaGuard \ud83d\udee1\ufe0f\n### Autonomous Solana Token Intelligence & Risk Assessment Agent\nBuilt for the **OOBE Protocol \u00d7 AceData Cloud Hackathon** (Target Category: *Ace Data Cloud Usage (x402 Facilitator)*).\n\nSolanaGuard is an autonomous on-chain agent that monitors new Solana Raydium launches, uses multiple AI models to analyze potential rug risks, creates a visual rating card, generates a vocal threat",
+    "recent_commits": [
+      {
+        "sha": "e4f6ad4b",
+        "date": "2026-05-21T08:03:47Z",
+        "message": "docs: add detailed SolanaGuard README with architecture, status and roadmap"
+      },
+      {
+        "sha": "817edb4f",
+        "date": "2026-05-21T07:59:57Z",
+        "message": "initial commit: autonomous SolanaGuard agent with x402 payments and SAP integration"
+      }
+    ]
+  },
+  "Olalolo22/Nosana": {
+    "files": [
+      ".eslintrc.json",
+      ".gitignore",
+      "Architecture.md",
+      "Dockerfile",
+      "README.md",
+      "agent",
+      "app",
+      "components",
+      "docker-compose.yml",
+      "env.example",
+      "jest.config.js",
+      "jest.setup.js",
+      "lib",
+      "mcp-server",
+      "next-env.d.ts",
+      "next.config.js",
+      "nginx.conf",
+      "package-lock.json",
+      "package.json",
+      "postcss.config.js",
+      "tailwind.config.js",
+      "tsconfig.json"
+    ],
+    "readme_snippet": "# Nosana Agents 102 Challenge\n\nA production-ready AI agent application featuring an MCP server, Mastra AI agent, and interactive Next.js frontend with real-time synchronization. This project demonstrates two domains: **Code Review Assistant** (primary) and **IoT Device Controller** (secondary).\n\n## \ud83d\ude80 Features\n\n### Core Components\n- **MCP Server** - Custom tools for code review and IoT device manag",
+    "recent_commits": [
+      {
+        "sha": "3d235865",
+        "date": "2026-06-30T08:55:34Z",
+        "message": "Publish Nosana project to GitHub"
+      },
+      {
+        "sha": "0e203411",
+        "date": "2025-10-07T01:15:03Z",
+        "message": "Initial commit"
+      }
+    ]
+  },
+  "Olalolo22/SaroScope_dlmm": {
+    "files": [
+      ".gitignore",
+      "README.md"
+    ],
+    "readme_snippet": "# SaroScope_dlmm",
+    "recent_commits": [
+      {
+        "sha": "70a89218",
+        "date": "2025-09-19T00:51:08Z",
+        "message": "Initial commit"
+      }
+    ]
+  },
+  "Olalolo22/my-agent": {
+    "files": [
+      ".gitignore",
+      "README.md",
+      "bun.lock",
+      "index.ts",
+      "package.json",
+      "prompts.ts",
+      "tools.ts",
+      "tsconfig.json"
+    ],
+    "readme_snippet": "# my-agent\n\nTo install dependencies:\n\n```bash\nbun install\n```\n\nTo run:\n\n```bash\nbun run index.ts\n```\n\nThis project was created using `bun init` in bun v1.2.22. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.\n",
+    "recent_commits": [
+      {
+        "sha": "f1b57b92",
+        "date": "2025-09-18T13:46:36Z",
+        "message": "Extended agents capabilties, added markdown and commit abilities"
+      },
+      {
+        "sha": "5b0ba9d1",
+        "date": "2025-09-18T12:43:12Z",
+        "message": "Added system prompt and prepped env for development"
+      }
+    ]
+  },
+  "Olalolo22/AI_Grad": {
+    "files": [
+      ".gitignore",
+      "README.md"
+    ],
+    "readme_snippet": "# AI_Grad\n# PROJECT IDEA: I will be making changes to the existing Polling App created during the course of the programme.\n# TECH STACK: \nPROGRAMMING - TYPESCRIPT\nSTYLING - TYPESCRIPT\nUI COMPONENTS - SHADCN UI\nFRAMEWORK - NEXR.js\n\n# METHOD OF AI INTEGRATION \nAI will be used to generate tests for both happy and edge cases to make sure it covers all areas.\nAI will be used to discuss new ideas and fe",
+    "recent_commits": [
+      {
+        "sha": "ac4ecc1e",
+        "date": "2025-09-24T00:40:24Z",
+        "message": "Update README.md"
+      },
+      {
+        "sha": "7174ebe3",
+        "date": "2025-09-24T00:19:48Z",
+        "message": "Update README.md"
+      },
+      {
+        "sha": "15c6beb6",
+        "date": "2025-09-21T01:48:40Z",
+        "message": "Initial commit"
+      }
+    ]
+  },
+  "School-of-Solana/task1-Olalolo22": {
+    "files": [
+      ".gitignore",
+      "Cargo.toml",
+      "README.md",
+      "rust-toolchain.toml",
+      "src"
+    ],
+    "readme_snippet": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/B6Wm8t4A)\n![School of Solana](https://github.com/Ackee-Blockchain/school-of-solana/blob/master/.banner/banner.png?raw=true)\n\nWelcome to **Task 1** of the **School of Solana Season 8**.\n\n## \ud83d\udcdaTask 1\nThe primary",
+    "recent_commits": [
+      {
+        "sha": "26e90d1e",
+        "date": "2025-10-15T22:20:25Z",
+        "message": "Solana basics done"
+      },
+      {
+        "sha": "912623a7",
+        "date": "2025-10-15T07:50:41Z",
+        "message": "add deadline"
+      },
+      {
+        "sha": "df168769",
+        "date": "2025-10-08T15:23:28Z",
+        "message": "Initial commit"
+      }
+    ]
+  },
+  "School-of-Solana/task2-Olalolo22": {
+    "files": [
+      ".gitignore",
+      "Cargo.toml",
+      "README.md",
+      "rust-toolchain.toml",
+      "src"
+    ],
+    "readme_snippet": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Rz1IYc2I)\n![School of Solana](https://github.com/Ackee-Blockchain/school-of-solana/blob/master/.banner/banner.png?raw=true)\n\nWelcome to **Task 2** of the **School of Solana Season 8**.\n\n## \ud83d\udcdaTask 2\nThis task i",
+    "recent_commits": [
+      {
+        "sha": "2de2b6c9",
+        "date": "2025-10-22T14:41:43Z",
+        "message": "Passed all tests"
+      },
+      {
+        "sha": "da9f1b26",
+        "date": "2025-10-15T23:06:29Z",
+        "message": "add deadline"
+      },
+      {
+        "sha": "21f21c82",
+        "date": "2025-10-15T09:29:52Z",
+        "message": "Initial commit"
+      }
+    ]
+  },
+  "Olalolo22/alx-system_engineering-devops": {
+    "files": [
+      "0x00-shell_basics",
+      "0x02-shell_redirections",
+      "0x03-shell_variables_expansions",
+      "README.md"
+    ],
+    "readme_snippet": "Devops is the title\n",
+    "recent_commits": [
+      {
+        "sha": "5507508f",
+        "date": "2023-12-13T15:45:04Z",
+        "message": "Greetings"
+      },
+      {
+        "sha": "267fdbf5",
+        "date": "2023-12-13T15:31:54Z",
+        "message": "Adjusted naming issue"
+      },
+      {
+        "sha": "e8103054",
+        "date": "2023-12-13T15:27:01Z",
+        "message": "Aliases"
+      }
+    ]
+  }
+}

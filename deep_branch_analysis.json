@@ -1,0 +1,1938 @@
+{
+  "routedock": {
+    "repo": "routedock",
+    "default_branch": "main",
+    "branches": {
+      "feat/issue-162-handlers": {
+        "ref": "feat/issue-162-handlers",
+        "sha": "0e178c92",
+        "commit_summary": "0e178c9|2026-08-08|Olalolo22 <olalolo22@github.com>|fix: address maintainer review \u2014 ToolResult type alias, HorizonBalance normalizer, typed dispatch, CI test step",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 372,
+        "ahead_commits": [],
+        "behind_commits": [
+          "09212cc Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+          "287cc88 Merge pull request #477 from Mayor-Isaac/fix/330-sunset-guard",
+          "92a52fc Merge pull request #452 from Times-stack/fix/issue-414-normalize-endpoint-cap-keys",
+          "8998c04 Merge pull request #475 from Promessa1/fix/issue-344-client-error-handling",
+          "2dd38be Merge pull request #474 from Promessa1/fix/issue-349-address-display-a11y"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "fix/issue-209": {
+        "ref": "fix/issue-209",
+        "sha": "79ad84b7",
+        "commit_summary": "79ad84b|2026-09-02|Olalolo22 <olalolo22@github.com>|test(sdk): add recovery transition test for SessionReconciler (#209)",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 50,
+        "ahead_commits": [],
+        "behind_commits": [
+          "09212cc Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+          "287cc88 Merge pull request #477 from Mayor-Isaac/fix/330-sunset-guard",
+          "92a52fc Merge pull request #452 from Times-stack/fix/issue-414-normalize-endpoint-cap-keys",
+          "8998c04 Merge pull request #475 from Promessa1/fix/issue-344-client-error-handling",
+          "2dd38be Merge pull request #474 from Promessa1/fix/issue-349-address-display-a11y"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "fix/issue-210": {
+        "ref": "fix/issue-210",
+        "sha": "d4095800",
+        "commit_summary": "d409580|2026-08-29|Olalolo22 <olalolo22@github.com>|fix(sdk-tests): use EndpointDescriptor object shape in registerProvider test fixture",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 115,
+        "ahead_commits": [],
+        "behind_commits": [
+          "09212cc Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+          "287cc88 Merge pull request #477 from Mayor-Isaac/fix/330-sunset-guard",
+          "92a52fc Merge pull request #452 from Times-stack/fix/issue-414-normalize-endpoint-cap-keys",
+          "8998c04 Merge pull request #475 from Promessa1/fix/issue-344-client-error-handling",
+          "2dd38be Merge pull request #474 from Promessa1/fix/issue-349-address-display-a11y"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "fix/issue-220": {
+        "ref": "fix/issue-220",
+        "sha": "86a5606a",
+        "commit_summary": "86a5606|2026-08-29|Olalolo22 <olalolo22@github.com>|fix(sdk,nulth-sdk): unify USDC decimal-to-integer conversion in usdcToStroops (#220)",
+        "is_default": false,
+        "ahead_count": 1,
+        "behind_count": 118,
+        "ahead_commits": [
+          "86a5606 fix(sdk,nulth-sdk): unify USDC decimal-to-integer conversion in usdcToStroops (#220)"
+        ],
+        "behind_commits": [
+          "09212cc Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+          "287cc88 Merge pull request #477 from Mayor-Isaac/fix/330-sunset-guard",
+          "92a52fc Merge pull request #452 from Times-stack/fix/issue-414-normalize-endpoint-cap-keys",
+          "8998c04 Merge pull request #475 from Promessa1/fix/issue-344-client-error-handling",
+          "2dd38be Merge pull request #474 from Promessa1/fix/issue-349-address-display-a11y"
+        ],
+        "diff_stat": " 9 files changed, 102 insertions(+), 35 deletions(-)",
+        "files_changed_count": 9,
+        "sample_files_changed": [
+          ".changeset/unify-usdc-decimal-parsers.md",
+          "packages/nulth-sdk/src/__tests__/nulth.test.ts",
+          "packages/nulth-sdk/src/proof.ts",
+          "packages/sdk/src/client/NulthVault.ts",
+          "packages/sdk/src/client/index.ts",
+          "packages/sdk/src/index.ts",
+          "packages/sdk/src/internal/__tests__/usdc.test.ts",
+          "packages/sdk/src/internal/usdc.ts"
+        ]
+      },
+      "fix/issue-223": {
+        "ref": "fix/issue-223",
+        "sha": "ade7df3e",
+        "commit_summary": "ade7df3|2026-08-29|Olalolo22 <olalolo22@github.com>|fix(agent): read live session spend from stats instead of hardcoded rate (#223)",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 117,
+        "ahead_commits": [],
+        "behind_commits": [
+          "09212cc Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+          "287cc88 Merge pull request #477 from Mayor-Isaac/fix/330-sunset-guard",
+          "92a52fc Merge pull request #452 from Times-stack/fix/issue-414-normalize-endpoint-cap-keys",
+          "8998c04 Merge pull request #475 from Promessa1/fix/issue-344-client-error-handling",
+          "2dd38be Merge pull request #474 from Promessa1/fix/issue-349-address-display-a11y"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "fix/issue-311-fastify-reply-hijack": {
+        "ref": "fix/issue-311-fastify-reply-hijack",
+        "sha": "b9f4fd61",
+        "commit_summary": "b9f4fd6|2026-09-27|Olalolo22 <olalolo22@github.com>|fix(sdk): conditional hijack in Fastify adapter on settled pass-through (#311)",
+        "is_default": false,
+        "ahead_count": 1,
+        "behind_count": 0,
+        "ahead_commits": [
+          "b9f4fd6 fix(sdk): conditional hijack in Fastify adapter on settled pass-through (#311)"
+        ],
+        "behind_commits": [],
+        "diff_stat": " 3 files changed, 71 insertions(+), 8 deletions(-)",
+        "files_changed_count": 3,
+        "sample_files_changed": [
+          ".changeset/fastify-adapter-reply-hijack.md",
+          "packages/sdk/src/provider/__tests__/fastify.test.ts",
+          "packages/sdk/src/provider/fastify.ts"
+        ]
+      },
+      "fix/issue-313-vault-constructor": {
+        "ref": "fix/issue-313-vault-constructor",
+        "sha": "8a337904",
+        "commit_summary": "8a33790|2026-09-29|Olalolo22 <olalolo22@github.com>|test(agent-vault): update snapshots for constructor tuple registration",
+        "is_default": false,
+        "ahead_count": 38,
+        "behind_count": 0,
+        "ahead_commits": [
+          "8a33790 test(agent-vault): update snapshots for constructor tuple registration",
+          "26666b0 fix(agent-vault): clone admin in test_admin_mutation_events",
+          "9c19e04 fix(agent-vault): add explicit type annotations for Map::new in tests",
+          "f65324e fix(agent-vault): configure vault in constructor instead of unauthenticated initialize (#313)",
+          "7f0ae28 Merge pull request #307 from winsznx/dependabot/github_actions/pnpm/action-setup-6.1.0",
+          "90195e5 Merge pull request #514 from storm-beyndtech/fix/337-agent-vault-upgrade-tests",
+          "9c51878 Merge pull request #504 from storm-beyndtech/fix/340-cron-reconciliation-logging",
+          "174731a Merge pull request #502 from winsznx/dependabot/github_actions/reviewdog/action-actionlint-1.77.0",
+          "e3d3858 Merge pull request #451 from Times-stack/fix/issue-388-defer-signature-commit-until-verified",
+          "2433bd4 Merge pull request #469 from joydeelish/fix/issue-409-attw-esm-exports"
+        ],
+        "behind_commits": [],
+        "diff_stat": " 119 files changed, 6819 insertions(+), 1918 deletions(-)",
+        "files_changed_count": 119,
+        "sample_files_changed": [
+          ".changeset/attw-esm-exports.md",
+          ".changeset/fastify-adapter-reply-hijack.md",
+          ".changeset/mpp-json-parse-guard.md",
+          ".changeset/publish-files-field.md",
+          ".changeset/scoped-abandoned-session-recovery.md",
+          ".changeset/session-close-stops-stream.md",
+          ".changeset/thick-plums-verify.md",
+          ".changeset/ws-session-spend-cap.md"
+        ]
+      },
+      "fix/issue-345-stale-docs-page": {
+        "ref": "fix/issue-345-stale-docs-page",
+        "sha": "4af21937",
+        "commit_summary": "4af2193|2026-09-30|Olalolo22 <olalolo22@github.com>|docs(web): clarify session modes openSession call and restore express formatting",
+        "is_default": false,
+        "ahead_count": 39,
+        "behind_count": 0,
+        "ahead_commits": [
+          "4af2193 docs(web): clarify session modes openSession call and restore express formatting",
+          "12e68a1 chore: sync pnpm-lock.yaml with apps/web devDependencies",
+          "a90efa9 docs(web): update exports, client summary, provider adapters, manifest rejection, and mode router link",
+          "d46c1b8 fix(web): escape quotes in manifest signature_version inline code",
+          "8818cbf docs(web): fix stale manifest example, schema validation claims, and pay mode docs",
+          "7f0ae28 Merge pull request #307 from winsznx/dependabot/github_actions/pnpm/action-setup-6.1.0",
+          "90195e5 Merge pull request #514 from storm-beyndtech/fix/337-agent-vault-upgrade-tests",
+          "9c51878 Merge pull request #504 from storm-beyndtech/fix/340-cron-reconciliation-logging",
+          "174731a Merge pull request #502 from winsznx/dependabot/github_actions/reviewdog/action-actionlint-1.77.0",
+          "e3d3858 Merge pull request #451 from Times-stack/fix/issue-388-defer-signature-commit-until-verified"
+        ],
+        "behind_commits": [],
+        "diff_stat": " 61 files changed, 3578 insertions(+), 419 deletions(-)",
+        "files_changed_count": 61,
+        "sample_files_changed": [
+          ".changeset/attw-esm-exports.md",
+          ".changeset/fastify-adapter-reply-hijack.md",
+          ".changeset/mpp-json-parse-guard.md",
+          ".changeset/publish-files-field.md",
+          ".changeset/scoped-abandoned-session-recovery.md",
+          ".changeset/session-close-stops-stream.md",
+          ".changeset/thick-plums-verify.md",
+          ".changeset/ws-session-spend-cap.md"
+        ]
+      },
+      "fix/issue-371-mainnet-deployment-docs": {
+        "ref": "fix/issue-371-mainnet-deployment-docs",
+        "sha": "b32ecc10",
+        "commit_summary": "b32ecc1|2026-09-30|Olalolo22 <olalolo22@github.com>|docs: add --source-account to vault read-backs and native XLM sweep to emergency response",
+        "is_default": false,
+        "ahead_count": 55,
+        "behind_count": 0,
+        "ahead_commits": [
+          "b32ecc1 docs: add --source-account to vault read-backs and native XLM sweep to emergency response",
+          "0d0a6dd docs: fix mainnet emergency pause, vault policy steps, and monitoring references",
+          "525ff2a Merge pull request #498 from Olalolo22/fix/issue-345-stale-docs-page",
+          "b4c47dc Merge pull request #494 from oscarj007/fix/348-hydration-timestamps",
+          "4af2193 docs(web): clarify session modes openSession call and restore express formatting",
+          "12e68a1 chore: sync pnpm-lock.yaml with apps/web devDependencies",
+          "f8d1c0d Merge pull request #497 from Olalolo22/fix/issue-313-vault-constructor",
+          "046d044 Merge pull request #441 from Yerimahjr/fix/355-nulth-auth-entry-mismatch",
+          "02ec05c Merge pull request #515 from storm-beyndtech/fix/347-web-env-example",
+          "d31928b Merge pull request #516 from storm-beyndtech/fix/339-provider-config-validation"
+        ],
+        "behind_commits": [],
+        "diff_stat": " 147 files changed, 8238 insertions(+), 2110 deletions(-)",
+        "files_changed_count": 147,
+        "sample_files_changed": [
+          ".changeset/attw-esm-exports.md",
+          ".changeset/fastify-adapter-reply-hijack.md",
+          ".changeset/loud-vaults-verify-context.md",
+          ".changeset/mpp-json-parse-guard.md",
+          ".changeset/publish-files-field.md",
+          ".changeset/scoped-abandoned-session-recovery.md",
+          ".changeset/session-close-stops-stream.md",
+          ".changeset/thick-plums-verify.md"
+        ]
+      },
+      "main": {
+        "ref": "main",
+        "sha": "09212cc4",
+        "commit_summary": "09212cc|2026-09-26|Tim <68760559+winsznx@users.noreply.github.com>|Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+        "is_default": true,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "fork/changeset-release/main": {
+        "ref": "fork/changeset-release/main",
+        "sha": "d73c7c9d",
+        "commit_summary": "d73c7c9|2026-09-05|github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>|Version Packages",
+        "is_default": false,
+        "ahead_count": 1,
+        "behind_count": 53,
+        "ahead_commits": [
+          "d73c7c9 Version Packages"
+        ],
+        "behind_commits": [
+          "09212cc Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+          "287cc88 Merge pull request #477 from Mayor-Isaac/fix/330-sunset-guard",
+          "92a52fc Merge pull request #452 from Times-stack/fix/issue-414-normalize-endpoint-cap-keys",
+          "8998c04 Merge pull request #475 from Promessa1/fix/issue-344-client-error-handling",
+          "2dd38be Merge pull request #474 from Promessa1/fix/issue-349-address-display-a11y"
+        ],
+        "diff_stat": " 14 files changed, 52 insertions(+), 46 deletions(-)",
+        "files_changed_count": 14,
+        "sample_files_changed": [
+          ".changeset/bright-docks-release.md",
+          ".changeset/calm-docks-deprecation.md",
+          ".changeset/clever-channels-verify.md",
+          ".changeset/fair-manifests-sign.md",
+          ".changeset/provider-registry-registration.md",
+          ".changeset/secure-nulth-mock-prover.md",
+          ".changeset/tame-pears-invalidate.md",
+          ".changeset/tidy-sessions-websocket.md"
+        ]
+      },
+      "fork/feat/emergency-stop": {
+        "ref": "fork/feat/emergency-stop",
+        "sha": "1ee81748",
+        "commit_summary": "1ee8174|2026-07-08|Muhammed <116976810+Olalolo22@users.noreply.github.com>|chore: update test snapshots",
+        "is_default": false,
+        "ahead_count": 5,
+        "behind_count": 287,
+        "ahead_commits": [
+          "1ee8174 chore: update test snapshots",
+          "62823da fix: add missing ContractFrozen error variant",
+          "3f10aac fix: import FromVal trait for test compilation",
+          "bf0b4ea fix: use from_val instead of try_from_val for older soroban-sdk compatibility",
+          "89b727c feat: add explicit freeze/unfreeze emergency stop (fixes #47)"
+        ],
+        "behind_commits": [
+          "09212cc Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+          "287cc88 Merge pull request #477 from Mayor-Isaac/fix/330-sunset-guard",
+          "92a52fc Merge pull request #452 from Times-stack/fix/issue-414-normalize-endpoint-cap-keys",
+          "8998c04 Merge pull request #475 from Promessa1/fix/issue-344-client-error-handling",
+          "2dd38be Merge pull request #474 from Promessa1/fix/issue-349-address-display-a11y"
+        ],
+        "diff_stat": " 37 files changed, 1067 insertions(+), 38 deletions(-)",
+        "files_changed_count": 37,
+        "sample_files_changed": [
+          "contracts/agent-vault/src/lib.rs",
+          "contracts/agent-vault/test_snapshots/tests/test_accept_admin_no_pending_admin_fails.1.json",
+          "contracts/agent-vault/test_snapshots/tests/test_accept_admin_wrong_address_fails.1.json",
+          "contracts/agent-vault/test_snapshots/tests/test_accumulated_spend_exceeding_cap_fails.1.json",
+          "contracts/agent-vault/test_snapshots/tests/test_accumulated_spend_within_cap_succeeds.1.json",
+          "contracts/agent-vault/test_snapshots/tests/test_allowlist_multiple_entries_all_accepted.1.json",
+          "contracts/agent-vault/test_snapshots/tests/test_daily_cap_boundary_at_limit_succeeds.1.json",
+          "contracts/agent-vault/test_snapshots/tests/test_daily_cap_boundary_exceeding_by_one_fails.1.json"
+        ]
+      },
+      "fork/feat/issue-136": {
+        "ref": "fork/feat/issue-136",
+        "sha": "0e3e7265",
+        "commit_summary": "0e3e726|2026-07-30|Olumidelala <olumide2956@gmail.com>|fix(fastify): bridge Express handlers with proper req/res shim",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 280,
+        "ahead_commits": [],
+        "behind_commits": [
+          "09212cc Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+          "287cc88 Merge pull request #477 from Mayor-Isaac/fix/330-sunset-guard",
+          "92a52fc Merge pull request #452 from Times-stack/fix/issue-414-normalize-endpoint-cap-keys",
+          "8998c04 Merge pull request #475 from Promessa1/fix/issue-344-client-error-handling",
+          "2dd38be Merge pull request #474 from Promessa1/fix/issue-349-address-display-a11y"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "fork/feat/issue-142": {
+        "ref": "fork/feat/issue-142",
+        "sha": "33740f37",
+        "commit_summary": "33740f3|2026-07-30|Olumidelala <olumide2956@gmail.com>|fix(typecheck): resolve test file type annotations for issue #142",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 278,
+        "ahead_commits": [],
+        "behind_commits": [
+          "09212cc Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+          "287cc88 Merge pull request #477 from Mayor-Isaac/fix/330-sunset-guard",
+          "92a52fc Merge pull request #452 from Times-stack/fix/issue-414-normalize-endpoint-cap-keys",
+          "8998c04 Merge pull request #475 from Promessa1/fix/issue-344-client-error-handling",
+          "2dd38be Merge pull request #474 from Promessa1/fix/issue-349-address-display-a11y"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "fork/feat/issue-162": {
+        "ref": "fork/feat/issue-162",
+        "sha": "418f886f",
+        "commit_summary": "418f886|2026-07-30|Olumidelala <olumide2956@gmail.com>|ci: build @routedock/routedock before typecheck job in CI",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 275,
+        "ahead_commits": [],
+        "behind_commits": [
+          "09212cc Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+          "287cc88 Merge pull request #477 from Mayor-Isaac/fix/330-sunset-guard",
+          "92a52fc Merge pull request #452 from Times-stack/fix/issue-414-normalize-endpoint-cap-keys",
+          "8998c04 Merge pull request #475 from Promessa1/fix/issue-344-client-error-handling",
+          "2dd38be Merge pull request #474 from Promessa1/fix/issue-349-address-display-a11y"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "fork/feat/issue-162-handlers": {
+        "ref": "fork/feat/issue-162-handlers",
+        "sha": "ccb0ef02",
+        "commit_summary": "ccb0ef0|2026-08-08|winsznx <timjosh507@gmail.com>|fix(mcp-server): drop type suppressions and restore ROUTEDOCK_ENV_FILE",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 371,
+        "ahead_commits": [],
+        "behind_commits": [
+          "09212cc Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+          "287cc88 Merge pull request #477 from Mayor-Isaac/fix/330-sunset-guard",
+          "92a52fc Merge pull request #452 from Times-stack/fix/issue-414-normalize-endpoint-cap-keys",
+          "8998c04 Merge pull request #475 from Promessa1/fix/issue-344-client-error-handling",
+          "2dd38be Merge pull request #474 from Promessa1/fix/issue-349-address-display-a11y"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "fork/feat/issue-45": {
+        "ref": "fork/feat/issue-45",
+        "sha": "6ac18143",
+        "commit_summary": "6ac1814|2026-07-08|Muhammed <116976810+Olalolo22@users.noreply.github.com>|chore: regenerate snapshots after rebase",
+        "is_default": false,
+        "ahead_count": 2,
+        "behind_count": 286,
+        "ahead_commits": [
+          "6ac1814 chore: regenerate snapshots after rebase",
+          "bef2796 feat: add view functions and tests for issue #45"
+        ],
+        "behind_commits": [
+          "09212cc Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+          "287cc88 Merge pull request #477 from Mayor-Isaac/fix/330-sunset-guard",
+          "92a52fc Merge pull request #452 from Times-stack/fix/issue-414-normalize-endpoint-cap-keys",
+          "8998c04 Merge pull request #475 from Promessa1/fix/issue-344-client-error-handling",
+          "2dd38be Merge pull request #474 from Promessa1/fix/issue-349-address-display-a11y"
+        ],
+        "diff_stat": " 38 files changed, 435 insertions(+), 36 deletions(-)",
+        "files_changed_count": 38,
+        "sample_files_changed": [
+          "contracts/agent-vault/src/lib.rs",
+          "contracts/agent-vault/test_snapshots/tests/test_accept_admin_no_pending_admin_fails.1.json",
+          "contracts/agent-vault/test_snapshots/tests/test_accept_admin_wrong_address_fails.1.json",
+          "contracts/agent-vault/test_snapshots/tests/test_accumulated_spend_exceeding_cap_fails.1.json",
+          "contracts/agent-vault/test_snapshots/tests/test_accumulated_spend_within_cap_succeeds.1.json",
+          "contracts/agent-vault/test_snapshots/tests/test_allowlist_multiple_entries_all_accepted.1.json",
+          "contracts/agent-vault/test_snapshots/tests/test_daily_cap_boundary_at_limit_succeeds.1.json",
+          "contracts/agent-vault/test_snapshots/tests/test_daily_cap_boundary_exceeding_by_one_fails.1.json"
+        ]
+      },
+      "fork/feat/per-endpoint-spend-cap": {
+        "ref": "fork/feat/per-endpoint-spend-cap",
+        "sha": "3815dda1",
+        "commit_summary": "3815dda|2026-07-07|Olumidelala <olumide2956@gmail.com>|test: fix ts inference string casting issue in smoke test",
+        "is_default": false,
+        "ahead_count": 7,
+        "behind_count": 296,
+        "ahead_commits": [
+          "3815dda test: fix ts inference string casting issue in smoke test",
+          "b3d5ff7 chore: regenerate test snapshots after rebase onto main",
+          "a13051a test: update expected error code for NoPendingAdmin",
+          "7df7d88 fix: add missing NoPendingAdmin error variant",
+          "481eced fix: insert transfer_admin and accept_admin into the impl block",
+          "14d7043 fix: use env context instead of secrets in step-level if conditions",
+          "fa7eb2a feat: implement admin transfer and acceptance with tests"
+        ],
+        "behind_commits": [
+          "09212cc Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+          "287cc88 Merge pull request #477 from Mayor-Isaac/fix/330-sunset-guard",
+          "92a52fc Merge pull request #452 from Times-stack/fix/issue-414-normalize-endpoint-cap-keys",
+          "8998c04 Merge pull request #475 from Promessa1/fix/issue-344-client-error-handling",
+          "2dd38be Merge pull request #474 from Promessa1/fix/issue-349-address-display-a11y"
+        ],
+        "diff_stat": " 36 files changed, 1543 insertions(+), 32 deletions(-)",
+        "files_changed_count": 36,
+        "sample_files_changed": [
+          ".github/workflows/e2e.yml",
+          "contracts/agent-vault/src/lib.rs",
+          "contracts/agent-vault/test_snapshots/tests/test_accept_admin_no_pending_admin_fails.1.json",
+          "contracts/agent-vault/test_snapshots/tests/test_accept_admin_wrong_address_fails.1.json",
+          "contracts/agent-vault/test_snapshots/tests/test_accumulated_spend_exceeding_cap_fails.1.json",
+          "contracts/agent-vault/test_snapshots/tests/test_accumulated_spend_within_cap_succeeds.1.json",
+          "contracts/agent-vault/test_snapshots/tests/test_allowlist_multiple_entries_all_accepted.1.json",
+          "contracts/agent-vault/test_snapshots/tests/test_daily_cap_boundary_at_limit_succeeds.1.json"
+        ]
+      },
+      "fork/fix/issue-209": {
+        "ref": "fork/fix/issue-209",
+        "sha": "79ad84b7",
+        "commit_summary": "79ad84b|2026-09-02|Olalolo22 <olalolo22@github.com>|test(sdk): add recovery transition test for SessionReconciler (#209)",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 50,
+        "ahead_commits": [],
+        "behind_commits": [
+          "09212cc Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+          "287cc88 Merge pull request #477 from Mayor-Isaac/fix/330-sunset-guard",
+          "92a52fc Merge pull request #452 from Times-stack/fix/issue-414-normalize-endpoint-cap-keys",
+          "8998c04 Merge pull request #475 from Promessa1/fix/issue-344-client-error-handling",
+          "2dd38be Merge pull request #474 from Promessa1/fix/issue-349-address-display-a11y"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "fork/fix/issue-210": {
+        "ref": "fork/fix/issue-210",
+        "sha": "d4095800",
+        "commit_summary": "d409580|2026-08-29|Olalolo22 <olalolo22@github.com>|fix(sdk-tests): use EndpointDescriptor object shape in registerProvider test fixture",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 115,
+        "ahead_commits": [],
+        "behind_commits": [
+          "09212cc Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+          "287cc88 Merge pull request #477 from Mayor-Isaac/fix/330-sunset-guard",
+          "92a52fc Merge pull request #452 from Times-stack/fix/issue-414-normalize-endpoint-cap-keys",
+          "8998c04 Merge pull request #475 from Promessa1/fix/issue-344-client-error-handling",
+          "2dd38be Merge pull request #474 from Promessa1/fix/issue-349-address-display-a11y"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "fork/fix/issue-220": {
+        "ref": "fork/fix/issue-220",
+        "sha": "86a5606a",
+        "commit_summary": "86a5606|2026-08-29|Olalolo22 <olalolo22@github.com>|fix(sdk,nulth-sdk): unify USDC decimal-to-integer conversion in usdcToStroops (#220)",
+        "is_default": false,
+        "ahead_count": 1,
+        "behind_count": 118,
+        "ahead_commits": [
+          "86a5606 fix(sdk,nulth-sdk): unify USDC decimal-to-integer conversion in usdcToStroops (#220)"
+        ],
+        "behind_commits": [
+          "09212cc Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+          "287cc88 Merge pull request #477 from Mayor-Isaac/fix/330-sunset-guard",
+          "92a52fc Merge pull request #452 from Times-stack/fix/issue-414-normalize-endpoint-cap-keys",
+          "8998c04 Merge pull request #475 from Promessa1/fix/issue-344-client-error-handling",
+          "2dd38be Merge pull request #474 from Promessa1/fix/issue-349-address-display-a11y"
+        ],
+        "diff_stat": " 9 files changed, 102 insertions(+), 35 deletions(-)",
+        "files_changed_count": 9,
+        "sample_files_changed": [
+          ".changeset/unify-usdc-decimal-parsers.md",
+          "packages/nulth-sdk/src/__tests__/nulth.test.ts",
+          "packages/nulth-sdk/src/proof.ts",
+          "packages/sdk/src/client/NulthVault.ts",
+          "packages/sdk/src/client/index.ts",
+          "packages/sdk/src/index.ts",
+          "packages/sdk/src/internal/__tests__/usdc.test.ts",
+          "packages/sdk/src/internal/usdc.ts"
+        ]
+      },
+      "fork/fix/issue-223": {
+        "ref": "fork/fix/issue-223",
+        "sha": "ade7df3e",
+        "commit_summary": "ade7df3|2026-08-29|Olalolo22 <olalolo22@github.com>|fix(agent): read live session spend from stats instead of hardcoded rate (#223)",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 117,
+        "ahead_commits": [],
+        "behind_commits": [
+          "09212cc Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+          "287cc88 Merge pull request #477 from Mayor-Isaac/fix/330-sunset-guard",
+          "92a52fc Merge pull request #452 from Times-stack/fix/issue-414-normalize-endpoint-cap-keys",
+          "8998c04 Merge pull request #475 from Promessa1/fix/issue-344-client-error-handling",
+          "2dd38be Merge pull request #474 from Promessa1/fix/issue-349-address-display-a11y"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "fork/fix/issue-311-fastify-reply-hijack": {
+        "ref": "fork/fix/issue-311-fastify-reply-hijack",
+        "sha": "b9f4fd61",
+        "commit_summary": "b9f4fd6|2026-09-27|Olalolo22 <olalolo22@github.com>|fix(sdk): conditional hijack in Fastify adapter on settled pass-through (#311)",
+        "is_default": false,
+        "ahead_count": 1,
+        "behind_count": 0,
+        "ahead_commits": [
+          "b9f4fd6 fix(sdk): conditional hijack in Fastify adapter on settled pass-through (#311)"
+        ],
+        "behind_commits": [],
+        "diff_stat": " 3 files changed, 71 insertions(+), 8 deletions(-)",
+        "files_changed_count": 3,
+        "sample_files_changed": [
+          ".changeset/fastify-adapter-reply-hijack.md",
+          "packages/sdk/src/provider/__tests__/fastify.test.ts",
+          "packages/sdk/src/provider/fastify.ts"
+        ]
+      },
+      "fork/fix/issue-313-vault-constructor": {
+        "ref": "fork/fix/issue-313-vault-constructor",
+        "sha": "8a337904",
+        "commit_summary": "8a33790|2026-09-29|Olalolo22 <olalolo22@github.com>|test(agent-vault): update snapshots for constructor tuple registration",
+        "is_default": false,
+        "ahead_count": 38,
+        "behind_count": 0,
+        "ahead_commits": [
+          "8a33790 test(agent-vault): update snapshots for constructor tuple registration",
+          "26666b0 fix(agent-vault): clone admin in test_admin_mutation_events",
+          "9c19e04 fix(agent-vault): add explicit type annotations for Map::new in tests",
+          "f65324e fix(agent-vault): configure vault in constructor instead of unauthenticated initialize (#313)",
+          "7f0ae28 Merge pull request #307 from winsznx/dependabot/github_actions/pnpm/action-setup-6.1.0",
+          "90195e5 Merge pull request #514 from storm-beyndtech/fix/337-agent-vault-upgrade-tests",
+          "9c51878 Merge pull request #504 from storm-beyndtech/fix/340-cron-reconciliation-logging",
+          "174731a Merge pull request #502 from winsznx/dependabot/github_actions/reviewdog/action-actionlint-1.77.0",
+          "e3d3858 Merge pull request #451 from Times-stack/fix/issue-388-defer-signature-commit-until-verified",
+          "2433bd4 Merge pull request #469 from joydeelish/fix/issue-409-attw-esm-exports"
+        ],
+        "behind_commits": [],
+        "diff_stat": " 119 files changed, 6819 insertions(+), 1918 deletions(-)",
+        "files_changed_count": 119,
+        "sample_files_changed": [
+          ".changeset/attw-esm-exports.md",
+          ".changeset/fastify-adapter-reply-hijack.md",
+          ".changeset/mpp-json-parse-guard.md",
+          ".changeset/publish-files-field.md",
+          ".changeset/scoped-abandoned-session-recovery.md",
+          ".changeset/session-close-stops-stream.md",
+          ".changeset/thick-plums-verify.md",
+          ".changeset/ws-session-spend-cap.md"
+        ]
+      },
+      "fork/fix/issue-345-stale-docs-page": {
+        "ref": "fork/fix/issue-345-stale-docs-page",
+        "sha": "4af21937",
+        "commit_summary": "4af2193|2026-09-30|Olalolo22 <olalolo22@github.com>|docs(web): clarify session modes openSession call and restore express formatting",
+        "is_default": false,
+        "ahead_count": 39,
+        "behind_count": 0,
+        "ahead_commits": [
+          "4af2193 docs(web): clarify session modes openSession call and restore express formatting",
+          "12e68a1 chore: sync pnpm-lock.yaml with apps/web devDependencies",
+          "a90efa9 docs(web): update exports, client summary, provider adapters, manifest rejection, and mode router link",
+          "d46c1b8 fix(web): escape quotes in manifest signature_version inline code",
+          "8818cbf docs(web): fix stale manifest example, schema validation claims, and pay mode docs",
+          "7f0ae28 Merge pull request #307 from winsznx/dependabot/github_actions/pnpm/action-setup-6.1.0",
+          "90195e5 Merge pull request #514 from storm-beyndtech/fix/337-agent-vault-upgrade-tests",
+          "9c51878 Merge pull request #504 from storm-beyndtech/fix/340-cron-reconciliation-logging",
+          "174731a Merge pull request #502 from winsznx/dependabot/github_actions/reviewdog/action-actionlint-1.77.0",
+          "e3d3858 Merge pull request #451 from Times-stack/fix/issue-388-defer-signature-commit-until-verified"
+        ],
+        "behind_commits": [],
+        "diff_stat": " 61 files changed, 3578 insertions(+), 419 deletions(-)",
+        "files_changed_count": 61,
+        "sample_files_changed": [
+          ".changeset/attw-esm-exports.md",
+          ".changeset/fastify-adapter-reply-hijack.md",
+          ".changeset/mpp-json-parse-guard.md",
+          ".changeset/publish-files-field.md",
+          ".changeset/scoped-abandoned-session-recovery.md",
+          ".changeset/session-close-stops-stream.md",
+          ".changeset/thick-plums-verify.md",
+          ".changeset/ws-session-spend-cap.md"
+        ]
+      },
+      "fork/fix/issue-371-mainnet-deployment-docs": {
+        "ref": "fork/fix/issue-371-mainnet-deployment-docs",
+        "sha": "b32ecc10",
+        "commit_summary": "b32ecc1|2026-09-30|Olalolo22 <olalolo22@github.com>|docs: add --source-account to vault read-backs and native XLM sweep to emergency response",
+        "is_default": false,
+        "ahead_count": 55,
+        "behind_count": 0,
+        "ahead_commits": [
+          "b32ecc1 docs: add --source-account to vault read-backs and native XLM sweep to emergency response",
+          "0d0a6dd docs: fix mainnet emergency pause, vault policy steps, and monitoring references",
+          "525ff2a Merge pull request #498 from Olalolo22/fix/issue-345-stale-docs-page",
+          "b4c47dc Merge pull request #494 from oscarj007/fix/348-hydration-timestamps",
+          "4af2193 docs(web): clarify session modes openSession call and restore express formatting",
+          "12e68a1 chore: sync pnpm-lock.yaml with apps/web devDependencies",
+          "f8d1c0d Merge pull request #497 from Olalolo22/fix/issue-313-vault-constructor",
+          "046d044 Merge pull request #441 from Yerimahjr/fix/355-nulth-auth-entry-mismatch",
+          "02ec05c Merge pull request #515 from storm-beyndtech/fix/347-web-env-example",
+          "d31928b Merge pull request #516 from storm-beyndtech/fix/339-provider-config-validation"
+        ],
+        "behind_commits": [],
+        "diff_stat": " 147 files changed, 8238 insertions(+), 2110 deletions(-)",
+        "files_changed_count": 147,
+        "sample_files_changed": [
+          ".changeset/attw-esm-exports.md",
+          ".changeset/fastify-adapter-reply-hijack.md",
+          ".changeset/loud-vaults-verify-context.md",
+          ".changeset/mpp-json-parse-guard.md",
+          ".changeset/publish-files-field.md",
+          ".changeset/scoped-abandoned-session-recovery.md",
+          ".changeset/session-close-stops-stream.md",
+          ".changeset/thick-plums-verify.md"
+        ]
+      },
+      "fork/main": {
+        "ref": "fork/main",
+        "sha": "09212cc4",
+        "commit_summary": "09212cc|2026-09-26|Tim <68760559+winsznx@users.noreply.github.com>|Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "changeset-release/main": {
+        "ref": "origin/changeset-release/main",
+        "sha": "63cdf213",
+        "commit_summary": "63cdf21|2026-09-29|github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>|Version Packages",
+        "is_default": false,
+        "ahead_count": 35,
+        "behind_count": 0,
+        "ahead_commits": [
+          "63cdf21 Version Packages",
+          "7f0ae28 Merge pull request #307 from winsznx/dependabot/github_actions/pnpm/action-setup-6.1.0",
+          "90195e5 Merge pull request #514 from storm-beyndtech/fix/337-agent-vault-upgrade-tests",
+          "9c51878 Merge pull request #504 from storm-beyndtech/fix/340-cron-reconciliation-logging",
+          "174731a Merge pull request #502 from winsznx/dependabot/github_actions/reviewdog/action-actionlint-1.77.0",
+          "e3d3858 Merge pull request #451 from Times-stack/fix/issue-388-defer-signature-commit-until-verified",
+          "2433bd4 Merge pull request #469 from joydeelish/fix/issue-409-attw-esm-exports",
+          "4e9fe62 Merge pull request #467 from joydeelish/fix/issue-408-publish-files-field",
+          "370e533 Merge pull request #482 from oscarj007/fix/322-ws-spend-cap",
+          "ed6fdc9 Merge pull request #470 from joydeelish/fix/issue-410-mpp-json-parse-guard"
+        ],
+        "behind_commits": [],
+        "diff_stat": " 69 files changed, 3448 insertions(+), 479 deletions(-)",
+        "files_changed_count": 69,
+        "sample_files_changed": [
+          ".changeset/bright-docks-release.md",
+          ".changeset/calm-docks-deprecation.md",
+          ".changeset/clever-channels-verify.md",
+          ".changeset/endpoint-sunset-enforcement.md",
+          ".changeset/fair-manifests-sign.md",
+          ".changeset/fix-endpoint-cap-key-normalization.md",
+          ".changeset/guarded-vouchers-387.md",
+          ".changeset/nulth-mainnet-guard-fail-closed.md"
+        ]
+      },
+      "dependabot/github_actions/actions/checkout-7": {
+        "ref": "origin/dependabot/github_actions/actions/checkout-7",
+        "sha": "e9b37b35",
+        "commit_summary": "e9b37b3|2026-08-31|dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>|chore(deps): bump actions/checkout from 4 to 7",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 52,
+        "ahead_commits": [],
+        "behind_commits": [
+          "09212cc Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+          "287cc88 Merge pull request #477 from Mayor-Isaac/fix/330-sunset-guard",
+          "92a52fc Merge pull request #452 from Times-stack/fix/issue-414-normalize-endpoint-cap-keys",
+          "8998c04 Merge pull request #475 from Promessa1/fix/issue-344-client-error-handling",
+          "2dd38be Merge pull request #474 from Promessa1/fix/issue-349-address-display-a11y"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "dependabot/github_actions/actions/setup-node-7": {
+        "ref": "origin/dependabot/github_actions/actions/setup-node-7",
+        "sha": "48bcac19",
+        "commit_summary": "48bcac1|2026-08-31|dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>|chore(deps): bump actions/setup-node from 4 to 7",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 52,
+        "ahead_commits": [],
+        "behind_commits": [
+          "09212cc Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+          "287cc88 Merge pull request #477 from Mayor-Isaac/fix/330-sunset-guard",
+          "92a52fc Merge pull request #452 from Times-stack/fix/issue-414-normalize-endpoint-cap-keys",
+          "8998c04 Merge pull request #475 from Promessa1/fix/issue-344-client-error-handling",
+          "2dd38be Merge pull request #474 from Promessa1/fix/issue-349-address-display-a11y"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "dependabot/github_actions/pnpm/action-setup-6.1.0": {
+        "ref": "origin/dependabot/github_actions/pnpm/action-setup-6.1.0",
+        "sha": "74c96893",
+        "commit_summary": "74c9689|2026-09-14|dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>|chore(deps): bump pnpm/action-setup from 3.0.0 to 6.1.0",
+        "is_default": false,
+        "ahead_count": 1,
+        "behind_count": 42,
+        "ahead_commits": [
+          "74c9689 chore(deps): bump pnpm/action-setup from 3.0.0 to 6.1.0"
+        ],
+        "behind_commits": [
+          "09212cc Merge pull request #480 from Mayor-Isaac/fix/354-mainnet-guard",
+          "287cc88 Merge pull request #477 from Mayor-Isaac/fix/330-sunset-guard",
+          "92a52fc Merge pull request #452 from Times-stack/fix/issue-414-normalize-endpoint-cap-keys",
+          "8998c04 Merge pull request #475 from Promessa1/fix/issue-344-client-error-handling",
+          "2dd38be Merge pull request #474 from Promessa1/fix/issue-349-address-display-a11y"
+        ],
+        "diff_stat": " 3 files changed, 6 insertions(+), 6 deletions(-)",
+        "files_changed_count": 3,
+        "sample_files_changed": [
+          ".github/workflows/ci.yml",
+          ".github/workflows/e2e.yml",
+          ".github/workflows/release.yml"
+        ]
+      }
+    }
+  },
+  "aegis-ledger": {
+    "repo": "aegis-ledger",
+    "default_branch": "feature/zero-trust-refactor",
+    "branches": {
+      "feat/colosseum-usdc-payroll": {
+        "ref": "feat/colosseum-usdc-payroll",
+        "sha": "4c739000",
+        "commit_summary": "4c73900|2026-09-24|Olumidelala <olumide2956@gmail.com>|fix(payroll): resolve TEE batch failures, address curve validation, and Buffer polyfills",
+        "is_default": false,
+        "ahead_count": 5,
+        "behind_count": 0,
+        "ahead_commits": [
+          "4c73900 fix(payroll): resolve TEE batch failures, address curve validation, and Buffer polyfills",
+          "f0eb751 feat(settlement): add dual-rail architecture with MagicBlock TEE (<1s batch) and Cloak ZK",
+          "a662bdc feat(payroll): overhaul positioning and implement drag-and-drop CSV batch importer",
+          "2b7d10a docs: add comprehensive master strategy dossier and eternal playbook",
+          "67f7ffc docs: overhaul positioning, triad architecture, and roadmap spec"
+        ],
+        "behind_commits": [],
+        "diff_stat": " 14 files changed, 1553 insertions(+), 616 deletions(-)",
+        "files_changed_count": 14,
+        "sample_files_changed": [
+          "MASTER_STRATEGY_DOSSIER.md",
+          "README.md",
+          "ROADMAP_SPEC.md",
+          "src/app/api/payroll/confirm/route.ts",
+          "src/app/api/payroll/route.ts",
+          "src/components/CsvImporter.module.css",
+          "src/components/CsvImporter.tsx",
+          "src/components/PayrollTerminal.tsx"
+        ]
+      },
+      "feature/zero-trust-refactor": {
+        "ref": "feature/zero-trust-refactor",
+        "sha": "8b601354",
+        "commit_summary": "8b60135|2026-05-15|Olumide <Olumide2956@gmail.com>|feat: still repo clewnup",
+        "is_default": true,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "magic-mvp": {
+        "ref": "magic-mvp",
+        "sha": "2b7d10ac",
+        "commit_summary": "2b7d10a|2026-09-03|Olumidelala <olumide2956@gmail.com>|docs: add comprehensive master strategy dossier and eternal playbook",
+        "is_default": false,
+        "ahead_count": 2,
+        "behind_count": 0,
+        "ahead_commits": [
+          "2b7d10a docs: add comprehensive master strategy dossier and eternal playbook",
+          "67f7ffc docs: overhaul positioning, triad architecture, and roadmap spec"
+        ],
+        "behind_commits": [],
+        "diff_stat": " 3 files changed, 439 insertions(+), 355 deletions(-)",
+        "files_changed_count": 3,
+        "sample_files_changed": [
+          "MASTER_STRATEGY_DOSSIER.md",
+          "README.md",
+          "ROADMAP_SPEC.md"
+        ]
+      },
+      "feat/hackathon-final": {
+        "ref": "origin/feat/hackathon-final",
+        "sha": "8b601354",
+        "commit_summary": "8b60135|2026-05-15|Olumide <Olumide2956@gmail.com>|feat: still repo clewnup",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "feat/showcase-layout": {
+        "ref": "origin/feat/showcase-layout",
+        "sha": "99d35314",
+        "commit_summary": "99d3531|2026-05-11|Olumide <Olumide2956@gmail.com>|chore: backup showcase layout",
+        "is_default": false,
+        "ahead_count": 1,
+        "behind_count": 24,
+        "ahead_commits": [
+          "99d3531 chore: backup showcase layout"
+        ],
+        "behind_commits": [
+          "8b60135 feat: still repo clewnup",
+          "1f79a63 repo cleanup",
+          "b6e51f2 chore: remove obsolete backup files and utility scripts",
+          "d77a969 fix(dtb): enabled RLS ona missing table",
+          "f349067 feat: reduced wait time for transactions"
+        ],
+        "diff_stat": " 3 files changed, 986 insertions(+), 832 deletions(-)",
+        "files_changed_count": 3,
+        "sample_files_changed": [
+          "src/app/page.tsx",
+          "src/hooks/usePayrollSigner.ts",
+          "src/hooks/usePrivateSwap.ts"
+        ]
+      },
+      "main": {
+        "ref": "origin/main",
+        "sha": "8b601354",
+        "commit_summary": "8b60135|2026-05-15|Olumide <Olumide2956@gmail.com>|feat: still repo clewnup",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      }
+    }
+  },
+  "harvest": {
+    "repo": "harvest",
+    "default_branch": "main",
+    "branches": {
+      "design-v2": {
+        "ref": "design-v2",
+        "sha": "ea4a7768",
+        "commit_summary": "ea4a776|2026-09-17|Harvest <harvest@stocklana.fi>|fix(modals): enable smooth scrolling, body scroll locking, and max-height constraints across all popups and drawers",
+        "is_default": false,
+        "ahead_count": 21,
+        "behind_count": 34,
+        "ahead_commits": [
+          "ea4a776 fix(modals): enable smooth scrolling, body scroll locking, and max-height constraints across all popups and drawers",
+          "6a02c43 docs: institutional-grade README and ARCHITECTURE specification with mathematical options pricing, PDA directory, settlement logic, and devnet addresses",
+          "9e4d129 feat: live keeper status & settled cycle ledger section showcasing autonomous crank engine",
+          "d3adbae feat: dynamic strike selector in vault modal (conservative, balanced, aggressive) with real-time recalculations",
+          "9966048 feat(pyth): add live Pyth Hermes oracle price ticker and dynamic benchmark pricing",
+          "eae0192 feat(faucet): add 1-click Devnet token airdrop faucet for judges",
+          "98c6b65 feat(portfolio): add My Harvest portfolio slide-over drawer",
+          "c142cb5 feat(design-v2): implement Cleara-inspired financial redesign for Harvest",
+          "0cc4aa6 fix(deploy): configure static export and output directories for Vercel deployment",
+          "9de0a6c fix(build): resolve eslint no-explicit-any, autoprefixer flex-end, and wallet standard discovery"
+        ],
+        "behind_commits": [
+          "39f1afc style: restore signature Harvest wheat emoji to brand headers and empty state",
+          "4e40bee style: replace emojis with clean SVG icons and institutional typography",
+          "0765c0c docs: enrich README with Pyth feed hex directory, keeper pipeline flags, and judge testing guide",
+          "ae33ee5 docs: add canonical ARCHITECTURE.md specification and link from README",
+          "76418e3 docs: add V1 architecture trade-offs, trust model, and V2 production roadmap"
+        ],
+        "diff_stat": " 47 files changed, 12331 insertions(+), 745 deletions(-)",
+        "files_changed_count": 47,
+        "sample_files_changed": [
+          ".gitignore",
+          "ARCHITECTURE.md",
+          "Anchor.toml",
+          "Cargo.lock",
+          "Cargo.toml",
+          "README.md",
+          "app/app/components/ConceptSection.tsx",
+          "app/app/components/ConnectWalletButton.tsx"
+        ]
+      },
+      "main": {
+        "ref": "main",
+        "sha": "39f1afc4",
+        "commit_summary": "39f1afc|2026-09-26|Harvest <harvest@stocklana.fi>|style: restore signature Harvest wheat emoji to brand headers and empty state",
+        "is_default": true,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "v0/harvest-ui": {
+        "ref": "v0/harvest-ui",
+        "sha": "0cc4aa69",
+        "commit_summary": "0cc4aa6|2026-09-17|Harvest <harvest@stocklana.fi>|fix(deploy): configure static export and output directories for Vercel deployment",
+        "is_default": false,
+        "ahead_count": 13,
+        "behind_count": 34,
+        "ahead_commits": [
+          "0cc4aa6 fix(deploy): configure static export and output directories for Vercel deployment",
+          "9de0a6c fix(build): resolve eslint no-explicit-any, autoprefixer flex-end, and wallet standard discovery",
+          "238c48d fix(deploy): remove root vercel.json in favor of native Vercel root directory and trim unused dependencies",
+          "8dd8785 fix(vercel): add next dependency to root package.json for Vercel framework detection",
+          "2fd8b1b feat(ui): integrate Solana wallet adapter, vault modal, and devnet parameters",
+          "15626ee chore: sync verified backend, IDL, and scripts from main",
+          "25427f3 Fix Vercel framework detection",
+          "b91c8ef Fix Vercel framework detection",
+          "98ff75f Fix Vercel app output directory",
+          "3391f1a Fix Vercel build root routing"
+        ],
+        "behind_commits": [
+          "39f1afc style: restore signature Harvest wheat emoji to brand headers and empty state",
+          "4e40bee style: replace emojis with clean SVG icons and institutional typography",
+          "0765c0c docs: enrich README with Pyth feed hex directory, keeper pipeline flags, and judge testing guide",
+          "ae33ee5 docs: add canonical ARCHITECTURE.md specification and link from README",
+          "76418e3 docs: add V1 architecture trade-offs, trust model, and V2 production roadmap"
+        ],
+        "diff_stat": " 26 files changed, 8244 insertions(+), 614 deletions(-)",
+        "files_changed_count": 26,
+        "sample_files_changed": [
+          ".gitignore",
+          "Anchor.toml",
+          "Cargo.lock",
+          "Cargo.toml",
+          "app/app/components/ConnectWalletButton.tsx",
+          "app/app/components/VaultModal.tsx",
+          "app/app/components/WalletProvider.tsx",
+          "app/app/globals.css"
+        ]
+      },
+      "v0/harvest-reference-landing": {
+        "ref": "origin/v0/harvest-reference-landing",
+        "sha": "9bb9e83a",
+        "commit_summary": "9bb9e83|2026-09-24|v0 <it+v0agent@vercel.com>|Adapt Harvest landing page to vault reference",
+        "is_default": false,
+        "ahead_count": 14,
+        "behind_count": 34,
+        "ahead_commits": [
+          "9bb9e83 Adapt Harvest landing page to vault reference",
+          "0cc4aa6 fix(deploy): configure static export and output directories for Vercel deployment",
+          "9de0a6c fix(build): resolve eslint no-explicit-any, autoprefixer flex-end, and wallet standard discovery",
+          "238c48d fix(deploy): remove root vercel.json in favor of native Vercel root directory and trim unused dependencies",
+          "8dd8785 fix(vercel): add next dependency to root package.json for Vercel framework detection",
+          "2fd8b1b feat(ui): integrate Solana wallet adapter, vault modal, and devnet parameters",
+          "15626ee chore: sync verified backend, IDL, and scripts from main",
+          "25427f3 Fix Vercel framework detection",
+          "b91c8ef Fix Vercel framework detection",
+          "98ff75f Fix Vercel app output directory"
+        ],
+        "behind_commits": [
+          "39f1afc style: restore signature Harvest wheat emoji to brand headers and empty state",
+          "4e40bee style: replace emojis with clean SVG icons and institutional typography",
+          "0765c0c docs: enrich README with Pyth feed hex directory, keeper pipeline flags, and judge testing guide",
+          "ae33ee5 docs: add canonical ARCHITECTURE.md specification and link from README",
+          "76418e3 docs: add V1 architecture trade-offs, trust model, and V2 production roadmap"
+        ],
+        "diff_stat": " 26 files changed, 8244 insertions(+), 614 deletions(-)",
+        "files_changed_count": 26,
+        "sample_files_changed": [
+          ".gitignore",
+          "Anchor.toml",
+          "Cargo.lock",
+          "Cargo.toml",
+          "app/app/components/ConnectWalletButton.tsx",
+          "app/app/components/VaultModal.tsx",
+          "app/app/components/WalletProvider.tsx",
+          "app/app/globals.css"
+        ]
+      },
+      "partner/fix/problem-section-chapter-motion": {
+        "ref": "partner/fix/problem-section-chapter-motion",
+        "sha": "57dc34ed",
+        "commit_summary": "57dc34e|2026-09-25|Ubuntu <ubuntu@ip-172-31-14-153.us-west-2.compute.internal>|chore(app): add pinned hero image asset",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 12,
+        "ahead_commits": [],
+        "behind_commits": [
+          "39f1afc style: restore signature Harvest wheat emoji to brand headers and empty state",
+          "4e40bee style: replace emojis with clean SVG icons and institutional typography",
+          "0765c0c docs: enrich README with Pyth feed hex directory, keeper pipeline flags, and judge testing guide",
+          "ae33ee5 docs: add canonical ARCHITECTURE.md specification and link from README",
+          "76418e3 docs: add V1 architecture trade-offs, trust model, and V2 production roadmap"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      }
+    }
+  },
+  "ProofPass": {
+    "repo": "ProofPass",
+    "default_branch": "main",
+    "branches": {
+      "feat/noir-ultrahonk-soroban-gate": {
+        "ref": "feat/noir-ultrahonk-soroban-gate",
+        "sha": "cbd2badf",
+        "commit_summary": "cbd2bad|2026-07-03|jaydearcadian <desolatejayson@gmail.com>|docs+prover: update PROJECT_STATUS with debug-instrumentation status and fix host prover ELF/BN254/payload mapping",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 12,
+        "ahead_commits": [],
+        "behind_commits": [
+          "703918c chore: Finalize project for submission",
+          "a28cadd revert(frontend): Remove broken logo due to upload failure",
+          "0432049 chore: upload logo.png",
+          "bb7007e feat(frontend): Add real logo to landing page navbar and favicon",
+          "8972a68 Add vercel.json to fix 404 on root route"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "main": {
+        "ref": "main",
+        "sha": "703918ce",
+        "commit_summary": "703918c|2026-07-03|Olumidelala <olumide2956@gmail.com>|chore: Finalize project for submission",
+        "is_default": true,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "jaydearcadian/feat/frontend-integration": {
+        "ref": "jaydearcadian/feat/frontend-integration",
+        "sha": "4af1775b",
+        "commit_summary": "4af1775|2026-07-03|jaydearcadian <desolatejayson@gmail.com>|feat(frontend): add landing page + demo app (ProofPass.dc.html, ProofPassApp.dc.html, proofpass-api.js, support.js, README)",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 11,
+        "ahead_commits": [],
+        "behind_commits": [
+          "703918c chore: Finalize project for submission",
+          "a28cadd revert(frontend): Remove broken logo due to upload failure",
+          "0432049 chore: upload logo.png",
+          "bb7007e feat(frontend): Add real logo to landing page navbar and favicon",
+          "8972a68 Add vercel.json to fix 404 on root route"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "jaydearcadian/feat/noir-ultrahonk-soroban-gate": {
+        "ref": "jaydearcadian/feat/noir-ultrahonk-soroban-gate",
+        "sha": "cbd2badf",
+        "commit_summary": "cbd2bad|2026-07-03|jaydearcadian <desolatejayson@gmail.com>|docs+prover: update PROJECT_STATUS with debug-instrumentation status and fix host prover ELF/BN254/payload mapping",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 12,
+        "ahead_commits": [],
+        "behind_commits": [
+          "703918c chore: Finalize project for submission",
+          "a28cadd revert(frontend): Remove broken logo due to upload failure",
+          "0432049 chore: upload logo.png",
+          "bb7007e feat(frontend): Add real logo to landing page navbar and favicon",
+          "8972a68 Add vercel.json to fix 404 on root route"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "jaydearcadian/main": {
+        "ref": "jaydearcadian/main",
+        "sha": "8b33b559",
+        "commit_summary": "8b33b55|2026-06-30|Olumidelala <olumide2956@gmail.com>|docs: unignore and include mock attestation PDF to unblock partner proof generation",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 15,
+        "ahead_commits": [],
+        "behind_commits": [
+          "703918c chore: Finalize project for submission",
+          "a28cadd revert(frontend): Remove broken logo due to upload failure",
+          "0432049 chore: upload logo.png",
+          "bb7007e feat(frontend): Add real logo to landing page navbar and favicon",
+          "8972a68 Add vercel.json to fix 404 on root route"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      }
+    }
+  },
+  "Stellar-iPredict": {
+    "repo": "Stellar-iPredict",
+    "default_branch": "implementation-drips",
+    "branches": {
+      "docs/issue-538-contract-upgrade-storage-compatibility": {
+        "ref": "docs/issue-538-contract-upgrade-storage-compatibility",
+        "sha": "b4e027eb",
+        "commit_summary": "b4e027e|2026-09-30|Olumidelala <olumide2956@gmail.com>|fix(ci): renumber markets sort migration to 0029, sync schema snapshot, and update brace-expansion",
+        "is_default": false,
+        "ahead_count": 2,
+        "behind_count": 0,
+        "ahead_commits": [
+          "b4e027e fix(ci): renumber markets sort migration to 0029, sync schema snapshot, and update brace-expansion",
+          "594bde1 docs(contracts): document upgrade procedure and storage compatibility rules (#538)"
+        ],
+        "behind_commits": [],
+        "diff_stat": " 11 files changed, 374 insertions(+), 138 deletions(-)",
+        "files_changed_count": 11,
+        "sample_files_changed": [
+          "backend/src/api/markets.integration.test.ts",
+          "backend/src/cache/invalidate.test.ts",
+          "backend/src/db/markets.test.ts",
+          "db/migrations/0029_markets_sort_indexes.down.sql",
+          "db/migrations/0029_markets_sort_indexes.sql",
+          "db/test/schema_drift.snapshot.sql",
+          "docs/DEPLOYMENT-GUIDE.md",
+          "oracle/src/adapters/binance.ts"
+        ]
+      },
+      "implementation-drips": {
+        "ref": "implementation-drips",
+        "sha": "38bb90c5",
+        "commit_summary": "38bb90c|2026-09-29|Ibrahim Bamidele. S <bamiebot@gmail.com>|test(oracle): add mutation testing and strengthen threshold and bond assertions (#545) (#762)",
+        "is_default": true,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "test/issue-541-oracle-lifecycle-e2e": {
+        "ref": "test/issue-541-oracle-lifecycle-e2e",
+        "sha": "d8f8edf0",
+        "commit_summary": "d8f8edf|2026-09-30|Olumidelala <olumide2956@gmail.com>|fix(ci): renumber markets sort migration to 0029, sync schema snapshot, and update brace-expansion",
+        "is_default": false,
+        "ahead_count": 2,
+        "behind_count": 0,
+        "ahead_commits": [
+          "d8f8edf fix(ci): renumber markets sort migration to 0029, sync schema snapshot, and update brace-expansion",
+          "eac30e5 test(e2e): add end-to-end test covering full optimistic oracle lifecycle (#541)"
+        ],
+        "behind_commits": [],
+        "diff_stat": " 11 files changed, 1388 insertions(+), 23 deletions(-)",
+        "files_changed_count": 11,
+        "sample_files_changed": [
+          "backend/src/api/markets.integration.test.ts",
+          "backend/src/cache/invalidate.test.ts",
+          "backend/src/db/markets.test.ts",
+          "db/migrations/0029_markets_sort_indexes.down.sql",
+          "db/migrations/0029_markets_sort_indexes.sql",
+          "db/test/schema_drift.snapshot.sql",
+          "oracle/src/adapters/binance.ts",
+          "oracle/src/adapters/coinmarketcap.ts"
+        ]
+      },
+      "test/route-auth-registry-548": {
+        "ref": "test/route-auth-registry-548",
+        "sha": "d4a175ff",
+        "commit_summary": "d4a175f|2026-09-29|Olumidelala <olumide2956@gmail.com>|test(backend): assert API route authentication registry and fail-closed enforcement (#548)",
+        "is_default": false,
+        "ahead_count": 1,
+        "behind_count": 13,
+        "ahead_commits": [
+          "d4a175f test(backend): assert API route authentication registry and fail-closed enforcement (#548)"
+        ],
+        "behind_commits": [
+          "38bb90c test(oracle): add mutation testing and strengthen threshold and bond assertions (#545) (#762)",
+          "52ad04c Add comprehensive cache invalidation tests and shared test fixtures package (#763)",
+          "9af3e94 test(backend): consolidate backend tests into colocated convention (#540) (#761)",
+          "031a865 feat: Complete Monitoring Suite with Webhook Alerting (Issues #573-577) (#759)",
+          "ddc9b5e fix(oracle): fix #555 coingecko adapter, fix #567 exact equality, fix #556 sports adapter, fix #558 conflict alerts (#760)"
+        ],
+        "diff_stat": " 3 files changed, 378 insertions(+)",
+        "files_changed_count": 3,
+        "sample_files_changed": [
+          "backend/src/api/index.ts",
+          "backend/src/api/oracle.ts",
+          "backend/test/contract.test.ts"
+        ]
+      }
+    }
+  },
+  "rescue2": {
+    "repo": "rescue2",
+    "default_branch": "main",
+    "branches": {
+      "main": {
+        "ref": "main",
+        "sha": "fa54b9d7",
+        "commit_summary": "fa54b9d|2026-09-10|Olumidelala <olumide2956@gmail.com>|docs: update README with hackathon-winning architecture, live telemetry, and benchmark proofs",
+        "is_default": true,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "mbv2": {
+        "ref": "mbv2",
+        "sha": "b593cc6a",
+        "commit_summary": "b593cc6|2026-09-09|Olumidelala <olumide2956@gmail.com>|feat(ui): update console home landing page and wire live telemetry on mbv2",
+        "is_default": false,
+        "ahead_count": 21,
+        "behind_count": 16,
+        "ahead_commits": [
+          "b593cc6 feat(ui): update console home landing page and wire live telemetry on mbv2",
+          "6e3ebf7 feat(protocol): import Anchor smart contracts, scripts, and verification harness from rescue",
+          "b68cdcd Clarify live wallet versus demo position",
+          "6e730a3 Complete MBv2 judge experience pass",
+          "b394bd7 Adapt Rescue for MBv2 judging flow",
+          "6205266 Make all protocol routes mobile friendly",
+          "21f7b99 feat(ui): unified Navbar with WalletButton on all pages + dynamic borrower key",
+          "d308f3a feat(wallet): wire Solana Wallet Adapter and modal into v0 branch",
+          "49c604f feat(protocol): fuse core backend engine, Invariants, and on-chain telemetry into v0/rescue-protocol-3-97c63b70",
+          "8e3c5e2 Add scroll-triggered landing reveals"
+        ],
+        "behind_commits": [
+          "fa54b9d docs: update README with hackathon-winning architecture, live telemetry, and benchmark proofs",
+          "8538157 fix(constants): point PROGRAM_ID to deployed Devnet program ZnDqdjHjR1HuwyMehcfEGrxCt6QiCz58UW21VjbnGjf",
+          "548466a feat(telemetry): stream live SOL price on telemetry wire and strip",
+          "183bfa7 feat(telemetry,verify): add live TEE slot to telemetry strip and per-probe measurement lines",
+          "ace95df fix(copy): revert trigger button to exact honest wording without emojis"
+        ],
+        "diff_stat": " 78 files changed, 13078 insertions(+), 117 deletions(-)",
+        "files_changed_count": 78,
+        "sample_files_changed": [
+          ".gitignore",
+          "ARCHITECTURE.md",
+          "BRAINSTORM.md",
+          "app/activity/page.tsx",
+          "app/demo/page.tsx",
+          "app/globals.css",
+          "app/layout.tsx",
+          "app/page.tsx"
+        ]
+      },
+      "v0/rescue-protocol-3-97c63b70": {
+        "ref": "v0/rescue-protocol-3-97c63b70",
+        "sha": "21f7b999",
+        "commit_summary": "21f7b99|2026-09-08|Olumidelala <olumide2956@gmail.com>|feat(ui): unified Navbar with WalletButton on all pages + dynamic borrower key",
+        "is_default": false,
+        "ahead_count": 15,
+        "behind_count": 16,
+        "ahead_commits": [
+          "21f7b99 feat(ui): unified Navbar with WalletButton on all pages + dynamic borrower key",
+          "d308f3a feat(wallet): wire Solana Wallet Adapter and modal into v0 branch",
+          "49c604f feat(protocol): fuse core backend engine, Invariants, and on-chain telemetry into v0/rescue-protocol-3-97c63b70",
+          "8e3c5e2 Add scroll-triggered landing reveals",
+          "dd9c881 Add protocol trust footer",
+          "95289d6 Simplify MagicBlock lifecycle presentation",
+          "cdc47f4 Untangle MagicBlock lifecycle section",
+          "17d0461 Fix landing preview card spacing",
+          "43bf4b5 Make MagicBlock the Rescue Protocol primitive",
+          "9e630dc Add protocol participant and proof routes"
+        ],
+        "behind_commits": [
+          "fa54b9d docs: update README with hackathon-winning architecture, live telemetry, and benchmark proofs",
+          "8538157 fix(constants): point PROGRAM_ID to deployed Devnet program ZnDqdjHjR1HuwyMehcfEGrxCt6QiCz58UW21VjbnGjf",
+          "548466a feat(telemetry): stream live SOL price on telemetry wire and strip",
+          "183bfa7 feat(telemetry,verify): add live TEE slot to telemetry strip and per-probe measurement lines",
+          "ace95df fix(copy): revert trigger button to exact honest wording without emojis"
+        ],
+        "diff_stat": " 18 files changed, 1491 insertions(+), 144 deletions(-)",
+        "files_changed_count": 18,
+        "sample_files_changed": [
+          "app/activity/page.tsx",
+          "app/demo/page.tsx",
+          "app/globals.css",
+          "app/layout.tsx",
+          "app/page.tsx",
+          "app/positions/page.tsx",
+          "app/proof/[hash]/page.tsx",
+          "app/protocol/page.tsx"
+        ]
+      },
+      "v0/rescue-protocol-surfaces": {
+        "ref": "origin/v0/rescue-protocol-surfaces",
+        "sha": "1dbd42e8",
+        "commit_summary": "1dbd42e|2026-09-07|v0 <it+v0agent@vercel.com>|Bring Rescue landing into glass product flow",
+        "is_default": false,
+        "ahead_count": 3,
+        "behind_count": 16,
+        "ahead_commits": [
+          "1dbd42e Bring Rescue landing into glass product flow",
+          "cf85207 Restructure landing page around live intervention flow",
+          "783a0c2 Build Rescue protocol console surfaces"
+        ],
+        "behind_commits": [
+          "fa54b9d docs: update README with hackathon-winning architecture, live telemetry, and benchmark proofs",
+          "8538157 fix(constants): point PROGRAM_ID to deployed Devnet program ZnDqdjHjR1HuwyMehcfEGrxCt6QiCz58UW21VjbnGjf",
+          "548466a feat(telemetry): stream live SOL price on telemetry wire and strip",
+          "183bfa7 feat(telemetry,verify): add live TEE slot to telemetry strip and per-probe measurement lines",
+          "ace95df fix(copy): revert trigger button to exact honest wording without emojis"
+        ],
+        "diff_stat": " 6 files changed, 211 insertions(+), 132 deletions(-)",
+        "files_changed_count": 6,
+        "sample_files_changed": [
+          "app/activity/page.tsx",
+          "app/demo/page.tsx",
+          "app/globals.css",
+          "app/page.tsx",
+          "app/proof/[hash]/page.tsx",
+          "app/verify/page.tsx"
+        ]
+      },
+      "v0/rescue-protocol-surfaces-clean": {
+        "ref": "origin/v0/rescue-protocol-surfaces-clean",
+        "sha": "8a903f14",
+        "commit_summary": "8a903f1|2026-09-07|v0 <it+v0agent@vercel.com>|Fix landing preview card spacing",
+        "is_default": false,
+        "ahead_count": 5,
+        "behind_count": 16,
+        "ahead_commits": [
+          "8a903f1 Fix landing preview card spacing",
+          "cfa90f5 Simplify Rescue Protocol landing flow",
+          "1dbd42e Bring Rescue landing into glass product flow",
+          "cf85207 Restructure landing page around live intervention flow",
+          "783a0c2 Build Rescue protocol console surfaces"
+        ],
+        "behind_commits": [
+          "fa54b9d docs: update README with hackathon-winning architecture, live telemetry, and benchmark proofs",
+          "8538157 fix(constants): point PROGRAM_ID to deployed Devnet program ZnDqdjHjR1HuwyMehcfEGrxCt6QiCz58UW21VjbnGjf",
+          "548466a feat(telemetry): stream live SOL price on telemetry wire and strip",
+          "183bfa7 feat(telemetry,verify): add live TEE slot to telemetry strip and per-probe measurement lines",
+          "ace95df fix(copy): revert trigger button to exact honest wording without emojis"
+        ],
+        "diff_stat": " 6 files changed, 274 insertions(+), 121 deletions(-)",
+        "files_changed_count": 6,
+        "sample_files_changed": [
+          "app/activity/page.tsx",
+          "app/demo/page.tsx",
+          "app/globals.css",
+          "app/page.tsx",
+          "app/proof/[hash]/page.tsx",
+          "app/verify/page.tsx"
+        ]
+      }
+    }
+  },
+  "Sentinel": {
+    "repo": "Sentinel",
+    "default_branch": "main",
+    "branches": {
+      "feat/landing-page": {
+        "ref": "feat/landing-page",
+        "sha": "a4b8c567",
+        "commit_summary": "a4b8c56|2026-07-25|Olumidelala <olumide2956@gmail.com>|style(web): add explicit Demo Mode badges, Testnet Escrow Pool labels, and Sample Data tags across UI",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 8,
+        "ahead_commits": [],
+        "behind_commits": [
+          "81af72f url set",
+          "82cf207 feat(web): sync live scan state across scanner, chain, verifier, and dispute pages",
+          "4a86cf0 feat(web): sync live scan results reactively across scanner, chain, and verifier pages",
+          "679b614 docs: update branding with new logo and sync demo script with UI",
+          "67be50d feat(api): add GET route handler for A2MCP bootstrap endpoint metadata and quote probing"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "main": {
+        "ref": "main",
+        "sha": "81af72f3",
+        "commit_summary": "81af72f|2026-08-04|Olumidelala <olumide2956@gmail.com>|url set",
+        "is_default": true,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "claude/full-build": {
+        "ref": "origin/claude/full-build",
+        "sha": "93ba6b02",
+        "commit_summary": "93ba6b0|2026-07-18|SAVAGE <freakysavage23@gmail.com>|fix(judge): add required format:\"enum\" to Gemini response schema so apps/api typechecks",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 40,
+        "ahead_commits": [],
+        "behind_commits": [
+          "81af72f url set",
+          "82cf207 feat(web): sync live scan state across scanner, chain, verifier, and dispute pages",
+          "4a86cf0 feat(web): sync live scan results reactively across scanner, chain, and verifier pages",
+          "679b614 docs: update branding with new logo and sync demo script with UI",
+          "67be50d feat(api): add GET route handler for A2MCP bootstrap endpoint metadata and quote probing"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      }
+    }
+  },
+  "Ragent": {
+    "repo": "Ragent",
+    "default_branch": "main",
+    "branches": {
+      "fix/vercel-500-errors": {
+        "ref": "fix/vercel-500-errors",
+        "sha": "f8cce719",
+        "commit_summary": "f8cce71|2026-09-03|Olumidelala <olumide2956@gmail.com>|docs(roadmap): add autonomous external agents implementation plan",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "main": {
+        "ref": "main",
+        "sha": "f8cce719",
+        "commit_summary": "f8cce71|2026-09-03|Olumidelala <olumide2956@gmail.com>|docs(roadmap): add autonomous external agents implementation plan",
+        "is_default": true,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "ui_v2": {
+        "ref": "ui_v2",
+        "sha": "79cddebc",
+        "commit_summary": "79cddeb|2026-07-08|Olumidelala <olumide2956@gmail.com>|docs: overhaul README with zero-custody architecture and roadmap links",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 8,
+        "ahead_commits": [],
+        "behind_commits": [
+          "f8cce71 docs(roadmap): add autonomous external agents implementation plan",
+          "51f8fb0 docs: apply latest readme edits",
+          "9b48d76 chore: remove demo script from remote",
+          "3471ee3 chore: clean up root vercel debugging files",
+          "65e1116 docs: update youtube link"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      }
+    }
+  },
+  "MarketPadi": {
+    "repo": "MarketPadi",
+    "default_branch": "main",
+    "branches": {
+      "dev": {
+        "ref": "dev",
+        "sha": "9097fa68",
+        "commit_summary": "9097fa6|2026-01-15|Olumidelala <olumide2956@gmail.com>|Initial repo structure",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "feature/project-setup": {
+        "ref": "feature/project-setup",
+        "sha": "8df524ee",
+        "commit_summary": "8df524e|2026-01-19|Olumidelala <olumide2956@gmail.com>| added complete auth and mvp scurity",
+        "is_default": false,
+        "ahead_count": 5,
+        "behind_count": 0,
+        "ahead_commits": [
+          "8df524e  added complete auth and mvp scurity",
+          "1a8f1f2 added difft user profiles behaviour",
+          "5683fe4 updated config and db files",
+          "b3b9364 docker file and database setup files",
+          "6f4512b Added requiremnets.txt file"
+        ],
+        "behind_commits": [],
+        "diff_stat": " 19 files changed, 3888 insertions(+), 2 deletions(-)",
+        "files_changed_count": 19,
+        "sample_files_changed": [
+          "README.md",
+          "backend/.env.example",
+          "backend/app/api/depds.py",
+          "backend/app/api/vs1/auth.py",
+          "backend/app/config.py",
+          "backend/app/core/security.py",
+          "backend/app/database.py",
+          "backend/app/main.py"
+        ]
+      },
+      "main": {
+        "ref": "main",
+        "sha": "9097fa68",
+        "commit_summary": "9097fa6|2026-01-15|Olumidelala <olumide2956@gmail.com>|Initial repo structure",
+        "is_default": true,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      }
+    }
+  },
+  "Vicar": {
+    "repo": "Vicar",
+    "default_branch": "main",
+    "branches": {
+      "dev": {
+        "ref": "dev",
+        "sha": "9b8e9d4d",
+        "commit_summary": "9b8e9d4|2025-02-22|Olumidelala <olumide2956@gmail.com>|DB file update",
+        "is_default": false,
+        "ahead_count": 3,
+        "behind_count": 11,
+        "ahead_commits": [
+          "9b8e9d4 DB file update",
+          "e031490 First commit on new branch",
+          "0aa8fdf Initial commit"
+        ],
+        "behind_commits": [
+          "20ce65d Moved files",
+          "4bba1ae More updates",
+          "b841c05 API test",
+          "395b542 Major update",
+          "cc2a538 More chnages for host"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "main": {
+        "ref": "main",
+        "sha": "20ce65d2",
+        "commit_summary": "20ce65d|2025-02-23|Olumidelala <olumide2956@gmail.com>|Moved files",
+        "is_default": true,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "vicar-api": {
+        "ref": "vicar-api",
+        "sha": "53d2c92e",
+        "commit_summary": "53d2c92|2025-02-23|Olumidelala <olumide2956@gmail.com>|More updates",
+        "is_default": false,
+        "ahead_count": 10,
+        "behind_count": 11,
+        "ahead_commits": [
+          "53d2c92 More updates",
+          "65eada6 API test",
+          "ef61525 Major update",
+          "f819826 More chnages for host",
+          "e9e4cb9 Added Heroku files",
+          "8543a10 Add gitignore and environment example files",
+          "48cd46e Ready for review",
+          "9b8e9d4 DB file update",
+          "e031490 First commit on new branch",
+          "0aa8fdf Initial commit"
+        ],
+        "behind_commits": [
+          "20ce65d Moved files",
+          "4bba1ae More updates",
+          "b841c05 API test",
+          "395b542 Major update",
+          "cc2a538 More chnages for host"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      }
+    }
+  },
+  "program-Olalolo22": {
+    "repo": "program-Olalolo22",
+    "default_branch": "main",
+    "branches": {
+      "clean_submission": {
+        "ref": "clean_submission",
+        "sha": "95c5f2a3",
+        "commit_summary": "95c5f2a|2025-11-25|Olumidelala <olumide2956@gmail.com>|Final Submission Light",
+        "is_default": false,
+        "ahead_count": 2,
+        "behind_count": 4,
+        "ahead_commits": [
+          "95c5f2a Final Submission Light",
+          "ba9222c Final Submission"
+        ],
+        "behind_commits": [
+          "c367498 gitignire",
+          "e0459f9 firts commit, a lot done",
+          "57aab1c add deadline",
+          "4b763f0 Initial commit"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "main": {
+        "ref": "main",
+        "sha": "c3674988",
+        "commit_summary": "c367498|2025-11-25|Olumidelala <olumide2956@gmail.com>|gitignire",
+        "is_default": true,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "solution": {
+        "ref": "solution",
+        "sha": "dde9128a",
+        "commit_summary": "dde9128|2025-11-25|Olumidelala <olumide2956@gmail.com>|good fix",
+        "is_default": false,
+        "ahead_count": 3,
+        "behind_count": 4,
+        "ahead_commits": [
+          "dde9128 good fix",
+          "95c5f2a Final Submission Light",
+          "ba9222c Final Submission"
+        ],
+        "behind_commits": [
+          "c367498 gitignire",
+          "e0459f9 firts commit, a lot done",
+          "57aab1c add deadline",
+          "4b763f0 Initial commit"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      }
+    }
+  },
+  "program-Olalolo22-copy": {
+    "repo": "program-Olalolo22-copy",
+    "default_branch": "main",
+    "branches": {
+      "clean_submission": {
+        "ref": "clean_submission",
+        "sha": "95c5f2a3",
+        "commit_summary": "95c5f2a|2025-11-25|Olumidelala <olumide2956@gmail.com>|Final Submission Light",
+        "is_default": false,
+        "ahead_count": 2,
+        "behind_count": 4,
+        "ahead_commits": [
+          "95c5f2a Final Submission Light",
+          "ba9222c Final Submission"
+        ],
+        "behind_commits": [
+          "c367498 gitignire",
+          "e0459f9 firts commit, a lot done",
+          "57aab1c add deadline",
+          "4b763f0 Initial commit"
+        ],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "main": {
+        "ref": "main",
+        "sha": "c3674988",
+        "commit_summary": "c367498|2025-11-25|Olumidelala <olumide2956@gmail.com>|gitignire",
+        "is_default": true,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      }
+    }
+  },
+  "rugroll": {
+    "repo": "rugroll",
+    "default_branch": "main",
+    "branches": {
+      "feat/onchain-er": {
+        "ref": "feat/onchain-er",
+        "sha": "3bf15090",
+        "commit_summary": "3bf1509|2026-09-10|Olalolo22 <olumide2925@cloudshell>|perf(cargo): optimize release profile for cloud shell memory constraints (disable fat lto)",
+        "is_default": false,
+        "ahead_count": 2,
+        "behind_count": 0,
+        "ahead_commits": [
+          "3bf1509 perf(cargo): optimize release profile for cloud shell memory constraints (disable fat lto)",
+          "21319f4 feat(onchain-er): configure program ID DSfJQMFV, add session key support, and wire TEE ER validator"
+        ],
+        "behind_commits": [],
+        "diff_stat": " 10 files changed, 50 insertions(+), 29 deletions(-)",
+        "files_changed_count": 10,
+        "sample_files_changed": [
+          "Anchor.toml",
+          "Cargo.toml",
+          "app/src/components/RoundHistory.tsx",
+          "app/src/lib/constants.ts",
+          "programs/rugroll/Cargo.toml",
+          "programs/rugroll/src/instructions/bail_out.rs",
+          "programs/rugroll/src/instructions/join_round.rs",
+          "programs/rugroll/src/instructions/open_round.rs"
+        ]
+      },
+      "main": {
+        "ref": "main",
+        "sha": "25ce029c",
+        "commit_summary": "25ce029|2026-09-10|Olalolo22 <olumide2925@cloudshell>|fix(game): standardize 100bps multiplier scale, fix instant crash loop, and update live links",
+        "is_default": true,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      }
+    }
+  },
+  "Mizan": {
+    "repo": "Mizan",
+    "default_branch": "main",
+    "branches": {
+      "fix/evm-sp1-proof": {
+        "ref": "fix/evm-sp1-proof",
+        "sha": "a36d590d",
+        "commit_summary": "a36d590|2026-07-13|Olumidelala <olumide2956@gmail.com>|fix(zk): update public inputs padding and JSON format for EVM ABI compatibility",
+        "is_default": false,
+        "ahead_count": 2,
+        "behind_count": 0,
+        "ahead_commits": [
+          "a36d590 fix(zk): update public inputs padding and JSON format for EVM ABI compatibility",
+          "d689ef9 fix: keep SP1 4-byte prefix in proof bytes for EVM Verifier"
+        ],
+        "behind_commits": [],
+        "diff_stat": " 3 files changed, 21 insertions(+), 160 deletions(-)",
+        "files_changed_count": 3,
+        "sample_files_changed": [
+          "frontend/src/app/api/relay/route.ts",
+          "zk/program/src/main.rs",
+          "zk/script/src/main.rs"
+        ]
+      },
+      "main": {
+        "ref": "main",
+        "sha": "d2112d7c",
+        "commit_summary": "d2112d7|2026-07-13|Olumidelala <olumide2956@gmail.com>|chore: ignore technical debt doc",
+        "is_default": true,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      }
+    }
+  },
+  "SJ_consulting": {
+    "repo": "SJ_consulting",
+    "default_branch": "main",
+    "branches": {
+      "feat/frontend-integration": {
+        "ref": "feat/frontend-integration",
+        "sha": "42af5cf6",
+        "commit_summary": "42af5cf|2026-10-01|Lala (WDC) <lala@webdevconstruct.com>|feat(admin): add department deliverables tracking and CEO-governed staff payroll workflows",
+        "is_default": false,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "No diff",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "main": {
+        "ref": "main",
+        "sha": "42af5cf6",
+        "commit_summary": "42af5cf|2026-10-01|Lala (WDC) <lala@webdevconstruct.com>|feat(admin): add department deliverables tracking and CEO-governed staff payroll workflows",
+        "is_default": true,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      }
+    }
+  },
+  "Stellarlend-frontend": {
+    "repo": "Stellarlend-frontend",
+    "default_branch": "main",
+    "branches": {
+      "main": {
+        "ref": "main",
+        "sha": "60f3937a",
+        "commit_summary": "60f3937|2026-08-30|sherifatolanike <oyinloyesherifatolanike@gmail.com>|test: add background jobs regression coverage (#1384)",
+        "is_default": true,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "test/issue-1552-pageheader-stories-boundary": {
+        "ref": "test/issue-1552-pageheader-stories-boundary",
+        "sha": "c5e12b74",
+        "commit_summary": "c5e12b7|2026-09-30|Olumidelala <olumide2956@gmail.com>|test(common): add failure-path and boundary coverage for PageHeader.stories.tsx (#1552)",
+        "is_default": false,
+        "ahead_count": 1,
+        "behind_count": 0,
+        "ahead_commits": [
+          "c5e12b7 test(common): add failure-path and boundary coverage for PageHeader.stories.tsx (#1552)"
+        ],
+        "behind_commits": [],
+        "diff_stat": " 3 files changed, 467 insertions(+), 11 deletions(-)",
+        "files_changed_count": 3,
+        "sample_files_changed": [
+          "components/shared/common/PageHeader.stories.test.tsx",
+          "components/shared/common/PageHeader.stories.tsx",
+          "components/shared/common/PageHeader.tsx"
+        ]
+      },
+      "test/issue-1564-navbar-failure-boundary": {
+        "ref": "test/issue-1564-navbar-failure-boundary",
+        "sha": "d98e0dc0",
+        "commit_summary": "d98e0dc|2026-09-30|Olumidelala <olumide2956@gmail.com>|test(shared): add failure-path and boundary coverage for Navbar.tsx (#1564)",
+        "is_default": false,
+        "ahead_count": 1,
+        "behind_count": 0,
+        "ahead_commits": [
+          "d98e0dc test(shared): add failure-path and boundary coverage for Navbar.tsx (#1564)"
+        ],
+        "behind_commits": [],
+        "diff_stat": " 2 files changed, 735 insertions(+), 15 deletions(-)",
+        "files_changed_count": 2,
+        "sample_files_changed": [
+          "components/shared/layout/Navbar.test.tsx",
+          "components/shared/layout/Navbar.tsx"
+        ]
+      }
+    }
+  },
+  "alx-polly2": {
+    "repo": "alx-polly2",
+    "default_branch": "main",
+    "branches": {
+      "main": {
+        "ref": "main",
+        "sha": "08bfaad5",
+        "commit_summary": "08bfaad|2025-09-07|Olumide <olumide2956@gmail.com>|Tests produced",
+        "is_default": true,
+        "ahead_count": 0,
+        "behind_count": 0,
+        "ahead_commits": [],
+        "behind_commits": [],
+        "diff_stat": "",
+        "files_changed_count": 0,
+        "sample_files_changed": []
+      },
+      "day8-before": {
+        "ref": "origin/day8-before",
+        "sha": "ae14b753",
+        "commit_summary": "ae14b75|2025-09-07|Olumide <olumide2956@gmail.com>|Added polls page update",
+        "is_default": false,
+        "ahead_count": 2,
+        "behind_count": 0,
+        "ahead_commits": [
+          "ae14b75 Added polls page update",
+          "8c32e82 Before optimization: i renamed to page-before.tsx"
+        ],
+        "behind_commits": [],
+        "diff_stat": " 2 files changed, 264 insertions(+), 66 deletions(-)",
+        "files_changed_count": 2,
+        "sample_files_changed": [
+          "ALX-AI2/alx-polly2/src/app/polls/page-before.tsx",
+          "ALX-AI2/alx-polly2/src/app/polls/page.tsx"
+        ]
+      }
+    }
+  }
+}

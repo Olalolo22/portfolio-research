@@ -1,0 +1,3194 @@
+{
+  ".agents": {
+    "path": "/home/lala_02/.agents",
+    "stack": [],
+    "subdirs": [
+      "skills"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": false
+    }
+  },
+  "Acke03": {
+    "path": "/home/lala_02/Acke03",
+    "stack": [
+      "Rust/Cargo",
+      "Solana/Anchor",
+      "Node/JS/TS"
+    ],
+    "subdirs": [
+      ".git",
+      "migrations",
+      "tests",
+      "programs"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/School-of-Solana/task3-Olalolo22.git"
+      },
+      "total_commits": 2,
+      "authors": {
+        "github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>": 2
+      },
+      "first_commit": "dc6beb7|github-classroom[bot]|66690702+github-classroom[bot]@users.noreply.github.com|2025-10-22 08:31:12 +0000|Initial commit",
+      "latest_commit": "3980dcf|github-classroom[bot]|66690702+github-classroom[bot]@users.noreply.github.com|2025-10-28 05:57:31 +0000|add deadline",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "Acke04": {
+    "path": "/home/lala_02/Acke04",
+    "stack": [],
+    "subdirs": [],
+    "nested_git": [],
+    "git": {
+      "is_git": false
+    }
+  },
+  "Ackee_001": {
+    "path": "/home/lala_02/Ackee_001",
+    "stack": [],
+    "subdirs": [
+      ".git",
+      "task1-Olalolo22",
+      "fresh_submission",
+      "task4-Olalolo22",
+      "task3-Olalolo22",
+      "task2-Olalolo22"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/Olalolo22/Ackee_001.git"
+      },
+      "total_commits": 3,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 2,
+        "Olalolo22 <116976810+Olalolo22@users.noreply.github.com>": 1
+      },
+      "first_commit": "2e8462e|Olalolo22|116976810+Olalolo22@users.noreply.github.com|2025-12-02 23:23:22 +0100|Initial commit",
+      "latest_commit": "3f68a7c|Olumidelala|olumide2956@gmail.com|2025-12-03 00:52:18 +0100|Readme's",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "Ackeo4": {
+    "path": "/home/lala_02/Ackeo4",
+    "stack": [
+      "Rust/Cargo",
+      "Solana/Anchor",
+      "Node/JS/TS"
+    ],
+    "subdirs": [
+      ".git",
+      "migrations",
+      "tests",
+      "programs"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/School-of-Solana/task4-Olalolo22.git"
+      },
+      "total_commits": 2,
+      "authors": {
+        "github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>": 2
+      },
+      "first_commit": "e443cfc|github-classroom[bot]|66690702+github-classroom[bot]@users.noreply.github.com|2025-10-29 16:49:41 +0000|Initial commit",
+      "latest_commit": "6c3a953|github-classroom[bot]|66690702+github-classroom[bot]@users.noreply.github.com|2025-11-03 06:33:44 +0000|add deadline",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "Aurelia-analyzer": {
+    "path": "/home/lala_02/Aurelia-analyzer",
+    "stack": [
+      "Python"
+    ],
+    "subdirs": [
+      ".git",
+      "data",
+      "venv",
+      "plots"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/Olalolo22/Aurelia-analyzer.git"
+      },
+      "total_commits": 2,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 1,
+        "Olalolo22 <116976810+Olalolo22@users.noreply.github.com>": 1
+      },
+      "first_commit": "ba75ddb|Olalolo22|116976810+Olalolo22@users.noreply.github.com|2025-09-13 00:19:38 +0100|Initial commit",
+      "latest_commit": "d62ebec|Olumidelala|olumide2956@gmail.com|2025-09-13 01:37:16 +0100|Dummy data for the tool and plot saving",
+      "is_dirty": true,
+      "modified_count": 2,
+      "untracked_count": 6
+    }
+  },
+  "Betty": {
+    "path": "/home/lala_02/Betty",
+    "stack": [],
+    "subdirs": [
+      ".git",
+      "man",
+      "tests"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "master",
+      "remotes": {
+        "origin": "https://github.com/alx-tools/Betty.git"
+      },
+      "total_commits": 198,
+      "authors": {
+        "Diego Romero <60360505+LoopingDiego@users.noreply.github.com>": 2,
+        "Alexandre Gautier <alexandre.gautier@epitech.eu>": 184,
+        "Rui Feng <394@holbertonschool.com>": 1,
+        "Alex Farioletti <GSF.NYC@GMAIL.COM>": 1,
+        "ems541a <ems541a@gmail.com>": 1,
+        "Daniel Alzugaray <dalzuga@gmail.com>": 3,
+        "PapaMuziko <ghinzu.iphone@gmail.com>": 3,
+        "Julien Barbier <write0@gmail.com>": 1,
+        "Dora Korpar <dora.korpar@gmail.com>": 2
+      },
+      "first_commit": "307e48d|Alexandre Gautier|alexandre.gautier@epitech.eu|2016-07-08 10:56:10 -0700|Initial commit",
+      "latest_commit": "438f97c|Diego Romero|60360505+LoopingDiego@users.noreply.github.com|2020-07-06 14:43:01 -0500|[fix]: deprecated syntax left brace warning",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "Contd_Practice": {
+    "path": "/home/lala_02/Contd_Practice",
+    "stack": [],
+    "subdirs": [
+      ".git",
+      "Basic_ST"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/Olalolo22/Contd_Practice.git"
+      },
+      "total_commits": 10,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 10
+      },
+      "first_commit": "fbc3cdd|Olumidelala|olumide2956@gmail.com|2024-10-11 20:47:54 -0700|First commit on this repo",
+      "latest_commit": "2b8acd4|Olumidelala|olumide2956@gmail.com|2024-12-17 15:47:54 +0100|New project",
+      "is_dirty": true,
+      "modified_count": 2,
+      "untracked_count": 1
+    }
+  },
+  "Converge": {
+    "path": "/home/lala_02/Converge",
+    "stack": [],
+    "subdirs": [
+      ".git",
+      "app",
+      "anchor"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/Olalolo22/Converge.git"
+      },
+      "total_commits": 14,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 14
+      },
+      "first_commit": "0082976|Olumidelala|olumide2956@gmail.com|2026-08-08 15:20:08 +0100|feat: initial Converge app \u2014 MagicBlock ER co-signature rooms on Solana",
+      "latest_commit": "74b3b07|Olumidelala|olumide2956@gmail.com|2026-08-08 22:46:48 +0100|docs: add technical roadmap for post-hackathon",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "Credence-Contracts": {
+    "path": "/home/lala_02/Credence-Contracts",
+    "stack": [
+      "Rust/Cargo",
+      "Node/JS/TS"
+    ],
+    "subdirs": [
+      ".claude",
+      ".github",
+      ".cargo",
+      "tests",
+      ".git",
+      ".vscode",
+      ".opencode",
+      "target",
+      "docs",
+      "scripts",
+      "contracts",
+      "crates",
+      ".kiro"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "test/issue-1313-cost-benchmark-boundary-recovery",
+      "remotes": {
+        "origin": "git@github.com:Olalolo22/Credence-Contracts.git",
+        "upstream": "https://github.com/CredenceOrg/Credence-Contracts.git"
+      },
+      "total_commits": 1367,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 1,
+        "WaleDev1 <adewaleoluwapelumi20@gmail.com>": 2,
+        "darkify <109320650+darkifyyy@users.noreply.github.com>": 1,
+        "Obito-2222 <ephraimbala17@gmail.com>": 1,
+        "Sophtassilk <130566433+Sophtassilk@users.noreply.github.com>": 1,
+        "Lex0865 <destinylawson007@gmail.com>": 1,
+        "Rayyan Ahmad <rayyanah597@gmail.com>": 1,
+        "raubiluabdulrahman225-commits <raubiluabdulrahman225@gmail.com>": 2,
+        "Dev. Ejioye Victor <ejvictor4@gmail.com>": 1,
+        "jamz-dev <ifeomajames04@gmail.com>": 1,
+        "Essienubong Isaac <ybryne65@gmail.com>": 1,
+        "Temitope Akinola <127091226+AkinolaDev@users.noreply.github.com>": 1,
+        "NnamdiCyber <ogazi133@gmail.com>": 1,
+        "John Idowu <odunayojohn454@gmail.com>": 1,
+        "lfeoma Cynthia <140560647+Cynthiaoma@users.noreply.github.com>": 1,
+        "James <belfry375@gmail.com>": 1,
+        "Samad0304 <olaniyisamad65@gmail.com>": 1,
+        "Abayomi Akinade Phillips <zionabayomi6@gmail.com>": 1,
+        "Thadd02 <itzthaddeus@gmail.com>": 2,
+        "Lili <142931361+Lilianneka@users.noreply.github.com>": 1,
+        "Tajul-adab \"TjBest\" Bello <142879671+iamtjbest@users.noreply.github.com>": 1,
+        "Olamide Alade <149718499+MorsH14@users.noreply.github.com>": 1,
+        "p70436464-prog <p70436464@gmail.com>": 2,
+        "osaa4 <scoteastwood06@gmail.com>": 2,
+        "jolesonbethany1-dev <jolesonbethany1@gmail.com>": 1,
+        "Badmus <badmusdare20@gmail.com>": 1,
+        "Salome-Agu <109064359+Salome-Agu@users.noreply.github.com>": 1,
+        "Oluwatoyin <o9089129@gmail.com>": 1,
+        "olaams-tech <olaams001@gmail.com>": 1,
+        "Ayinkx <olayinkaawal00@gmail.com>": 3,
+        "simonpeters298 <simonpeters298@gmail.com>": 1,
+        "abdulwahabmonilola-ctrl <abdulwahabmonilola@gmail.com>": 1,
+        "Baskarayelu <Baskarayelu@users.noreply.github.com>": 4,
+        "abdulwahabmonilola-ctrl <301061378+abdulwahabmonilola-ctrl@users.noreply.github.com>": 1,
+        "olacodes-01 <oluajbusiness@gmail.com>": 1,
+        "Damilola Maria Ajibade <damilolaajibade121@gmail.com>": 2,
+        "BOLARIWA <nasirudeenbadirudeen87@gmail.com>": 1,
+        "AI <adakenedev@gmail.com>": 1,
+        "Ikenga Ifeanyi .M. <ikengadan21@gmail.com>": 1,
+        "Umeokonkwo Samuel <umeokonkwosamuel@gmail.com>": 3,
+        "Nwapu Trust Jah <152970136+Nwapu-TrustJah@users.noreply.github.com>": 2,
+        "Baskar <baskarayelu@gmail.com>": 276,
+        "Baskarayelu <198364062+Baskarayelu@users.noreply.github.com>": 1,
+        "Promise Pius Obi <promiseobi2007@gmail.com>": 1,
+        "fredkanwai <113898417+fredkanwai@users.noreply.github.com>": 3,
+        "shadrackmanfred <shadrackmanfred2@gmail.com>": 12,
+        "chomo <chomobaling@gmail.com>": 1,
+        "Martin Ngutswen <164114946+Aonlike@users.noreply.github.com>": 2,
+        "Ayomide Ajisegiri <ayshowdaniel@gmail.com>": 1,
+        "Femdarn <114834028+Toyosi5566@users.noreply.github.com>": 1,
+        "Nkwa_Zema <153833189+ZEMAD0N26@users.noreply.github.com>": 1,
+        "kimmoris12345 <kimmoris12345@gmail.com>": 1,
+        "Immaculate <elahoimmaculate@gmail.com>": 1,
+        "silentgeckoaudit3801 <silentgeckoaudit3801@outlook.com>": 2,
+        "owohdora-stack <owohdora@gmail.com>": 1,
+        "ayomidearegbeshola29-dev <ayomidearegbeshola29@gmail.com>": 4,
+        "Aman Koli <2025.amana@isu.ac.in>": 2,
+        "Godfr3y <157382300+Godfrey-Delight@users.noreply.github.com>": 1,
+        "PersivalXS <85737787+PersivalXS@users.noreply.github.com>": 2,
+        "BNA <badmusnadrohabidemi@gmail.com>": 1,
+        "chiprime <marvellousebuka21@gmail.com>": 1,
+        "frienzy <frienzy514@gmail.com>": 1,
+        "Kenjosh-dev <muokwejosh@gmail.com>": 1,
+        "Gpraiz01 <omitogun7@gmail.com>": 1,
+        "Redsight51 <125837532+Redsight51@users.noreply.github.com>": 1,
+        "onyemaechiezekiel9 <onyemaechiezekiel9@gmail.com>": 3,
+        "MD JUBER QURAISHI <juberquraishi553@gmail.com>": 2,
+        "Rehoboth Ini <rehobothokoibu@gmail.com>": 1,
+        "emmyafolly123-coder <emmyafolly123@gmail.com>": 1,
+        "Dev-Ugee <mercyugee@gmail.com>": 4,
+        "Chidinma Uchendu <onyenwejennifer04@gmail.com>": 1,
+        "Binali223 <156178015+Binali223@users.noreply.github.com>": 1,
+        "CHUKWUNWEIKE _DEV <139136816+shadrach68@users.noreply.github.com>": 3,
+        "Ihuoma NKechi Bridget <bridgetthnkechi87@gmail.com>": 1,
+        "Musa Habeeblai Ajani <109970328+beebozy@users.noreply.github.com>": 1,
+        "femiolutayo <olutayobabafemi@gmail.com>": 1,
+        "jojoafrica1 <osayamwenjoshua37@gmail.com>": 1,
+        "Peace-001 <peaceolawoagbo@gmail.com>": 1,
+        "Jibril Raji Qasim <abujulaybeeb08@gmail.com>": 1,
+        "Farouq Yakubu <farouqyakubu6@gmail.com>": 2,
+        "Amadi Amos Leo <222886357+amosleoamadi@users.noreply.github.com>": 1,
+        "jaymoneymanxl <classicjohn85@gmail.com>": 1,
+        "0darkside0rbit-star <0darkside0rbit@gmail.com>": 1,
+        "graceful-tech12 <graceumeh75@gmail.com>": 4,
+        "Emmanuel-Ugochukwu1 <emmanuelugochukwu732@gmail.com>": 4,
+        "bywura <bushragbadegesin@gmail.com>": 1,
+        "Great Shinro <fayyadmusa0@gmail.com>": 1,
+        "NneOdogwu <anneozuzu@gmail.com>": 1,
+        "Ekwe Emmanuel <ekwea753@gmail.com>": 1,
+        "ololadedavidvictor-bit <ololadedavidvictor@gmail.com>": 1,
+        "toniasteve15-ui <toniasteve15@gmail.com>": 1,
+        "Fayyo <94748999+Fayyo@users.noreply.github.com>": 4,
+        "Ayodele Daniel <74737098+temi-Dee@users.noreply.github.com>": 2,
+        "Baskarayelu <baskarayelu@gmail.com>": 106,
+        "olu-cmd <olusumboolaniyan@gmail.com>": 2,
+        "akprinciple <akeemolayiwola9@gmail.com>": 5,
+        "emickwrld <iwuekeonyedikachi768@gmail.com>": 1,
+        "fix-and-push bot <fix-and-push-bot@credence.local>": 1,
+        "xtep103 <xtep103@users.noreply.github.com>": 1,
+        "AdEmOnD <adeniyiraymond04@gmail.com>": 2,
+        "fix-and-push bot <bot@example.com>": 1,
+        "kodinaka30-ship-it <kodinaka30@gmail.com>": 2,
+        "kosisochukwu1234 <kosimoore2001@gmail.com>": 2,
+        "Chideraakude <akudechidera@gmail.com>": 1,
+        "Rufai-Ahmed <abbeyrufai234@gmail.com>": 3,
+        "Sakariyah Abdulhazeem <sakariyahabdulhazeem@gmail.com>": 1,
+        "kingsley <ogbukingsley166@gmail.com>": 2,
+        "Esther Adaeze Eze <102748488+esthereze@users.noreply.github.com>": 4,
+        "Swayymalcolm99 <alexakpojosevbe40@gmail.com>": 1,
+        "Chongai-Cli <talelatu@gmail.com>": 3,
+        "Halimatyemisi <Halimatyemisi@users.noreply.github.com>": 1,
+        "DammmyFayo <aigbagbobila34@gmail.com>": 1,
+        "ezekielcyclops-ux <ezekielcyclops@gmail.com>": 1,
+        "vic2430 <v4394950@gmail.com>": 3,
+        "adeboladee <138445576+adeboladee@users.noreply.github.com>": 3,
+        "Onyegesi Jerry Chinonso <97700322+Jerry-Tekh@users.noreply.github.com>": 4,
+        "tewulogb <temiloluwaewulogbo@gmail.com>": 1,
+        "Peolite001 <peolite001@gmail.com>": 3,
+        "blessme247 <solabiabraham@gmail.com>": 7,
+        "\u201ccaneryy\u201d <caneryakupoglu@outlook.com>": 1,
+        "Ugooweb <ugooweb@gmail.com>": 1,
+        "legalienn <legalienn@users.noreply.github.com>": 1,
+        "samlogy1 <akejusamuel0@gmail.com>": 11,
+        "GitHub Copilot <copilot@github.com>": 1,
+        "onyekachi66 <kosidrips@gmail.com>": 1,
+        "OpadijoIdris <Opadijoayomipo@gmail.com>": 1,
+        "Antigravity <antigravity@example.com>": 1,
+        "techAlhaji <ademolabuild@gmail.com>": 2,
+        "Dreamland1 <contact.activelegion@gmail.com>": 3,
+        "Michelle Nifemi <olumidemichelle@gmail.com>": 1,
+        "Osuochasam <samuelosuocha7@gmail.com>": 1,
+        "AbdulCoderr <300513559+AbdulCoderr@users.noreply.github.com>": 4,
+        "Ebuka321 <corneliusemmanuel55@gmail.com>": 2,
+        "OluRemiFour <lekanayoola04@gmail.com>": 6,
+        "RemmyAcee <109961748+RemmyAcee@users.noreply.github.com>": 2,
+        "Stellahub-64 <bajeh1964@gmail.com>": 1,
+        "ugoocreates-pixel <ugoocreates@gmail.com>": 1,
+        "mrcoman <snipesago@gmail.com>": 1,
+        "Bug00Joe <Bug00Joe@users.noreply.github.com>": 1,
+        "obotu okwori <obotujenkz@gmail.com>": 2,
+        "Osuolale1 <oluwafemiayoola166@gmail.com>": 1,
+        "sadiqabubakar826-del <sadiqabubakar826@gmail.com>": 2,
+        "Paranoa-dev <287413997+Paranoa-dev@users.noreply.github.com>": 1,
+        "Lanhubs <muhammedolanrewaju56@gmail.com>": 5,
+        "vally111 <valantinejoshau@gmail.com>": 1,
+        "damilareojetunde <damilare.ojetunde1@gmail.com>": 6,
+        "MubbyRad <305470788+MubbyRad@users.noreply.github.com>": 4,
+        "jamesbernardo2234-netizen <jamesbernardo2234-netizen@users.noreply.github.com>": 1,
+        "Acm Enoch <acmenoch07@gmail.com>": 1,
+        "Abdul-dev-creator <abdulqudusopeyemi2020@gmail.com>": 6,
+        "Aman koli <2025.amana@isu.ac.in>": 3,
+        "ciynthia <ciynthia@users.noreply.github.com>": 1,
+        "CELIAu1 <chinenyeikezogwo@gmail.com>": 3,
+        "legalienn <307742430+legalienn@users.noreply.github.com>": 1,
+        "mc-stephen <stephenugo939@gmail.com>": 1,
+        "Adejumo-2 <oluwasegun1to2@gmail.com>": 5,
+        "aojomo <abiolaojomo7@gmail.com>": 1,
+        "Blessing Ugwu <blessing.ugwu@example.com>": 2,
+        "emmixeryng <emmanuelshittu30@gmail.com>": 2,
+        "BIGSMKE12 <188831262+BIGSMKE12@users.noreply.github.com>": 1,
+        "dominiccreates <dominiccreatess@gmail.com>": 3,
+        "Opulence Chuks <chukwudaluchiemerie@gmail.com>": 1,
+        "Ruth Ajibade <ruthoreaji@gmail.com>": 1,
+        "cisco_91 <43618023+ciscokwiz@users.noreply.github.com>": 4,
+        "chiboy84 <onwukachika12@gmail.com>": 1,
+        "Umeokonkwo Samuel <73968540+Killerjunior@users.noreply.github.com>": 1,
+        "Dot_Dot <godswillsamson217@gmail.com>": 2,
+        "Vera-cloudia <anazodovera@gmail.com>": 1,
+        "Vicky08100 <Vicnikky66@gmail.com>": 1,
+        "bigpoppaofny <newbrooklynboss@gmail.com>": 1,
+        "Nwaneri Chukwudi Daniel <141345379+Dopezapha@users.noreply.github.com>": 1,
+        "Toyinoje <oluwatoyinoje19@gmail.com>": 1,
+        "Esther Emmanuel <onojaesther75@gmail.com>": 1,
+        "Henry Eulam Eliazar <eliazareulam@gmail.com>": 1,
+        "Emmanuel Ezeobi <chinecheremezeobi24@gmail.com>": 3,
+        "Timilehin Oba <toba@byupathway.edu>": 1,
+        "Nwakor uche <nwakoruche192@gmail.com>": 1,
+        "Ifeanyi... <ikengadan21@gmail.com>": 4,
+        "Supreme Labs <100731397+supreme2580@users.noreply.github.com>": 2,
+        "Hepzibah16 <damilolaadegbite44@gmail.com>": 1,
+        "Olalekan Ayomide <166018468+OluRemiFour@users.noreply.github.com>": 2,
+        "VerifiedFlemzy1 <onyeamaifechukwu75@gmail.com>": 1,
+        "champ204 <p38819066@gmail.com>": 1,
+        "Kure <kuredavid980@gmail.com>": 1,
+        "Sam_Rytech <107815081+Sam-Rytech@users.noreply.github.com>": 1,
+        "Abdulrazaq Isa Babi <Babigdk@gmail.com>": 1,
+        "Kenlachy <90639410+Kenlachy@users.noreply.github.com>": 3,
+        "Johnjnr1 <137960721+Johnjnr1@users.noreply.github.com>": 1,
+        "Ifeanyi bright <brightifeanyi799@gmail.com>": 2,
+        "Lacastar2000 <jesulayomionabanjo1247@gmail.com>": 1,
+        "iam-mercy <akerityomercy@gmail.com>": 2,
+        "Sarah Idah Ezeru <120275394+DTech-Wiz1@users.noreply.github.com>": 1,
+        "CyberXpert607 <160432619+CyberXpert607@users.noreply.github.com>": 1,
+        "Absolute <106808580+chiemezie1@users.noreply.github.com>": 2,
+        "Chinenye <udoyechinenyevictoria@gmail.com>": 2,
+        "King Fahad <130410287+fahatadam@users.noreply.github.com>": 1,
+        "Fahat Adam <fahatadam4u@gmail.com>": 3,
+        "olatundefay-prog <olatundefay@gmail.com>": 6,
+        "laxjovial <laxjovial@gmail.com>": 2,
+        "mikewheeleer <shanthi26061980@gmail.com>": 4,
+        "Gandhiji <1nonlygem@gmail.com>": 3,
+        "Sarah Obasi <obasisarah001@gmail.com>": 1,
+        "Swayymalcolm99 <alexahmed4192@gmail.com>": 5,
+        "Kazama <agentgangstar123@gmail.com>": 5,
+        "Jagadeesh B <jagadeesh26062002@gmail.com>": 4,
+        "Theraxia <osawumeseeg@gmail.com>": 1,
+        "Adewole Adedotun <erik.edwards.jon@gmail.com>": 4,
+        "unknown <olatundefay@gmail.com>": 2,
+        "greatest0fallt1me <1nonlygem@gmail.com>": 1,
+        "Daniel Chibundu <danielobasy17@gmail.com>": 1,
+        "gloskull <gloskull24@gmail.com>": 1,
+        "Agbasimere <agbasimerekingsley06@gmail.com>": 2,
+        "Topmatrix Mor <Topmatrixmor2014@gmail.com>": 3,
+        "Stehen Jeremiah Haruna <141843972+Ugasutun@users.noreply.github.com>": 1,
+        "OlaBakare <168483498+OlaBakare@users.noreply.github.com>": 1,
+        "6akola <6akareolawale@gmail.com>": 1,
+        "Yunus Abdulhamid <yunusabdulhameed1@gmail.com>": 2,
+        "willy-de7 <stacyshima0@gmail.com>": 2,
+        "midenotch <125803339+midenotch@users.noreply.github.com>": 2,
+        "innovativedesign-lab <innovativedesign67@gmail.com>": 2,
+        "Ayodeji Olanrewaju <111335900+GdAyo19@users.noreply.github.com>": 1,
+        "Isihaq123 <165170348+Isihaq123@users.noreply.github.com>": 1,
+        "Mapelujo Abdulkareem <olamideiyanda18@gmail.com>": 3,
+        "Topmatrixmor2014 <topmatrixmor2014@example.com>": 1,
+        "Deyanju23 <opehalimahadeyanju@gmail.com>": 2,
+        "Claude Code <noreply@anthropic.com>": 6,
+        "Best Bisong <bisongbest04@gmail.com>": 1,
+        "CleanFix-Dev <219162456+CleanDev-Fix@users.noreply.github.com>": 1,
+        "oscar24357 <ifeanyikokobi@gmail.com>": 1,
+        "Onyeanusi Joan A. <132930962+Jo-anny@users.noreply.github.com>": 1,
+        "Imole <faromzy121@gmail.com>": 1,
+        "Sayandip Roy <161803450+shogun444@users.noreply.github.com>": 2,
+        "victor <olaojo62@gmail.com>": 1,
+        "Temitope <86539217+temitope-007@users.noreply.github.com>": 4,
+        "Truphile <136484476+Truphile@users.noreply.github.com>": 1,
+        "Ayo <ajuloayomide704@gmail.com>": 1,
+        "Nicki <middalukawunti@gmail.com>": 1,
+        "Ajala Dolapo <supremeajala@gmail.com>": 1,
+        "Umar faruk <fkimole@gmail.com>": 2,
+        "Strangecloud dev <strngecloud.iv@gmail.com>": 1,
+        "MissBlue00 <vickkyomos@gmail.com>": 8,
+        "BernardOnuh <onuhbernard4@gmail.com>": 6,
+        "DatboiCaleb <calebifeanyi81@gmail.com>": 3,
+        "AugistineCreates <project.kosiso@gmail.com>": 1,
+        "coder45oj <72081298+coder45oj@users.noreply.github.com>": 1,
+        "Francis Dim <165217806+Francis6-git@users.noreply.github.com>": 1,
+        "debbie <deborahamoni0@gmail.com>": 2,
+        "Annie <168873935+AnnieIj@users.noreply.github.com>": 1,
+        "Jerry-Tekh <Jerry-Tekh@users.noreply.github.com>": 12,
+        "Victor Omorogbe <victoromorogbe69@gmail.com>": 7,
+        "greatKhalifa-code <dandiv2904@gmail.com>": 1,
+        "Emmanuel Max-Ow\u00f3lab\u00ed <emmanuel.m2101126@st.futminna.edu.ng>": 8,
+        "Muhammad Adam <muhammadadam6850@gmail.com>": 2,
+        "Auwal007 <100082169+Auwal007@users.noreply.github.com>": 2,
+        "supreme2580 <victoromorogbe69@gmail.com>": 8,
+        "Francis6-git <dimfrancis6@gmail.com>": 10,
+        "adewole adedotun <erik.edwards.jon@gmail.com>": 2,
+        "Jabir Zakariyya <232175110+jabir-dev788@users.noreply.github.com>": 1,
+        "Okey Amy <oa.akachi@stu.unizik.edu.ng>": 1,
+        "Tobi Olusanya <150743553+Tobi-8@users.noreply.github.com>": 1,
+        "Adesanya Fuhad <adesanyafuhad5@gmail.com>": 2,
+        "OMIN MAN <omonxooo@gmail.com>": 4,
+        "K1NGD4VID <adesanyafuhad5@gmail.com>": 4,
+        "wprice <wprincewill147@gmail.com>": 1,
+        "Glittersup <fasholagifty@gmail.com>": 3,
+        "Joel Olusegun <oluseguntaiwojoel@gmail.com>": 1,
+        "Raymond Abiola <raymondintell@gmail.com>": 5,
+        "Olawale880 <ibrahimolawale880@gmail.com>": 1,
+        "ogbu kingsley <ogbukingsley166@gmail.com>": 1,
+        "jessica okeke <jessicaokeke71@gmail.com>": 5,
+        "dubemoyibe-star <dubemoyibe@gmail.com>": 1,
+        "dumbdev <ajaladolapo360@yahoo.com>": 1,
+        "Power70 <nwisuanu@gmail.com>": 10,
+        "Torzor Godspower Peter <nwisuanu@gmail.com>": 1,
+        "ceza.exe <anagbogut@gmail.com>": 2,
+        "Gutopro <nicholasigber@gmail.com>": 1,
+        "Huncho.Dev <felladaniel36@gmail.com>": 1,
+        "egwujiohaifesinachiperpetual-max <egwujiohaifesinachiperpetual@gmail.com>": 2,
+        "OMON <solomonokeke012@gmail.com>": 1,
+        "Nuel-ship-it <okekeemma582@gmail.com>": 2,
+        "martinshub-tech <jambemail2003@gmail.com>": 1,
+        "Noah Akerityo <akerityonoah@gmail.com>": 12,
+        "ryzen-xp <iron4540@gmail.com>": 1,
+        "Mrwicks00 <victoradeoba83@gmail.com>": 1,
+        "yashimamina6 <yashimamina6@gmail.com>": 1,
+        "Tenny150 <austineisama150@gmail.com>": 2,
+        "Samaro1 <asamaroingwu@gmail.com>": 4,
+        "Edoscoba <obisimon86@gmail.com>": 9,
+        "Awointa <akosawointa@gmail.com>": 19,
+        "Kamji Ayuba Gongu <111057335+koder-ns@users.noreply.github.com>": 1,
+        "Douglas Francis <douglasfrancis054@gmail.com>": 3,
+        "Yunus <yunusabdulhameed1@gmail.com>": 2,
+        "macbook <lawaltoheeb36@gmail.com>": 5,
+        "Francis <francis.douglas@miva.edu.ng>": 2,
+        "emarc99 <57766083+emarc99@users.noreply.github.com>": 2,
+        "Carita Ndibe <caritaemelie@gmail.com>": 9,
+        "Dee Dammy <abdullahilateefat03@gmail.com>": 1,
+        "schima <schima007@gmail.com>": 4,
+        "Opeyemi01-del <keendamiel03@gmail.com>": 1,
+        "Lateefat Abdullahi <abdullahilateefat03@gmail.com>": 1,
+        "PHANTOM_CALL <pinzypatz@gmail.com>": 8,
+        "Ugasutun <141843972+Ugasutun@users.noreply.github.com>": 1,
+        "Kilo Code <assistant@example.com>": 1,
+        "K1NGD4VID <Adesanyafuhad5@gmail.com>": 3,
+        "dotmantissa <negativemantissa@gmail.com>": 1,
+        "smartalee <smartalee@localhost.localdomain>": 1,
+        "Jerry Musaga <musagatechnology@gmail.com>": 1,
+        "Nathan <nkigbu@yahoo.com>": 1,
+        "Senior Engineer <engineer@example.com>": 4,
+        "MarcusDavidG <davidmarcus827@gmail.com>": 1,
+        "Soft Nation <sallyterna0@gmail.com>": 2,
+        "rahimatonize <rahimatonize02@gmail.com>": 5,
+        "tech-adrian <a.emmanuelcaxton@gmail.com>": 4,
+        "Ijay Abby <inyangasi4@gmail.com>": 2,
+        "Olatope Olaleye Olajide <olaleyeolajide81@gmail.com>": 1,
+        "Gas Optimization Bot <gas-optimization@verinode.io>": 8,
+        "Esther <estherolukorede12@gmail.com>": 7,
+        "Bytebinders <aliyudubashi@gmail.com>": 15,
+        "Arome8240 <moses21429@gmail.com>": 3,
+        "solomonadzape95 <adzapesolomon@gmail.com>": 2,
+        "MerlinTheWhiz <michaelnathan505@gmail.com>": 1,
+        "kenny <faithkehinde26@gmail.com>": 5,
+        "ScriptedBro <fredrickloveday@gmail.com>": 3,
+        "sheyman546 <hadeylakunsheyi@gmail.com>": 5,
+        "bamiebot <bamiebot@gmail.com>": 6,
+        "Antigravity <antigravity@google.com>": 3,
+        "winnpxl <winneroluwasegun@gmail.com>": 1,
+        "shogun444 <sayandiproy17@gmail.com>": 4,
+        "ChukwuemekaP1 <nwokolopaul979@gmail.com>": 1,
+        "ryzen_xp <iron4540@gmail.com>": 9,
+        "icodeBisola <50376007+icodeBisola@users.noreply.github.com>": 1,
+        "martin machiebe <127976766+martinvibes@users.noreply.github.com>": 1,
+        "martinvibes <martinmachiebe21@gmail>": 1,
+        "bosunUbuntu <joshuaibitoye111@gmail.com>": 10,
+        "Mexes <ledemsy07@gmail.com>": 1,
+        "Anioke Sebastian <aniokechukwudi7@gmail.com>": 6,
+        "Eleazar Shekoaga Musa <63799805+anonfedora@users.noreply.github.com>": 1,
+        "Bernard.O <114490070+BernardOnuh@users.noreply.github.com>": 3,
+        "Your Name <you@example.com>": 1,
+        "Delight <0xchronosfi@gmail.com>": 1,
+        "Delightech28 <desolomon07@gmail.com>": 1,
+        "cyber-excel10 <cyber.excel10@gmail.com>": 3,
+        "Joseph <cyberexcel10@gmail.com>": 1,
+        "Wolf <81079370+raizo07@users.noreply.github.com>": 1,
+        "raizo07 <agadaraizo@gmail.com>": 3,
+        "Anonfedora <musaeleazar090@gmail.com>": 2,
+        "sendi0011 <johnsendi727@gmail.com>": 2,
+        "0xMosas <tosinolosasa@gmail.com>": 10,
+        "KingFRANKHOOD <chibuezemfrancis@gmail.com>": 10,
+        "ExcelDsigN-tech <oluwadamilareoduyomi.com>": 6,
+        "Bhenzdisma <Bhenzdizma@gmail.com>": 1,
+        "Armolas <armolas06@gmail.com>": 24,
+        "0x_Dave. <ilorahdavid126@gmail.com>": 6,
+        "Bosun <96661657+Bosun-Josh121@users.noreply.github.com>": 1,
+        "Nwokolo Chukwuemeka Paul <nwokolopaul979@gmail.com>": 7,
+        "Chibey-max <ilorahdavid126@gmail.com>": 11,
+        "Bob_The_Builder <akosawointa@gmail.com>": 4,
+        "tusharshah21 <tusharkumarshah14394@gmail.com>": 7,
+        "Bhenzdizma <Bhenzdizma@gmail.com>": 9,
+        "TUSHAR KUMAR SHAH <tusharkumarshah14394@gmail.com>": 3,
+        "Caxton22 <a.emmanuelcaxton@gmail.com>": 20,
+        "macnelson9 <michaelofatu@gmail.com>": 12,
+        "codewithzubair07 <juberquraishi553@gmail.com>": 8,
+        "zubair Quraishi <juberquraishi553@gmail.com>": 2,
+        "thlpkee20-wq <thlpkee20@gmail.com>": 2,
+        "wheval <whevalmezeegbe@gmail.com>": 9,
+        "pope-h <hamatthan@gmail.com>": 3,
+        "JojoFlex1 <whateveriffeel@gmail.com>": 5,
+        "Sandeep chauhan <92181599+ryzen-xp@users.noreply.github.com>": 2,
+        "Ryjen1 <your-github-email@example.com>": 3,
+        "Jagadeesh <jagadeesh26062002@gmail.com>": 3,
+        "Samaro <asamaroingwu@gmail.com>": 5,
+        "olowo <olowodarey8@gmail.com>": 3,
+        "soomtochukwu <onwuajuesesomtochukwu@gmail.com>": 2,
+        "Kamshak Lucky Isuwa <60940769+morelucks@users.noreply.github.com>": 1,
+        "Copstud3 <victorchris73@gmail.com>": 6,
+        "Christopher Chukwuebuka <76824987+Copstud3@users.noreply.github.com>": 1,
+        "moreluck <luckykamshak@gmail.com>": 1,
+        "Yusufolosun <olosun.m1904582@st.futminna.edu.ng>": 1
+      },
+      "first_commit": "6b63ffbd8|Baskarayelu|baskarayelu@gmail.com|2026-02-18 02:43:18 +0530|chore: initial Credence Soroban bond contract (Rust)",
+      "latest_commit": "613b7294b|Olumidelala|olumide2956@gmail.com|2026-09-30 12:22:01 +0100|test(credence_bond): add boundary and recovery test coverage for cost.rs (#1313)",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "Disciplr-backend": {
+    "path": "/home/lala_02/Disciplr-backend",
+    "stack": [
+      "Node/JS/TS",
+      "Docker"
+    ],
+    "subdirs": [
+      "node_modules",
+      ".github",
+      "tests",
+      "prisma",
+      ".git",
+      "src",
+      ".vscode",
+      "db",
+      "docs",
+      "contracts",
+      ".kiro",
+      "data"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "fix/issue-1652-oauth-jwt-secret",
+      "remotes": {
+        "origin": "git@github.com:Olalolo22/Disciplr-backend.git",
+        "upstream": "https://github.com/Disciplr-Org/Disciplr-backend.git"
+      },
+      "total_commits": 1400,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 1,
+        "Gandhiji <1nonlygem@gmail.com>": 2,
+        "danielchukuma-dev <danielchukuma243@gmail.com>": 1,
+        "kimmoris12345 <kimmoris12345@gmail.com>": 1,
+        "praizeD10 <praized10@gmail.com>": 1,
+        "Zuno2026 <zuno2026@gmail.com>": 2,
+        "1nonlypiece <1nonlypiece@users.noreply.github.com>": 93,
+        "Okibe2002 <destinyodofodo@gmail.com>": 1,
+        "temieehade-coder <temieehade@gmail.com>": 1,
+        "BTECH <bubah419@gmail.com>": 1,
+        "p70436464-prog <p70436464@gmail.com>": 5,
+        "Devadakene <adakenedev@gmail.com>": 2,
+        "Mhidesav <obamuyishegun@gmail.com>": 2,
+        "abdulwahabmuhsinah86-afk <abdulwahabmuhsinah86@gmail.com>": 1,
+        "Gabugo-tech <nnanwubagabriel@gmail.com>": 1,
+        "Ifeanyi... <ikengadan21@gmail.com>": 3,
+        "David Odile <davidodile01@gmail.com>": 1,
+        "DevXtep <xtep103@gmail.com>": 1,
+        "Omolola-art <omololaadeola065@gmail.com>": 3,
+        "chikawobishie-sketch <chikawobishie@gmail.com>": 3,
+        "adelekevictor12 <124449439+adelekevictor12@users.noreply.github.com>": 1,
+        "Opulence Chuks <162402876+Opulencechuks@users.noreply.github.com>": 3,
+        "hmhidey111-collab <hmhidey111@gmail.com>": 2,
+        "Demilade10 <ogungbemidemilade72@gmail.com>": 1,
+        "azahjessica49-commits <azahjessica49@gmail.com>": 1,
+        "kingsrichie79-cmyk <kingsrichie79@gmail.com>": 1,
+        "Divine Samuel <77382397+divysam@users.noreply.github.com>": 1,
+        "arisu6804 <arisu6804@gmail.com>": 2,
+        "Baskar <baskarayelu@gmail.com>": 2,
+        "mikewheeleer <shanthi26061980@gmail.com>": 6,
+        "Jagadeesh B <jagadeesh26062002@gmail.com>": 2,
+        "Kazama <agentgangstar123@gmail.com>": 323,
+        "Omitogun Ayobami <omitogunr6@gmail.com>": 1,
+        "Martin Ngutswen <164114946+Aonlike@users.noreply.github.com>": 2,
+        "Oba <republicoba1@gmail.com>": 4,
+        "Chrisland058 <chinechremnnakenyi@gmail.com>": 7,
+        "greatest0fallt1me <1nonlygem@gmail.com>": 4,
+        "Favouratambi <favouratambi17@gmail.com>": 1,
+        "fauztech05 <fauztech05@users.noreply.github.com>": 1,
+        "Richard Chibuike Franklin <franklinrichard2007@gmail.com>": 2,
+        "Emprazzo01 <stormjr001@gmail.com>": 1,
+        "Orioye Blessing Esther <210155349+ayaoba24@users.noreply.github.com>": 1,
+        "Michelle <99558272+Michvista@users.noreply.github.com>": 1,
+        "sagesan2580 <sagesan2580@proton.me>": 1,
+        "MD JUBER QURAISHI <juberquraishi553@gmail.com>": 3,
+        "Paranoa-dev <phantomcall217@gmail.com>": 1,
+        "A-one-tech <wisdomavanhen54113@gmail.com>": 1,
+        "Alade Toheeb <aladetoheeb5@gmail.com>": 1,
+        "soladayo21963-coder <s.oladayo21963@fudutsinma.edu.ng>": 4,
+        "Elvis Tobi <160544811+Dev-ElvisTobi@users.noreply.github.com>": 2,
+        "Michael997glitch <ezemichael2006@gmail.com>": 1,
+        "champ204 <p38819066@gmail.com>": 2,
+        "Duro <joseph123duro@gmail.com>": 1,
+        "Hassan Akorede, EDUN <edunhassan1006@gmail.com>": 3,
+        "Stanley Owoh <stanleychiemelie72@gmail.com>": 2,
+        "0xblackadam <60206492+Ultra-Tech-code@users.noreply.github.com>": 1,
+        "Abyy8 <sheebalara30@gmail.com>": 1,
+        "chiprime <marvellousebuka21@gmail.com>": 1,
+        "TheEmmaIhezie <164891114+TheEmmaIhezie@users.noreply.github.com>": 1,
+        "Charity5654 <Charitychiamaka6547@gmail.com>": 2,
+        "Songu3020 <petersongu2000@gmail.com>": 1,
+        "Aisha000-0 <bakareaisha929@gmail.com>": 1,
+        "akinerin <akinolaerinayo@gmail.com>": 2,
+        "DevScoopee <157647160+DevScoopee@users.noreply.github.com>": 1,
+        "Emmanuel Anyigor <71076800+EA10-lite@users.noreply.github.com>": 2,
+        "rindicomfort <kwarpojonathanrindi@gmail.com>": 2,
+        "dev__abby <abigailadeboga@gmail.com>": 1,
+        "Joseph <cyber.excel10@gmail.com>": 1,
+        "damilareojetunde <damilare.ojetunde1@gmail.com>": 1,
+        "\ud835\udc0a\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc15\ud835\udc22\ud835\udc1c \ud83d\udf32 <oladimejivictor611@gmail.com>": 1,
+        "Teslim Ibisomi <ibisomimayowa@gmail.com>": 1,
+        "Abdulmalik Ojo <abdulmalikojo2@gmail.com>": 1,
+        "Victorjonah-prog <victorjonah8@gmail.com>": 1,
+        "devOgazi <devogazi@gmail.com>": 1,
+        "Imran2210 <olamiposiimran10@gmail.com>": 1,
+        "Okunade Israel Oluwasegun <israeloluwasegun293@gmail.com>": 1,
+        "100x <119676922+Oyintarede@users.noreply.github.com>": 1,
+        "Ibrahim Qozeem <qozeem.ibrahim65@gmail.com>": 2,
+        "Dynamic Wears <dynamicwearsng@gmail.com>": 2,
+        "faithylet <felixmaryadaba@gmail.com>": 1,
+        "Bob_The_Builder <akosawointa@gmail.com>": 2,
+        "Peter Fagoroye <138301475+PetJs@users.noreply.github.com>": 2,
+        "Udokwuebube <92545769+Udokwuebube@users.noreply.github.com>": 2,
+        "eogenyi23-creator <eogenyi23@gmail.com>": 4,
+        "ogaziedaniel80-droid <ogaziedaniel80@gmail.com>": 1,
+        "Olusegun Kehinde <olusegunkehindejones@gmail.com>": 1,
+        "Ahiome Israel (OdiB\u00e0) Christopher <christopherisraelahiome@gmail.com>": 3,
+        "Bathoul Mohammed <funds0033@gmail.com>": 4,
+        "Obotu Okwori <106823914+Jenks00@users.noreply.github.com>": 1,
+        "theonlyakanji-ops <akanji.work@gmail.com>": 1,
+        "Chrisland58 <200622745+Chrisland58@users.noreply.github.com>": 1,
+        "priscannanna85-lgtm <priscannanna85@gmail.com>": 1,
+        "AbdulCoderr <najeemabdullahi15@gmail.com>": 2,
+        "Bigg593 <gbig5513@gmail.com>": 1,
+        "ayandipe <110989785+ayandipe@users.noreply.github.com>": 1,
+        "Neche58 <neche271@gmail.com>": 1,
+        "Obaji Chukwuemeka <bajiemeks16@gmail.com>": 2,
+        "Fuwad Busari <114140933+cythecode@users.noreply.github.com>": 1,
+        "Promise Nnamdi Ogazi <162865041+Escelit@users.noreply.github.com>": 1,
+        "Mfon <67503972+TS-mfon@users.noreply.github.com>": 3,
+        "Kappa.dev <madisonsc52@gmail.com>": 1,
+        "Realbaji16 <bajiemeks16@gmail.com>": 1,
+        "RemmyAcee <109961748+RemmyAcee@users.noreply.github.com>": 1,
+        "dantebalor <150437933+dantebalor@users.noreply.github.com>": 1,
+        "ogazie victor <ogazivictor17@gmail.com>": 1,
+        "nattyakos07-web <nattyakos07@gmail.com>": 2,
+        "IyanuOluwa Owoseni <141356521+IyanuOluwaJesuloba@users.noreply.github.com>": 1,
+        "chuks68 <valentinesomtochukwu68@gmail.com>": 2,
+        "Abdulrasaq1515 <rasaqajape@gmail.com>": 4,
+        "Abang Obed <66479041+d3vobed@users.noreply.github.com>": 1,
+        "N-otorious <165947397+N-otorious@users.noreply.github.com>": 1,
+        "ugoocreates-pixel <ugoocreates@gmail.com>": 2,
+        "YoungMugu <kureyoungabare@gmail.com>": 2,
+        "softmind <198604584+sheyman546@users.noreply.github.com>": 1,
+        "David Ade <85739494+reddbanditttt@users.noreply.github.com>": 2,
+        "chi797 <chinweokwu493@gmail.com>": 2,
+        "Sarah Obasi <obasisarah001@gmail.com>": 1,
+        "LaTash1 <80977896+LaTash1@users.noreply.github.com>": 1,
+        "dazzmond <toluhidesmond5@gmail.com>": 1,
+        "Adeshina Mubarak <139050846+Mubking-dev@users.noreply.github.com>": 1,
+        "helenahelenavanbeek-png <helenahelenavanbeek@gmail.com>": 2,
+        "Jude <bajehjude@gmail.com>": 1,
+        "uboho-prog <uboho.info@gmail.com>": 1,
+        "Oluwakuse Jeremiah <oluwakusejerry1@gmail.com>": 1,
+        "eliassmthl-collab <eliassmthl@gmail.com>": 1,
+        "Fab the Analyst <obiomav17@gmail.com>": 1,
+        "Jabir Zakariyya <232175110+jabir-dev788@users.noreply.github.com>": 1,
+        "Nicki <middalukawunti@gmail.com>": 1,
+        "madisonsc52-del <madisonsc52@gmail.com>": 1,
+        "Ismilous <muhammedlekan9@gmail.com>": 1,
+        "teeee <150258875+teethaking@users.noreply.github.com>": 1,
+        "TechBroAfrica <osenioladebo@gmail.com>": 2,
+        "Dot_Dot <godswillsamson217@gmail.com>": 1,
+        "shepherd-001 <shepherdlegend001@gmail.com>": 3,
+        "northvictor <northvictor5042@proton.me>": 4,
+        "Segun Akinola <105325916+Primex-hub@users.noreply.github.com>": 1,
+        "Fale King Nanmua <kingnanmuafale@gmail.com>": 1,
+        "Lex0865 <destinylawson007@gmail.com>": 1,
+        "King David <davidoladoyin166@gmail.com>": 1,
+        "Acm Enoch <acmenoch07@gmail.com>": 1,
+        "PhynixSage <148269995+Bilalishaq7@users.noreply.github.com>": 1,
+        "Simongodw <godwinasang640@gmail.com>": 2,
+        "graceshaba93 <graceshaba93@gmail.com>": 2,
+        "wavyboy-build <waveboy829@gmail.com>": 1,
+        "Olalekan Ayomide <166018468+OluRemiFour@users.noreply.github.com>": 3,
+        "ositaemmanuel653-netizen <ositaemmanuel653@gmail.com>": 1,
+        "BigManly4 <bigmanly4@gmail.com>": 1,
+        "Kenechukwu Frank <kenisank1@gmail.com>": 1,
+        "PHANTOM_CALL <pinzypatz@gmail.com>": 1,
+        "probablyABug <stephanthomasc@gmail.com>": 2,
+        "Immaculate <elahoimmaculate@gmail.com>": 1,
+        "Ebuka321 <165233718+Ebuka321@users.noreply.github.com>": 1,
+        "DammmyFayo <aigbagbobila34@gmail.com>": 2,
+        "AFUNI <olayemiolusegun048@gmail.com>": 1,
+        "Donald Okonkwo <chibuezeokon1007@gmail.com>": 1,
+        "joseph omoneyi <119484408+neyij@users.noreply.github.com>": 4,
+        "Kenlachy <90639410+Kenlachy@users.noreply.github.com>": 9,
+        "Ugooweb <ugooweb@gmail.com>": 1,
+        "egwujiohaifesinachiperpetual-max <egwujiohaifesinachiperpetual@gmail.com>": 4,
+        "samuel22x <morgangeorge504r@gmail.com>": 2,
+        "Stephan Thomas <136607293+Stephan-Thomas@users.noreply.github.com>": 4,
+        "joshuaolabodebello2020-cyber <joshuaolabodebello2020@gmail.com>": 1,
+        "Stella <chiemeziezero@gmail.com>": 1,
+        "Afolami Anuoluwapo <161776085+aabxtract@users.noreply.github.com>": 1,
+        "wonderfulmarv01 <wonderfulmarv01@gmail.com>": 7,
+        "EneGab <157655503+EneGab@users.noreply.github.com>": 3,
+        "codenerde <lhatarr@gmail.com>": 2,
+        "samlogy1 <akejusamuel0@gmail.com>": 1,
+        "otobongdev <amosgift008@gmail.com>": 1,
+        "brite-side0 <briteside063@gmail.com>": 2,
+        "bigpoppaofny <newbrooklynboss@gmail.com>": 1,
+        "enzo95 <maixuancanh2222@gmail.com>": 1,
+        "Tboy123-emm <alamuoyetoluwani@gmail.com>": 2,
+        "Favour Osuocha <111138280+canicefavour@users.noreply.github.com>": 1,
+        "Emelie-Dev <120989028+Emelie-Dev@users.noreply.github.com>": 3,
+        "Prevail Ugah <Prevailbugah@gmail.com>": 1,
+        "Onyeanusi Joan A. <132930962+Jo-anny@users.noreply.github.com>": 3,
+        "t8849033-wq <t8849033@gmail.com>": 1,
+        "douglas4tech <dogaradouglas7@gmail.com>": 1,
+        "Esther Adaeze Eze <102748488+esthereze@users.noreply.github.com>": 2,
+        "Victor Olaomo (Ayobami) <59277657+Ova-Klik@users.noreply.github.com>": 1,
+        "emmet4Tech <ellaehi20@gmail.com>": 1,
+        "1nonlypiece <baskarayelu@gmail.com>": 129,
+        "githoboman <smithmar681@gmail.com>": 3,
+        "victortanimu05-stack <victortanimu05@gmail.com>": 1,
+        "pixels26 <emedit453@gmail.com>": 1,
+        "Doris Maduegbunam <dorismaduegbunam@gmail.com>": 4,
+        "coder-0-stella <zubbyella02@gmail.com>": 1,
+        "gibe <godwinchijioke@gmail.com>": 1,
+        "Bizify1370 <bizsimon029@gmail.com>": 3,
+        "dunnidev <abisolayakubu297@gmail.com>": 1,
+        "Abioladory123 <abioladory@gmail.com>": 2,
+        "JudeDaniel6 <judedaniel6652@gmail.com>": 1,
+        "steph-crown <emmanuelstephen024@gmail.com>": 1,
+        "Seunfunmi-319509 <seunfunmiajoke@gmail.com>": 1,
+        "meloboy001 <meloboy2000@gmail.com>": 3,
+        "marvelousjeremiah24 <marvelousjeremiah24@gmail.com>": 3,
+        "paulpeter32-coder <petange32@gmail.com>": 1,
+        "Damilola Ogunrotimi <98775983+Fury03@users.noreply.github.com>": 1,
+        "believetimothy <believetimothy35@gmail.com>": 4,
+        "Deyanju23 <opehalimahadeyanju@gmail.com>": 1,
+        "Joseph Oladele <josepholadele001@gmail.com>": 1,
+        "Mide_xol <okunolaolamide7@gmail.com>": 9,
+        "AugistineCreates <project.kosiso@gmail.com>": 6,
+        "Ajibose <ajiboseibrahim12@gmail.com>": 1,
+        "Jaydams <John89Isaac@gmail.com>": 1,
+        "MaimunaY <Yunusmaimuna@gmail.com>": 1,
+        "Shadow-MMN <nnajimakuochukwu4@example.com>": 1,
+        "openhands <openhands@all-hands.dev>": 2,
+        "muokwejosh-cloud <muokwejosh@gmail.com>": 1,
+        "unknown <lekanayoola04@gmail.com>": 2,
+        "Imole <faromzy121@gmail.com>": 1,
+        "Habnark <adelekehabeebolamide@gmail.com>": 1,
+        "Oluwatobi Sodipo <sodipooluwatobi009@gmail.com>": 1,
+        "Alu-card19 <clintoncodes68@gmail.com>": 5,
+        "Godwin Asang <godwinasang640@gmail.com>": 7,
+        "Tekprecious <austinhueze@gmail.com>": 2,
+        "ZeePearl56 <adeosunelizabeth56@gmail.com>": 1,
+        "Harold Ikechukwu <72943529+harryjupiter148@users.noreply.github.com>": 3,
+        "Alao Abdulquadri opeyemi <alaoabdulquadriopeyemi@gmail.com>": 1,
+        "Asarf Khan <khanavi272@gmail.com>": 1,
+        "Deep <deep@192.168.1.9>": 5,
+        "emteebug <emteebug12@gmail.com>": 1,
+        "Harold Ikechukwu <harryjupiter148@gmail.com>": 1,
+        "onyillto <56700691+onyillto@users.noreply.github.com>": 1,
+        "OpadijoIdris <Opadijoayomipo@gmail.com>": 4,
+        "Strategy Dan <danielobasy22@gmail.com>": 1,
+        "nice-bills <alnicewilliams2@gmail.com>": 1,
+        "NEA DEV <nwaforebuka12@gmail.com>": 2,
+        "martinshub-tech <jambemail2003@gmail.com>": 3,
+        "Sakariyah Abdulhazeem <150973162+zeemscript@users.noreply.github.com>": 2,
+        "AnnieIj <anichrisa@gmail.com>": 2,
+        "thaiwoz02 <thaiwoz01@gmail.com>": 1,
+        "jadonamite <danielkingsley715@gmail.com>": 2,
+        "Marvellous Akinyemi <marvelousakinyemi910@gmail.com>": 1,
+        "Lanhubs <muhammedolanrewaju56@gmail.com>": 5,
+        "Jonathan-ai9 <Jonathan-ai9@users.noreply.github.com>": 1,
+        "Emelie-Dev <godfatheremerie@gmail.com>": 4,
+        "sanctus-mvp <iordyesantus5@gmail.com>": 1,
+        "dumbdev <ajaladolapo360@yahoo.com>": 1,
+        "abdullahilateefat03-bbop <abdullahilateefat03@gmail.com>": 1,
+        "ogbu kingsley <ogbukingsley166@gmail.com>": 1,
+        "Cyberdocs <cyberdocs120@gmail.com>": 2,
+        "cyberdocs120 <cyberdocs120@gmail.com>": 2,
+        "rahimatonize <rahimatonize02@gmail.com>": 1,
+        "Victor Oladimeji <oladimejivictor611@gmail.com>": 2,
+        "GitHub Copilot <copilot@github.com>": 1,
+        "innovativedesign-lab <innovativedesign67@gmail.com>": 4,
+        "Ikenga Ifeanyi .M. <ikengadan21@gmail.com>": 4,
+        "Jo-anny <joanonyeanusi@gmail.com>": 4,
+        "heymide <midea3671@gmail.com>": 2,
+        "chucksentertainment-hash <chucksentertainment@gmail.com>": 1,
+        "Aman koli <2025.amana@isu.ac.in>": 1,
+        "peaceuzu0 <peaceuzu0@gmail.com>": 2,
+        "Yunus <yunusabdulhameed1@gmail.com>": 2,
+        "Oyinade247 <adedokunoyinade@gmail.com>": 1,
+        "Retkatmun <retkatmun1@gmail.com>": 2,
+        "Jenola.base.eth <jesutolaolusegun@gmail.com>": 4,
+        "Umeokonkwo Samuel <umeokonkwosamuel@gmail.com>": 3,
+        "Dagdon <dagdonjephthah@gmail.com>": 6,
+        "Dagdon Jephthah Yohanna <139716440+Dagdon@users.noreply.github.com>": 1,
+        "oyinade247 <121341981+oyinade247@users.noreply.github.com>": 1,
+        "devpragya8081 <pragyatasrivastava842@gmail.com>": 1,
+        "shogun444 <sayandiproy17@gmail.com>": 5,
+        "Essence-3 <emmanuelanazodo3@gmail.com>": 1,
+        "CodesBy.Mitch <osiagomitchell@gmail.com>": 1,
+        "Donald <Chibuezeokon1007@gmail.com>": 1,
+        "Gamaliel Scholar Retkatmun <153809730+retkatmun@users.noreply.github.com>": 2,
+        "Errordog2 <zmaxzhao1996@gmail.com>": 4,
+        "Muhammadcodes112 <funuyallen@gmail.com>": 1,
+        "Truphile <salidmonreal@gmail.com>": 1,
+        "Michael Victor <158047120+michaelvic123@users.noreply.github.com>": 2,
+        "michaelvic123 <michaelvictor.com272@gmail.com>": 3,
+        "Emmy6654 <160542482+Emmy6654@users.noreply.github.com>": 1,
+        "Vibeofkd <yusufhayatu830@gmail.com>": 1,
+        "Vishal Kumar Singh <vishal.kr.singh2021@gmail.com>": 2,
+        "JackJin <1037461232@qq.com>": 2,
+        "CharlieChinedu <charliechinedu19@gmail.com>": 1,
+        "fathiaoyinloye <fathiaoyinloye21@gmail.com>": 3,
+        "whitezaddy <austinihueze@gmail.com>": 1,
+        "gloskull <gloskull24@gmail.com>": 3,
+        "kikiola <oluwatoby007@gmail.com>": 3,
+        "Meme11030 <nnakenyichinemelum80@gmail.com>": 3,
+        "MerlinTheWhiz <michaelnathan505@gmail.com>": 2,
+        "BABAT-CODE <taiwoalokot@gmail.com>": 8,
+        "BigMick03 <jesulobamicheal@gmail.com>": 2,
+        "JOYBOI <dextro172@gmail.com>": 1,
+        "Lacastar2000 <jesulayomionabanjo1247@gmail.com>": 2,
+        "faveteamz <bonattimothy18@gmail.com>": 4,
+        "Peolite001 <peolite001@gmail.com>": 3,
+        "soterika <faveteamz@gmail.com>": 1,
+        "Buikem <107962282+Agbasimere@users.noreply.github.com>": 1,
+        "Dydex <supremeajala@gmail.com>": 2,
+        "itzabdoull <abdulyunusa004@gmail.com>": 3,
+        "ajulaybeeb <your-email@example.com>": 2,
+        "disciplr-dev <devnull@example.com>": 1,
+        "Mrcee-arch <ezekielcovenant69@gmail.com>": 5,
+        "Opulence Chuks <chukwudaluchiemerie@gmail.com>": 3,
+        "khanavi272-spec <khanavi272@gmail.com>": 5,
+        "pchieneye0 <uzuakpunducollins0@gmail.com>": 6,
+        "Disciplr CI <devnull@example.com>": 1,
+        "Martin Obe <obemartin40@gmail.com>": 1,
+        "Agbasimere <agbasimerekingsley06@gmail.com>": 2,
+        "Yunus Abdulhamid <yunusabdulhameed1@gmail.com>": 1,
+        "CodeAlien <victortaiwoscroll78@gmail.com>": 4,
+        "Oseji Fabian Daniel <sejfabian@gmail.com>": 1,
+        "Aliyu Habibu <aliyuhabibu111@gmail.com>": 6,
+        "Anadudev <anadudev@gmail.com>": 1,
+        "Absolute <106808580+chiemezie1@users.noreply.github.com>": 3,
+        "Godfr3y <godfreydelight2@gmail.com>": 2,
+        "DevALVIN-24 <chinecheremezeobi24@gmail.com>": 1,
+        "dominiccreates <dominiccreatess@gmail.com>": 2,
+        "sadiqabubakar826-del <sadiqabubakar826@gmail.com>": 1,
+        "AlphaTechini <rehobothokoibu@gmail.com>": 1,
+        "Bellamzy <as3951260@gmail.com>": 1,
+        "Swayymalcolm99 <alexahmed4192@gmail.com>": 1,
+        "ryzen-xp <iron4540@gmail.com>": 1,
+        "Jefferson Youashi <119521983+clintjeff2@users.noreply.github.com>": 2,
+        "smartalee <smartalee@users.noreply.github.com>": 5,
+        "Abiola Ojo <abioladonald757@gmail.com>": 1,
+        "andreschucks101 <chukwukaugbechie@gmail.com>": 1,
+        "Chigozirim Favour <codevanguard01@gmail.com>": 2,
+        "Joel Olusegun <oluseguntaiwojoel@gmail.com>": 1,
+        "skylar <nonchalanttee22@gmail.com>": 1,
+        "Y33t-dev <olorunfemi787@gmail.com>": 1,
+        "Marvell69 <adewunmimarvel@gmail.com>": 1,
+        "Riel101 <62568485+Riel101@users.noreply.github.com>": 1,
+        "DeePrincipal-dev-lang <alaoabdulquadriopeyemi@gmail.com>": 4,
+        "schima <schima007@gmail.com>": 1,
+        "Jabir Zakariyya <jabirzakariyya21@gmail.com>": 1,
+        "Jabir-dev001 <jabirzakariyya21@gmail.com>": 2,
+        "mrmoney10010-design <mrmoney10010@gmail.com>": 1,
+        "teetyff <teeagbaji@gmail.com>": 1,
+        "dotmantissa <negativemantissa@gmail.com>": 1,
+        "opepraise <praiseopeyemi28@gmail.com>": 2,
+        "Ogunmodede Joel Taiwo <jotelfootball@gmail.com>": 2,
+        "DeborahOlaboye <deboraholaboye@gmail.com>": 1,
+        "Gozirimdev <codevanguard01@gmail.com>": 2,
+        "Luchi <ftoluchi@gmail.com>": 1,
+        "Timi <oluwasuyitimilehin@gmail.com>": 1,
+        "Caesarr <onajidavid87@gmail.com>": 1,
+        "Midda luka Wunti <middalukawunti@gmail.com>": 1,
+        "Banx17 <afeezakinwunmi@gmail.com>": 1,
+        "Gazzy-Lee <chiemerieogazi05@gmail.com>": 13,
+        "Praxhant97 <kaushikprashant2004@gmail.com>": 9,
+        "pchieneye <pchieneye@gmail.com>": 2,
+        "Disciplr Org <disciplr-org@example.com>": 5,
+        "DevMusa001 <musamarch022005@gmail.com>": 1,
+        "Disciplr Developer <developer@disciplr.com>": 11,
+        "jadonamite <jadonamite@gmail.com>": 2,
+        "githoboman <162813124+githoboman@users.noreply.github.com>": 2,
+        "CNduka001 <cnduka.2203652@stu.cu.edu.ng>": 4,
+        "Adedayo-Data <theophilusdayo@outlook.com>": 12,
+        "MAC <mac@MACs-MacBook-Pro.local>": 1,
+        "aliybabsi <Ahmedali4life2022@email.com>": 3,
+        "Enemuo Chimzuruoke <116521778+Enemuo-debug@users.noreply.github.com>": 2,
+        "Ugwoke Levi <113690452+levoski1@users.noreply.github.com>": 2,
+        "Sylvia Nnoruka <nnorukachioma20@gmail.com>": 1,
+        "Justice <ezejustice112@gmail.com>": 1,
+        "Okorie Chigozie Jehoshaphat <okoriechigozie99@gmail.com>": 1,
+        "oderahub <okere_chidera@yahoo.com>": 3,
+        "oluwaseyi1996-netizen <adelakunoluwaseyi1996@gmail.com>": 2,
+        "Sulex45 <youngsulex45@gmail.com>": 2,
+        "Jaji Moshood <jaji.moshood1297@gmail.com>": 1,
+        "Emmo00 <nwaforemmanuel005@gmail.com>": 1,
+        "Daree_dev <Oludareemmanuel45@gmail.com>": 1,
+        "Sammyowase <samuelowase02@gmail.com>": 2,
+        "BisimJang <jangjason27@gmail.com>": 3,
+        "Enemuo Chimzuruoke <chimzuruoke2017@gmail.com>": 6,
+        "SamixYasuke <samueladekolu4@gmail.com>": 1,
+        "Olowookere AbdulQoyum Adegoke <abdulqoyumadegoke@gmail.com>": 3,
+        "Miracle Nnaji <nnajimakuochukwu4@example.com>": 2,
+        "0s & 1s <139588083+arandomogg@users.noreply.github.com>": 1,
+        "temycodes <temycodes@gmail.com>": 2,
+        "K1NGD4VID <Adesanyafuhad5@gmail.com>": 1,
+        "adebayodeolu <adebayodeolu@gmail.com>": 2,
+        "Markodiba <markodiba6399@gmail.com>": 2,
+        "Sameer Ali <140313541+devxsameer@users.noreply.github.com>": 1,
+        "smartdev <smartdevs17@gmail.com>": 11,
+        "vicajohn <qjohn4443@gmail.com>": 2,
+        "Abbakar Garba <abakargarbalkali@gmail.com>": 1,
+        "Joseph Okoronkwo <chukwuj40@gmail.com>": 4,
+        "Emmy123222 <emmanuelogheneovo17@gmail.com>": 1,
+        "5G Graphy <aliyudubashi0@gmail.com>": 1,
+        "devbyte <demiladeakinyemi2004@gmail.com>": 4,
+        "Shoaib Ansari <shoaibansari@Shoaibs-Mac-mini.local>": 3,
+        "Tabe Joel Etengeneng <126078839+Joeltabe@users.noreply.github.com>": 2,
+        "Jopsan-gm <jopsan18@gmail.com>": 1,
+        "unrealtim-tech <jigah4thjuly@gmail.com>": 1,
+        "PetJs <peterfagoroye76@gmail.com>": 15,
+        "ayo-ola0710 <israelolatunle2015@gmail.com>": 3,
+        "0xMosas <tosinolosasa@gmail.com>": 1,
+        "Shantel Peters <shantelpeters@example.com>": 1,
+        "Mmeso Love <mmesolove2002@gmail.com>": 2,
+        "estyemma <onojaesther75@gmail.com>": 1,
+        "DevCarole <your-devcarole-email@example.com>": 2,
+        "Emmzyemms <friyoemmy@gmail.com>": 2,
+        "Jibril Raji Qasim <abujulaybeeb08@gmail.com>": 1,
+        "Your Name <you@example.com>": 7,
+        "ILIYA EMMANUEL <friyoemmy@gmail.com>": 2,
+        "Kamshak Lucky Isuwa <60940769+morelucks@users.noreply.github.com>": 2,
+        "Victor Edeh <edehvictor715@gmail.com>": 1,
+        "edehvictor <edehvictor715@gmail.com>": 1,
+        "Zynstro <zynstro@gmail.com>": 1,
+        "DevCarole <queencarole4@gmail.com>": 1,
+        "Daniel Odinegun <107105251+Danielodingz@users.noreply.github.com>": 2,
+        "David-patrick-chuks <pd3072894@gmail.com>": 5,
+        "Florencia Alonso <flor.irupe.alonso@gmail.com>": 3,
+        "AbuJulaybeeb <abujulaybeeb08.com>": 4,
+        "Azeezat Omobolanle <155020971+simplicityf@users.noreply.github.com>": 1,
+        "Isaac Gellu <113101848+gelluisaac@users.noreply.github.com>": 1,
+        "bamiebot <bamiebot@gmail.com>": 2,
+        "Danielodingz <danielodingz@gmail.com>": 3,
+        "OneLove <onwe.manasseh@gmail.com>": 5,
+        "Tola-byte <adetolaisaiah17@gmail.com>": 1,
+        "Isaac <isaacgellu6@gmail.com>": 1,
+        "simplicityf <omobolanlehazeezat@gmail.com>": 2,
+        "Isaac Gellu <isaacgellu6@gmail.com>": 2,
+        "ryzen_xp <iron4540@gmail.com>": 1,
+        "moreluck <luckykamshak@gmail.com>": 3,
+        "Ikem Peter <ikempeter2020@gmail.com>": 1
+      },
+      "first_commit": "963c5b4|Kazama|agentgangstar123@gmail.com|2026-02-18 02:49:36 +0530|Initial commit: Disciplr backend (Express, TypeScript)",
+      "latest_commit": "94880da|Olumidelala|olumide2956@gmail.com|2026-09-28 19:12:12 +0100|fix(oauth): eliminate insecure JWT_SECRET fallback and enforce fail-closed in production",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "FirstChatBck": {
+    "path": "/home/lala_02/FirstChatBck",
+    "stack": [],
+    "subdirs": [
+      ".git"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/FirstChatOrg/FirstChatBck.git"
+      },
+      "total_commits": 2,
+      "authors": {
+        "Olalolo22 <116976810+Olalolo22@users.noreply.github.com>": 2
+      },
+      "first_commit": "c32a0b5|Olalolo22|116976810+Olalolo22@users.noreply.github.com|2025-06-30 17:52:09 +0100|Initial commit",
+      "latest_commit": "23323a3|Olalolo22|116976810+Olalolo22@users.noreply.github.com|2025-06-30 17:53:56 +0100|Update README.md",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "First_One": {
+    "path": "/home/lala_02/First_One",
+    "stack": [],
+    "subdirs": [],
+    "nested_git": [],
+    "git": {
+      "is_git": false
+    }
+  },
+  "HNG13_0": {
+    "path": "/home/lala_02/HNG13_0",
+    "stack": [
+      "Python"
+    ],
+    "subdirs": [
+      ".git",
+      "__pycache__",
+      "venv"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/Olalolo22/HNG13_0.git"
+      },
+      "total_commits": 3,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 2,
+        "Olalolo22 <116976810+Olalolo22@users.noreply.github.com>": 1
+      },
+      "first_commit": "1fb8bac|Olalolo22|116976810+Olalolo22@users.noreply.github.com|2025-10-17 22:33:00 +0100|Initial commit",
+      "latest_commit": "44b69c0|Olumidelala|olumide2956@gmail.com|2025-10-19 03:30:39 +0100|Updated Readme",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "HNG13_1": {
+    "path": "/home/lala_02/HNG13_1",
+    "stack": [
+      "Python"
+    ],
+    "subdirs": [
+      ".git",
+      "venv"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/Olalolo22/HNG13_1.git"
+      },
+      "total_commits": 3,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 2,
+        "Olalolo22 <116976810+Olalolo22@users.noreply.github.com>": 1
+      },
+      "first_commit": "137f81b|Olalolo22|116976810+Olalolo22@users.noreply.github.com|2025-10-20 16:09:37 +0100|Initial commit",
+      "latest_commit": "f84e9f0|Olumidelala|olumide2956@gmail.com|2025-10-21 13:17:26 +0100|Created Procfile for Railway host",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "HNG13_2": {
+    "path": "/home/lala_02/HNG13_2",
+    "stack": [
+      "Python"
+    ],
+    "subdirs": [
+      ".git",
+      "migrations",
+      "venv",
+      "cache",
+      "app"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/Olalolo22/HNG13_2.git"
+      },
+      "total_commits": 6,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 5,
+        "Olalolo22 <116976810+Olalolo22@users.noreply.github.com>": 1
+      },
+      "first_commit": "bd156ff|Olalolo22|116976810+Olalolo22@users.noreply.github.com|2025-10-26 12:23:14 +0100|Initial commit",
+      "latest_commit": "a3902dc|Olumidelala|olumide2956@gmail.com|2025-10-28 01:11:36 +0100|Fixed route order",
+      "is_dirty": true,
+      "modified_count": 1,
+      "untracked_count": 0
+    }
+  },
+  "HNG13_3_Agent": {
+    "path": "/home/lala_02/HNG13_3_Agent",
+    "stack": [
+      "Python"
+    ],
+    "subdirs": [
+      ".git",
+      "logs",
+      "modules",
+      "config",
+      "utils",
+      "tests",
+      "data",
+      "venv"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/Olalolo22/HNG13_3_Agent.git"
+      },
+      "total_commits": 9,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 8,
+        "Olalolo22 <116976810+Olalolo22@users.noreply.github.com>": 1
+      },
+      "first_commit": "a1adfa1|Olalolo22|116976810+Olalolo22@users.noreply.github.com|2025-11-02 12:58:52 +0100|Initial commit",
+      "latest_commit": "cead8be|Olumidelala|olumide2956@gmail.com|2025-11-09 00:32:00 +0100|agentpy readdy",
+      "is_dirty": true,
+      "modified_count": 1,
+      "untracked_count": 0
+    }
+  },
+  "MarketPadi": {
+    "path": "/home/lala_02/MarketPadi",
+    "stack": [],
+    "subdirs": [
+      ".git",
+      "backend",
+      "frontend"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "feature/project-setup",
+      "remotes": {
+        "origin": "git@github.com:MarketPadi-Org/MarketPadi.git"
+      },
+      "total_commits": 7,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 6,
+        "Olalolo22 <116976810+Olalolo22@users.noreply.github.com>": 1
+      },
+      "first_commit": "f70fbb2|Olalolo22|116976810+Olalolo22@users.noreply.github.com|2026-01-15 08:47:47 +0100|Initial commit",
+      "latest_commit": "8df524e|Olumidelala|olumide2956@gmail.com|2026-01-19 18:35:40 +0100| added complete auth and mvp scurity",
+      "is_dirty": true,
+      "modified_count": 9,
+      "untracked_count": 3
+    }
+  },
+  "Mizan": {
+    "path": "/home/lala_02/Mizan",
+    "stack": [],
+    "subdirs": [
+      ".git",
+      "zk",
+      "backend",
+      "contracts",
+      "frontend"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "fix/evm-sp1-proof",
+      "remotes": {
+        "origin": "https://github.com/Olalolo22/Mizan.git"
+      },
+      "total_commits": 28,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 28
+      },
+      "first_commit": "acfb270|Olumidelala|olumide2956@gmail.com|2026-07-12 13:55:30 +0100|Initial commit: ZK setup, smart contracts, and repo skeleton",
+      "latest_commit": "a36d590|Olumidelala|olumide2956@gmail.com|2026-07-13 13:07:21 +0100|fix(zk): update public inputs padding and JSON format for EVM ABI compatibility",
+      "is_dirty": true,
+      "modified_count": 7,
+      "untracked_count": 0
+    }
+  },
+  "Ohbed": {
+    "path": "/home/lala_02/Ohbed",
+    "stack": [],
+    "subdirs": [],
+    "nested_git": [],
+    "git": {
+      "is_git": false
+    }
+  },
+  "Phantom_hms": {
+    "path": "/home/lala_02/Phantom_hms",
+    "stack": [
+      "Docker"
+    ],
+    "subdirs": [
+      ".git",
+      "server",
+      "web"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/Olalolo22/Phantom_hms.git"
+      },
+      "total_commits": 2,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 1,
+        "Olalolo22 <116976810+Olalolo22@users.noreply.github.com>": 1
+      },
+      "first_commit": "f1fb07e|Olalolo22|116976810+Olalolo22@users.noreply.github.com|2025-11-29 16:55:33 +0100|Initial commit",
+      "latest_commit": "4ce6170|Olumidelala|olumide2956@gmail.com|2026-06-24 14:34:45 +0100|major dump and clearing space tbh",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "ProofPass": {
+    "path": "/home/lala_02/ProofPass",
+    "stack": [],
+    "subdirs": [
+      ".git",
+      ".agents",
+      ".devcontainer",
+      "soroban-zk-investor-gate",
+      "sp1-zk-accredited-investor",
+      "frontend"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "jaydearcadian": "https://github.com/Jaydearcadian/ProofPass.git",
+        "origin": "https://github.com/Olalolo22/ProofPass"
+      },
+      "total_commits": 24,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 20,
+        "jaydearcadian <desolatejayson@gmail.com>": 4
+      },
+      "first_commit": "51808c4|Olumidelala|olumide2956@gmail.com|2026-06-25 01:46:13 +0100|docs: initial project setup and README",
+      "latest_commit": "703918c|Olumidelala|olumide2956@gmail.com|2026-07-03 18:10:47 +0100|chore: Finalize project for submission",
+      "is_dirty": true,
+      "modified_count": 0,
+      "untracked_count": 2
+    }
+  },
+  "Ragent": {
+    "path": "/home/lala_02/Ragent",
+    "stack": [],
+    "subdirs": [
+      ".git",
+      ".agents",
+      "coordinator",
+      "contracts"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "fix/vercel-500-errors",
+      "remotes": {
+        "origin": "https://github.com/Olalolo22/Ragent.git"
+      },
+      "total_commits": 75,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 75
+      },
+      "first_commit": "6b91884|Olumidelala|olumide2956@gmail.com|2026-07-03 04:33:13 +0100|docs: Initial project setup and README",
+      "latest_commit": "f8cce71|Olumidelala|olumide2956@gmail.com|2026-09-03 00:13:36 +0100|docs(roadmap): add autonomous external agents implementation plan",
+      "is_dirty": true,
+      "modified_count": 0,
+      "untracked_count": 1
+    }
+  },
+  "SJ_consulting": {
+    "path": "/home/lala_02/SJ_consulting",
+    "stack": [
+      "Supabase"
+    ],
+    "subdirs": [
+      ".git",
+      "scripts",
+      "supabase",
+      "frontend-integration",
+      "assets"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "git@github.com:WebDevConstruct/SJ_consulting.git"
+      },
+      "total_commits": 32,
+      "authors": {
+        "Lala (WDC) <lala@webdevconstruct.com>": 32
+      },
+      "first_commit": "4d3c0b4|Lala (WDC)|lala@webdevconstruct.com|2026-09-23 22:25:39 +0100|feat: initial backend foundation",
+      "latest_commit": "42af5cf|Lala (WDC)|lala@webdevconstruct.com|2026-10-01 21:05:56 +0100|feat(admin): add department deliverables tracking and CEO-governed staff payroll workflows",
+      "is_dirty": true,
+      "modified_count": 4,
+      "untracked_count": 4
+    }
+  },
+  "Sentinel": {
+    "path": "/home/lala_02/Sentinel",
+    "stack": [
+      "Node/JS/TS",
+      "Docker"
+    ],
+    "subdirs": [
+      ".git",
+      ".github",
+      "contracts",
+      "packages",
+      "node_modules",
+      "apps"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/Olalolo22/Sentinel.git"
+      },
+      "total_commits": 50,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 46,
+        "SAVAGE <freakysavage23@gmail.com>": 4
+      },
+      "first_commit": "99ec748|SAVAGE|freakysavage23@gmail.com|2026-07-14 08:25:18 +0100|Day 1: monorepo scaffold, Stage 0 normalization + 48 tests, DB schema, Redis client, ed25519 signing, /v1/health",
+      "latest_commit": "81af72f|Olumidelala|olumide2956@gmail.com|2026-08-04 19:05:34 +0100|url set",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "Stellar-iPredict": {
+    "path": "/home/lala_02/Stellar-iPredict",
+    "stack": [
+      "Node/JS/TS",
+      "Makefile/C"
+    ],
+    "subdirs": [
+      "oracle",
+      "node_modules",
+      ".github",
+      "backend",
+      "indexer",
+      "infra",
+      ".git",
+      "shared",
+      "db",
+      "status-page",
+      "docs",
+      "scripts",
+      "contracts",
+      "test",
+      "frontend"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "test/issue-541-oracle-lifecycle-e2e",
+      "remotes": {
+        "origin": "git@github.com:Olalolo22/Stellar-iPredict.git",
+        "upstream": "https://github.com/Akanimoh12/Stellar-iPredict.git"
+      },
+      "total_commits": 536,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 2,
+        "Ibrahim Bamidele. S <bamiebot@gmail.com>": 3,
+        "Abdulganiyyu Mustapha Muhammad <itzsoftwaredevops@gmail.com>": 1,
+        "dev-susa <susan.mmeka@gmail.com>": 1,
+        "Barracuda.dev <53022256+Owolabenjade@users.noreply.github.com>": 1,
+        "Onen_victor <87070469+Venrable18@users.noreply.github.com>": 1,
+        "Muhammed <116976810+Olalolo22@users.noreply.github.com>": 1,
+        "Martins O Jojolola <114880784+Martins-O@users.noreply.github.com>": 14,
+        "Ahmad12developer <ahmedsesan.esan@gmail.com>": 1,
+        "Gbellz <greybellz017@gmail.com>": 2,
+        "Clement Raymond <chinexzy37@gmail.com>": 3,
+        "Nathan_akin <85641756+akintewe@users.noreply.github.com>": 1,
+        "ArtaXerxes-oss <junioremperor541@gmail.com>": 1,
+        "Nwaneri Chukwudi Daniel <141345379+Dopezapha@users.noreply.github.com>": 2,
+        "Rhem-Solutions <rhemaadzer@gmail.com>": 1,
+        "CAESARIAN MMCXCIV <140399852+Chidubemkingsley@users.noreply.github.com>": 1,
+        "ola196 <oladayoshola25@gmail.com>": 2,
+        "maybay-dev <adelakunolajide625@gmail.com>": 1,
+        "Georgechisom <128038610+Georgechisom@users.noreply.github.com>": 1,
+        "W3BGHOST <webghost1702@gmail.com>": 1,
+        "DemolaCodes <abdulmuizademola9@gmail.com>": 4,
+        "Maverick <151352447+meshackyaro@users.noreply.github.com>": 1,
+        "fortezzalaboratory <fortezzalabs@gmail.com>": 1,
+        "RossyDeFi <iyajiros@gmail.com>": 2,
+        "David Marvy <MARVELLOUSDVD@gmail.com>": 1,
+        "Missshelby <89746820+Miss-shelby@users.noreply.github.com>": 1,
+        "Oyebisi Ayobami <oyebisiayobami26@gmail.com>": 5,
+        "Steins <154889920+0xsteins@users.noreply.github.com>": 1,
+        "Papytee <106683453+Papytee@users.noreply.github.com>": 1,
+        "yasookeh <122329160+Blacksaviour@users.noreply.github.com>": 2,
+        "Chigozirim Favour <codevanguard01@gmail.com>": 1,
+        "Amiola Demilade <102419681+feranmiba@users.noreply.github.com>": 1,
+        "jethro irmiya <Jethroirmiya@gmail.com>": 1,
+        "Isaac Makinde <ismakinde@gmail.com>": 1,
+        "Emmanuel Ochaje <114095241+EmmanuelOchaje@users.noreply.github.com>": 1,
+        "SarahDoma <saratudoma@gmail.com>": 1,
+        "Prudent <148275637+Prudentdev-xyz@users.noreply.github.com>": 1,
+        "JOEL <jotelfootball@gmail.com>": 3,
+        "Samuel Mmaduabuchi <chuksamitox@gmail.com>": 1,
+        "King Jaja <150508794+devJaja@users.noreply.github.com>": 1,
+        "devgrace100 <gracechinyerefrancis2023@gmail.com>": 1,
+        "reuben luka <reubenluka555@gmail.com>": 1,
+        "rahmanabimbs <rahmanlawal20@gmail.com>": 1,
+        "Olatope Olaleye Olajide <olaleyeolajide81@gmail.com>": 2,
+        "Oluwatomilola Ayeni <tomilolaayeni97@gmail.com>": 4,
+        "Oladele Samuel <leumasre@gmail.com>": 1,
+        "Samuel O. Daniel <sdamiloladaniel@gmail.com>": 1,
+        "Ritik <ritikverma0050@gmail.com>": 1,
+        "CeceOs92 <cynthiasteve78@gmail.com>": 1,
+        "boluwacodes <nashov12@gmail.com>": 1,
+        "thefadah <152818509+thefadah@users.noreply.github.com>": 1,
+        "Mano.dev <100848212+manoahLinks@users.noreply.github.com>": 1,
+        "David Dada <daveproxy80@gmail.com>": 1,
+        "osasfaith <osariemenfaith6@gmail.com>": 1,
+        "Rahman Lawal <rahmanabimbina@gmail.com>": 3,
+        "Adebayo Muhammed Olosasa <95596908+Mosas2000@users.noreply.github.com>": 1,
+        "Parker winner <parkclara123456789@gmail.com>": 1,
+        "Girly_Coder <prosperprogress993@gmail.com>": 1,
+        "privexlabs <privexlabs@gmail.com>": 1,
+        "Ebimobowei Peter June <113907067+0takuc0mrade@users.noreply.github.com>": 1,
+        "Yaomin \ud83c\udf39 <149057725+Muyideen-js@users.noreply.github.com>": 2,
+        "pwaleoj <122972222+pwaleoj@users.noreply.github.com>": 2,
+        "Inspector222 <abdulmueedajetunmobi22@gmail.com>": 1,
+        "Aman Koli <2025.amana@isu.ac.in>": 1,
+        "Akan <143044085+Akanimoh12@users.noreply.github.com>": 138,
+        "Dev Fashman <jajafwangshak86@gmail.com>": 2,
+        "Abdussalam Abdulmujeeb Mujahid <95423370+Amas-01@users.noreply.github.com>": 2,
+        "Amas-01 <Akoredemujeeb719@gmail.com>": 4,
+        "ibrahimijai <sunday.m1701072@st.futminna.edu.ng>": 1,
+        "Mode <287241814+modecodes@users.noreply.github.com>": 1,
+        "mode <sawingmowthe@gmail.com>": 3,
+        "Jaydbrown <jaiyeolawety705@gmail.com>": 1,
+        "Okoli Johnpaul Sochimaobi <132228270+Johnpii1@users.noreply.github.com>": 16,
+        "Emoji-dot <godswillsamson217@gmial.com>": 1,
+        "Aishat Mohammed-Bamidele <naanahyshar@yahoo.com>": 7,
+        "chidumebiodoh123-cloud <chidumebiodoh123@gmail.com>": 1,
+        "Marvell69 <adewunmimarvel@gmail.com>": 1,
+        "SarahDoma <SarahDoma@users.noreply.github.com>": 3,
+        "Ada-Girly881 <tesinger96@gmail.com>": 1,
+        "Jethro Irmiya <jethroirmiya@gmail.com>": 5,
+        "am_ Samuel <chuksamitox@gmail.com>": 3,
+        "EmmanuelOchaje <EmmanuelOchaje@users.noreply.github.com>": 3,
+        "Venrable18 <onenvictor@gmail.com>": 9,
+        "0xblackadam <60206492+Ultra-Tech-code@users.noreply.github.com>": 2,
+        "Adeiga Damilare <155169911+rexx010@users.noreply.github.com>": 2,
+        "Isaac Gellu <113101848+gelluisaac@users.noreply.github.com>": 1,
+        "Precious Akpan <precious.akpan2000@gmail.com>": 5,
+        "LamsOfJos <danielnsuk@gmail.com>": 1,
+        "Evangel90 <oladipoevangel90@gmail.com>": 1,
+        "Chijioke Joseph <chijiokejoseph2022@gmail.com>": 13,
+        "k-deejah <abdulwasiikhadijah@gmail.com>": 1,
+        "gelluisaac <isaacgellu6@gmail.com>": 1,
+        "olaleyeolajide81-sketch <olaleyeolajide81@gmail.com>": 2,
+        "KingFRANKHOOD <chibuezemfrancis@gmail.com>": 1,
+        "Sadeequ <70214653+Sadeequ@users.noreply.github.com>": 2,
+        "Adewale Iyanuoluwa Isaac <hizick27@gmail.com>": 5,
+        "0xMegie <159684353+0xMegie@users.noreply.github.com>": 1,
+        "0xMegie <koanprotocol@gmail.com>": 2,
+        "presidoclintonbased-alt <309302277+presidoclintonbased-alt@users.noreply.github.com>": 2,
+        "Martins-O <jojololamartins686@gmail.com>": 8,
+        "Joycejay17 <temitayojoy17@gmail.com>": 6,
+        "helloworld1-star <chijiokejoseph20242@gmail.com>": 14,
+        "BigBoyJiggy <miishaqhyaro@gmail.com>": 9,
+        "chizzy192 <chiziteremoluchi5@gmail.com>": 1,
+        "Aman koli <2025.amana@isu.ac.in>": 2,
+        "Hillzo <Hillaryeke007@gmail.com>": 1,
+        "rexx010 <grexx200@gmail.com>": 1,
+        "DSOTec <sdamiloladaniel@gmail.com>": 4,
+        "Alu-card19 <clintoncodes68@gmail.com>": 1,
+        "bamiebot <bamiebot@gmail.com>": 4,
+        "Ogunmodede Joel Taiwo <jotelfootball@gmail.com>": 6,
+        "ValJnr-dev1 <jacobthankgod555@gmail.com>": 1,
+        "sendi0011 <johnsendi727@gmail.com>": 1,
+        "Richardkingz2019 <Richardkingz2019@gmail.com>": 2,
+        "AbuJulaybeeb <abujulaybeeb08@gmail.com>": 3,
+        "Dopezapha <officialnwaneridaniel@gmail.com>": 1,
+        "0takuc0mrade <junep059@gmail.com>": 6,
+        "kitWarse <278602811+kitWarse@users.noreply.github.com>": 2,
+        "vstudio79 <victoromorogbe79@gmail.com>": 1,
+        "0xsteins <olivedexofficial@gmail.com>": 3,
+        "enochakinbode <enochakinbode466@gmail.com>": 1,
+        "jayteemoney <mac@Macs-MacBook-Pro.local>": 4,
+        "Justice <ezejustice112@gmail.com>": 10,
+        "\u201ccaneryy\u201d <caneryakupoglu@outlook.com>": 3,
+        "The Joel <jotelfootball@gmail.com>": 3,
+        "MissBlue00 <vickkyomos@gmail.com>": 2,
+        "TYDev01 <anthonychinaemeru84@yahoo.com>": 5,
+        "funds0033-cmyk <funds0033@gmail.com>": 1,
+        "Vicky08100 <vicnikky55@gmail.com>": 1,
+        "sochima2 <okolisochimaobi7@gmail.com>": 5,
+        "Thompson <140930314+Godbrand0@users.noreply.github.com>": 2,
+        "BernardOnuh <onuhbernard4@gmail.com>": 2,
+        "yours-anjikon <n24699891@gmail.com>": 1,
+        "Wetshakat <ishakudyelshak@gmail.com>": 2,
+        "Oyibe <dubemoyibe@gmail.com>": 1,
+        "Muyideen-js <muyideen-js@example.com>": 1,
+        "Wittig18 <yusufmustapha182@gmail.com>": 1,
+        "ROHAN <123131rkorohan@gmail.com>": 4,
+        "Henry Ebubechukwu <henryebube62@gmail.com>": 1,
+        "barry01_hash <henryebube62@gmail.com>": 2,
+        "dubemoyibe-star <dubemoyibe@gmail.com>": 1,
+        "Akanimoh12 <akanimohjohnson2003@gmail.com>": 16,
+        "akanimoh12 <akanimohjohnson2003@gmail.com>": 42
+      },
+      "first_commit": "aea0b67|akanimoh12|akanimohjohnson2003@gmail.com|2026-02-27 10:37:02 +0100|chore: initialize repo with project docs and gitignore",
+      "latest_commit": "d8f8edf|Olumidelala|olumide2956@gmail.com|2026-09-30 05:30:49 +0100|fix(ci): renumber markets sort migration to 0029, sync schema snapshot, and update brace-expansion",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "Stellarlend-frontend": {
+    "path": "/home/lala_02/Stellarlend-frontend",
+    "stack": [
+      "Node/JS/TS"
+    ],
+    "subdirs": [
+      "components",
+      "plop-templates",
+      "hooks",
+      "node_modules",
+      ".github",
+      "utils",
+      "lib",
+      "coverage",
+      "app",
+      ".storybook",
+      "test",
+      ".security",
+      ".npm-cache",
+      "context",
+      "test-results"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "test/issue-1552-pageheader-stories-boundary",
+      "remotes": {
+        "origin": "git@github.com:Olalolo22/Stellarlend-frontend.git",
+        "upstream": "https://github.com/StellarLend/Stellarlend-frontend.git"
+      },
+      "total_commits": 953,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 1,
+        "sherifatolanike <oyinloyesherifatolanike@gmail.com>": 4,
+        "Gabugo-tech <nnanwubagabriel@gmail.com>": 1,
+        "Adewumi99.dev <emmanuellaadewumi99@gmail.com>": 1,
+        "Myom_tech <iorchirmyom@gmail.com>": 2,
+        "marvelousjeremiah24 <marvelousjeremiah24@gmail.com>": 2,
+        "Kure <kuredavid980@gmail.com>": 2,
+        "kimmoris12345 <kimmoris12345@gmail.com>": 1,
+        "maybay-dev <adelakunolajide625@gmail.com>": 1,
+        "vic2430 <v4394950@gmail.com>": 2,
+        "Lizzy brainz <ibochielizabeth@gmail.com>": 1,
+        "Sabi <160965598+Meemlahsabi@users.noreply.github.com>": 1,
+        "David Odile <davidodile01@gmail.com>": 1,
+        "Ridwanullahi Ali Apana <143261914+0xApana@users.noreply.github.com>": 1,
+        "azahjessica49-commits <azahjessica49@gmail.com>": 1,
+        "Kenjosh-dev <muokwejosh@gmail.com>": 1,
+        "1nonlypiece <1nonlypiece@users.noreply.github.com>": 53,
+        "Kazama <agentgangstar123@gmail.com>": 110,
+        "shinzoxD <nsharma@zoolarity.com>": 9,
+        "shinzoxD <shinzoxD@users.noreply.github.com>": 1,
+        "jedward <edwardkelechukwujoshua66@gmail.com>": 1,
+        "Joycejay17 <temitayojoy17@gmail.com>": 2,
+        "muhsar27 <muhsar4321@gmail.com>": 1,
+        "Moses Nnaji <126480716+MoscowDev@users.noreply.github.com>": 1,
+        "eliassmthl-collab <eliassmthl@gmail.com>": 2,
+        "Ayomide <105206834+AvatarMiiDe@users.noreply.github.com>": 1,
+        "vstudio79 <113150270+vstudio79@users.noreply.github.com>": 4,
+        "Emmanuel Okolo <emmyokolo2525@gmail.com>": 1,
+        "ugoocreates-pixel <ugoocreates@gmail.com>": 2,
+        "Abyy8 <sheebalara30@gmail.com>": 1,
+        "Joel Olusegun <oluseguntaiwojoel@gmail.com>": 1,
+        "brain-marchine <152466993+brain-marchine@users.noreply.github.com>": 1,
+        "DevScoopee <157647160+DevScoopee@users.noreply.github.com>": 1,
+        "MD JUBER QURAISHI <juberquraishi553@gmail.com>": 1,
+        "Adeiga Damilare <155169911+rexx010@users.noreply.github.com>": 1,
+        "Godfr3y <157382300+Godfrey-Delight@users.noreply.github.com>": 1,
+        "midenotch <125803339+midenotch@users.noreply.github.com>": 3,
+        "Olasunkanmi975 <kamzentertainer@gmail.com>": 4,
+        "Edukpe David <vjfamzy@gmail.com>": 1,
+        "rindicomfort <kwarpojonathanrindi@gmail.com>": 2,
+        "MJ | Dev \ud83c\udfc0 <believeinsomething2421@gmail.com>": 4,
+        "Toyinoje <oluwatoyinoje19@gmail.com>": 4,
+        "CHIMA STEPHEN <110719318+teeschima@users.noreply.github.com>": 1,
+        "omosvico <omosvico@proton.me>": 1,
+        "MrNova50 <152653267+MrNova50@users.noreply.github.com>": 1,
+        "Praiz089017 <ayodejidurotimi@gmail.com>": 1,
+        "\ud835\udc0a\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc15\ud835\udc22\ud835\udc1c \ud83d\udf32 <oladimejivictor611@gmail.com>": 2,
+        "Abdul-dev-creator <abdulqudusopeyemi2020@gmail.com>": 3,
+        "ayandipe <110989785+ayandipe@users.noreply.github.com>": 1,
+        "Teslim Ibisomi <ibisomimayowa@gmail.com>": 2,
+        "praizeD10 <praized10@gmail.com>": 3,
+        "Agencybuilds <eikechukwu282@gmail.com>": 4,
+        "Ahiome Israel (OdiB\u00e0) Christopher <christopherisraelahiome@gmail.com>": 1,
+        "michealross <micheal.sugar.001@gmail.com>": 1,
+        "ciynthia <blinkyclothing@gmail.com>": 1,
+        "softmind <198604584+sheyman546@users.noreply.github.com>": 1,
+        "oyiza99 <cvendox@gmail.com>": 1,
+        "Val Jnr <jacobthankgod555@gmail.com>": 1,
+        "Sheebazz <khadijatogodu@gmail.com>": 1,
+        "Victorjonah-prog <victorjonah8@gmail.com>": 1,
+        "odinakaikpa375-ship-it <odinakaikpa375@gmail.com>": 3,
+        "Redsight51 <125837532+Redsight51@users.noreply.github.com>": 1,
+        "Olalekan Ayomide <166018468+OluRemiFour@users.noreply.github.com>": 1,
+        "ositaemmanuel653-netizen <ositaemmanuel653@gmail.com>": 2,
+        "cristinadnicholson-pixel <cristinadnicholson@gmail.com>": 4,
+        "LEO <lekan.code@gmail.com>": 1,
+        "probablyABug <stephanthomasc@gmail.com>": 1,
+        "Olusegun Kehinde <olusegunkehindejones@gmail.com>": 1,
+        "pchieneye <pchieneye@gmail.com>": 3,
+        "Stella <chiemeziezero@gmail.com>": 2,
+        "devOgazi <devogazi@gmail.com>": 1,
+        "Nnamdi Ogazie <socrates224aristotle@gmail.com>": 1,
+        "Stanley Obimma <126078627+Stanley471@users.noreply.github.com>": 1,
+        "Obotu Okwori <106823914+Jenks00@users.noreply.github.com>": 1,
+        "Liston <148651773+Listoncrypt@users.noreply.github.com>": 2,
+        "TechBroAfrica <osenioladebo@gmail.com>": 4,
+        "Adotse10066 <davefrankie376@gmail.com>": 2,
+        "AbdulCoderr <najeemabdullahi15@gmail.com>": 4,
+        "Emelie-Dev <120989028+Emelie-Dev@users.noreply.github.com>": 1,
+        "Obaji Chukwuemeka <bajiemeks16@gmail.com>": 1,
+        "Absolute <106808580+chiemezie1@users.noreply.github.com>": 2,
+        "Chidinma Uchendu <onyenwejennifer04@gmail.com>": 4,
+        "muizbolaji4 <muizbolaji336@gmail.com>": 2,
+        "NnamdiCyber <ogazi133@gmail.com>": 1,
+        "Emelie-Dev <godfatheremerie@gmail.com>": 2,
+        "Ova-Klik <olaomovictor1@gmail.com>": 4,
+        "Alabi Ibrahim Abimbola <ibrahimade92@gmail.com>": 1,
+        "Gbadamosi Bashir Olamide <gbadamosibashir1738@gmail.com>": 1,
+        "martinshub-tech <jambemail2003@gmail.com>": 14,
+        "Kefas Kingsley <Kefasiceking@gmail.com>": 2,
+        "Iredia <iojiemun@gmail.com>": 3,
+        "Nkechi  Queeneth Ogbuji <ogbujiqueeneth13@gmail.com>": 3,
+        "Baytizz <juniorterius@gmail.com>": 1,
+        "Sulamoney222 <156526562+Sulamoney222@users.noreply.github.com>": 1,
+        "Adeshina Mubarak <139050846+Mubking-dev@users.noreply.github.com>": 1,
+        "Chinenye <udoyechinenyevictoria@gmail.com>": 2,
+        "LaTash1 <80977896+LaTash1@users.noreply.github.com>": 1,
+        "onyekachi66 <kosidrips@gmail.com>": 1,
+        "CodingBabe-1 <Richardolajide1981@gmail.com>": 1,
+        "Victor Olaomo (Ayobami) <59277657+Ova-Klik@users.noreply.github.com>": 1,
+        "salaudeenkamoldeen99-byte <salaudeenkamoldeen99@gmail.com>": 1,
+        "Alademehin Samuel <alademehinsamuel@gmail.com>": 2,
+        "kodinaka30-ship-it <kodinaka30@gmail.com>": 2,
+        "Emprazzo01 <stormjr001@gmail.com>": 1,
+        "Nicki <middalukawunti@gmail.com>": 2,
+        "d3v-active <contact.activelegion@gmail.com>": 2,
+        "Ericoluchukwu <thankgodoluchukwu9@gmail.com>": 1,
+        "Timiturn3r <146850350+Oluwasuyi-Oluwatimilehin-Daniel@users.noreply.github.com>": 3,
+        "jamesbernardo2234-netizen <jamesbernardo2234-netizen@users.noreply.github.com>": 1,
+        "Waffiyyi <fasholawafiyyi@gmail.com>": 1,
+        "Chenelvis1203 <chen.elvis03@gmail.com>": 1,
+        "Justin Nnaka <63897298+JayCul@users.noreply.github.com>": 4,
+        "dehonesty2-svg <dehonesty2@gmail.com>": 1,
+        "Temisan Steven Momodu <temycodes@gmail.com>": 1,
+        "Faithy5 <maduchinwe5@gmail.com>": 7,
+        "scarface-dev1 <adelakunolajide87@gmail.com>": 1,
+        "otobongdev <amosgift008@gmail.com>": 1,
+        "Okoli Johnpaul Sochimaobi <132228270+Johnpii1@users.noreply.github.com>": 3,
+        "Danitello123 <159028741+Danitello123@users.noreply.github.com>": 1,
+        "northvictor <northvictor5042@proton.me>": 2,
+        "oyeyemidavid-gif <oyeyemidavid84@gmail.com>": 1,
+        "Rayhab2000 <rahabautayohanna@gmail.com>": 1,
+        "sanctus-mvp <iordyesantus5@gmail.com>": 2,
+        "Wizdee-001 <wisdomteman20@gmail.com>": 1,
+        "Sendi John <johnsendi727@gmail.com>": 1,
+        "Itodo Simon <71233924+Itodo-S@users.noreply.github.com>": 1,
+        "chiprime <marvellousebuka21@gmail.com>": 1,
+        "northvictor5042 <northvictor5042@proton.me>": 1,
+        "Opulence Chuks <162402876+Opulencechuks@users.noreply.github.com>": 4,
+        "sadiqabubakar826-del <sadiqabubakar826@gmail.com>": 1,
+        "Temi5 <temiloyedavid@gmail.com>": 1,
+        "Salami Al-Ameen Oluwatosin <salamialameen20@gmail.com>": 1,
+        "graceshaba93 <graceshaba93@gmail.com>": 2,
+        "Faree-code <fareedahakindele0@gmail.com>": 1,
+        "dominiccreates <dominiccreatess@gmail.com>": 6,
+        "Kadiri Emmanuel <104263555+EmmyKay0026@users.noreply.github.com>": 1,
+        "Fade <fadecrypto@Fades-MacBook-Pro.local>": 3,
+        "euniceamoni <euniceamoni70@gmail.com>": 4,
+        "SpacePanda7077 <spacepanda7077@gmail.com>": 1,
+        "Maduegbunam Faith Amarachi <oluebube.madu@yahoo.com>": 1,
+        "devfoma <faithamarachi860@gmail.com>": 4,
+        "pixels26 <emedit453@gmail.com>": 2,
+        "Martin Ngutswen <164114946+Aonlike@users.noreply.github.com>": 1,
+        "Gabriel Temtsen <57184013+gabrieltemtsen@users.noreply.github.com>": 1,
+        "timiturn3r <oluwasuyitimilehin@gmail.com>": 8,
+        "enzo95 <maixuancanh2222@gmail.com>": 1,
+        "abrahambaba1 <132574906+abrahambaba1@users.noreply.github.com>": 1,
+        "laxjovial <laxjovial@gmail.com>": 1,
+        "Billionaire Dev <143970775+JesseJohn7@users.noreply.github.com>": 1,
+        "Ayomide <salamiolamide525@gmail.com>": 1,
+        "Nkwa_Zema <153833189+ZEMAD0N26@users.noreply.github.com>": 1,
+        "ogunjobielijah09-cyber <ogunjobielijah09@gmail.com>": 1,
+        "Oluwatoyin Solomon <toyinsolomon4@gmail.com>": 1,
+        "Ibrahim Qozeem <qozeem.ibrahim65@gmail.com>": 1,
+        "Kolawole David Adeola <kolawoledauge29@st.futminna.edu.ng>": 1,
+        "Joy Bawa <joybawa04@gmail.com>": 1,
+        "Rafiat30 <ajiboserafiat22@gmail.com>": 2,
+        "Ayinkx <olayinkaawal00@gmail.com>": 1,
+        "Fade <83231859+adepoju2006@users.noreply.github.com>": 1,
+        "Lazaruster <lazarusterseer1@gmail.com>": 1,
+        "Divine Samuel <77382397+divysam@users.noreply.github.com>": 3,
+        "Aisha000-0 <bakareaisha929@gmail.com>": 1,
+        "Ifeanyi... <ikengadan21@gmail.com>": 3,
+        "1nonlypiece <baskarayelu@gmail.com>": 126,
+        "victortanimu05-stack <victortanimu05@gmail.com>": 2,
+        "P-Biz Solutions <pbizsolutions.com@gmail.com>": 4,
+        "Mekjah <believeinsomething2421@gmail.com>": 2,
+        "Alan <alan@provableintelligence.com>": 2,
+        "Alaps <qozeemibrahim065@gmail.com>": 1,
+        "adaofweb3 <adaofweb3@users.noreply.github.com>": 1,
+        "Chinenye <276411943+udoyechinenyevictoria@users.noreply.github.com>": 2,
+        "wokedi <ebelelynda.okolo@gmail.com>": 1,
+        "Dreamstore2046 <199616733+Dreamstore2046@users.noreply.github.com>": 6,
+        "nanaabdul1172 <abdulrahmanfirdausionize@gmail.com>": 6,
+        "Amina Sheriff <61979798+amina69@users.noreply.github.com>": 4,
+        "Wuraola Olaniyan <122721324+OG-wura@users.noreply.github.com>": 2,
+        "Vincent ibochi <ibochivincent@gmail.com>": 4,
+        "Diva <nanaabdul538@gmail.com>": 4,
+        "OG-wura <olaniyangold88@gmail.com>": 6,
+        "Bizify1370 <bizsimon029@gmail.com>": 4,
+        "Senior Engineer <engineer@example.com>": 2,
+        "cris <cristianagustinfleita@gmail.com>": 2,
+        "Quantara CI <ci@quantara.xyz>": 6,
+        "OluwapelumiElisha <elishaoluwapelumi38@gmail.com>": 2,
+        "NEA DEV <nwaforebuka12@gmail.com>": 4,
+        "AlphaTechini <rehobothokoibu@gmail.com>": 4,
+        "bheesty <bheesty16@gmail.com>": 2,
+        "Timi <146850350+Oluwasuyi-Timilehin@users.noreply.github.com>": 2,
+        "AnnieIj <anichrisa@gmail.com>": 4,
+        "Harold Ikechukwu <harryjupiter148@gmail.com>": 11,
+        "Darius Daniel <dariusdaniel771@gmail.com>": 3,
+        "godwinasang <godwinasang640@gmail.com>": 2,
+        "sendi0011 <johnsendi727@gmail.com>": 2,
+        "padom2020 <drmusic2021@gmail.com>": 1,
+        "Seunfunmi-319509 <seunfunmiajoke@gmail.com>": 1,
+        "Nife-tanny <148556386+Nife-tanny@users.noreply.github.com>": 1,
+        "victorocheje <victorocheje2021@gmail.com>": 3,
+        "Vivi <vivi@stellarlend.com>": 1,
+        "Doris Maduegbunam <dorismaduegbunam@gmail.com>": 4,
+        "Samuel Ojetunde <samuelojetunde898@gmail.com>": 4,
+        "Oyixah <bashiraoyizasadiq@gmail.com>": 1,
+        "nice-bills <alnicewilliams2@gmail.com>": 1,
+        "Devadakene <opulencechuks@example.com>": 1,
+        "AugistineCreates <project.kosiso@gmail.com>": 9,
+        "paulpeter32-coder <petange32@gmail.com>": 4,
+        "CodesBy.Mitch <osiagomitchell@gmail.com>": 1,
+        "unknown <lekanayoola04@gmail.com>": 3,
+        "dunnidev <abisolayakubu297@gmail.com>": 1,
+        "ppaker119 <Abiolapeter911@gmail.com>": 3,
+        "Jaydams <John89Isaac@gmail.com>": 1,
+        "geeekyfocus <gidabdulharkiem27@gmail.com>": 1,
+        "Harold Ikechukwu <72943529+harryjupiter148@users.noreply.github.com>": 1,
+        "flourishbar <you@example.com>": 2,
+        "Alu-card19 <clintoncodes68@gmail.com>": 1,
+        "Chidera Godwin <agbochidera95@gmail.com>": 2,
+        "OKORIE CHIGOZIE JEHOSHAPHAT <okoriechigozie99@gmail.com>": 3,
+        "Okorie Chigozie Jehoshaphat <okoriechigozie99@gmail.com>": 1,
+        "Simongodw <godwinasang640@gmail.com>": 1,
+        "vstudio79 <victoromorogbe79@gmail.com>": 1,
+        "Opulence Chuks <chukwudaluchiemerie@gmail.com>": 12,
+        "Bojest001 <belovedj66@gmail.com>": 1,
+        "Stephan-Thomas <xevermontes8@gmail.com>": 2,
+        "vicistar-star <ogazivictor17@gmail.com>": 1,
+        "Mhidesav <obamuyishegun@gmail.com>": 1,
+        "Oluwatobi Sodipo <sodipooluwatobi009@gmail.com>": 1,
+        "CAESAR <onajidavid87@gmail.com>": 1,
+        "JudeDaniel6 <judedaniel6652@gmail.com>": 1,
+        "Lynndabel <okolo.ebelelynda@gmail.com>": 15,
+        "Duro <joseph123duro@gmail.com>": 1,
+        "emteebug <emteebug12@gmail.com>": 1,
+        "Nwafor Ebuka A. <nwaforebuka12@gmail.com>": 1,
+        "Jo-anny <joanonyeanusi@gmail.com>": 1,
+        "macbook <lawaltoheeb36@gmail.com>": 1,
+        "ZuLu0890 <ayodelepraise2000@gmail.com>": 1,
+        "TheWeirdDee <divinenation1@gmail.com>": 2,
+        "cyberdocs120 <cyberdocs120@gmail.com>": 1,
+        "Dydex <supremeajala@gmail.com>": 5,
+        "Acredia Developer <developer@acredia.com>": 1,
+        "shogun444 <sayandiproy17@gmail.com>": 1,
+        "Coded.Fx <muhammadjamiunurain@gmail.com>": 1,
+        "Bradley Fernando <bradley.fernando@gmail.com>": 1,
+        "Ekpemark <ekpemac4224@gmail.com>": 1,
+        "DevALVIN-24 <chinecheremezeobi24@gmail.com>": 1,
+        "OmniZlatoon <obaseviv@gmail.com>": 1,
+        "egwujiohaifesinachiperpetual-max <egwujiohaifesinachiperpetual@gmail.com>": 9,
+        "Whiznificent <wisdomsam002@gmail.com>": 1,
+        "Mide_xol <okunolaolamide7@gmail.com>": 4,
+        "Kaycee276 <kizuaba@gmail.com>": 1,
+        "numdinkush <kushi.ezekiel@techfsn.com>": 1,
+        "Anubhav Singh <anubhavsingh@Mac.lan>": 1,
+        "xx7412421-cloud <xx7412421@gmail.com>": 7,
+        "D'Angelo Rodriguez <70290504+dangelo352@users.noreply.github.com>": 1,
+        "adewole adedotun <erik.edwards.jon@gmail.com>": 1,
+        "pengshenghai <727236591@qq.com>": 2,
+        "S13 <61961655+samad13@users.noreply.github.com>": 1,
+        "Errordog2 <zmaxzhao1996@gmail.com>": 1,
+        "Glam26 <158250667+Glam26@users.noreply.github.com>": 1,
+        "instalaudi <instalaudi@gmail.com>": 1,
+        "cuph7022 <156067184+cuph7022@users.noreply.github.com>": 1,
+        "gloskull <gloskull24@gmail.com>": 10,
+        "dumbdev <ajaladolapo360@yahoo.com>": 1,
+        "Ihueze Austin Ugocha <108463670+whitezaddy@users.noreply.github.com>": 2,
+        "itzabdoull <115415331+itzabdoull@users.noreply.github.com>": 4,
+        "whitezaddy <austinihueze@gmail.com>": 2,
+        "Malcolm-Wander <malcolmese06@icloud.com>": 2,
+        "MerlinTheWhiz <michaelnathan505@gmail.com>": 2,
+        "Asarf Khan <khanavi272@gmail.com>": 1,
+        "folorunsho olamide <folorunsho891@gmal.com>": 2,
+        "schima <schima007@gmail.com>": 4,
+        "Vvictor-commits <victorm2723@student.babcock.edu.ng>": 1,
+        "itzabdoull <abdulyunusa004@gmail.com>": 2,
+        "Agbasimere <agbasimerekingsley06@gmail.com>": 2,
+        "khanavi272-spec <khanavi272@gmail.com>": 4,
+        "Lacastar2000 <jesulayomionabanjo1247@gmail.com>": 2,
+        "BigMick03 <jesulobamicheal@gmail.com>": 3,
+        "kikiola <oluwatoby007@gmail.com>": 1,
+        "oscarj007 <tochukwujoseph50@gmail.comm>": 1,
+        "Porfolio1 <agbochidera95@gmail.com>": 2,
+        "Luchi <ftoluchi@gmail.com>": 2,
+        "Osifowora <osifoworaadetola02@gmail.com>": 1,
+        "Godfr3y <godfreydelight2@gmail.com>": 2,
+        "Damilola Maria Ajibade <damilolaajibade121@gmail.com>": 2,
+        "AbdulAwwal <ajoselawal@gmail.com>": 1,
+        "JesseJohn7 <Jessejohn260@gmail.com>": 1,
+        "Jaydams <jaydamzy9@gmail.com>": 1,
+        "Meme11030 <nnakenyichinemelum80@gmail.com>": 1,
+        "Oluwatobi Omitogun <omotayooluwatobi15@gmail.com>": 1,
+        "Falujo Adeyemi <falujoadeyemi6776@gmail.com>": 2,
+        "andreschucks101 <chukwukaugbechie@gmail.com>": 1,
+        "Chigozirim Favour <codevanguard01@gmail.com>": 1,
+        "Gozirimdev <codevanguard01@gmail.com>": 2,
+        "Jabir-dev001 <jabirzakariyya21@gmail.com>": 2,
+        "noevidence1017 <noevidence1017@gmail.com>": 2,
+        "smartalee <smartalee@localhost.localdomain>": 1,
+        "Aman koli <2025.amana@isu.ac.in>": 2,
+        "helenahelenavanbeek-png <helenahelenavanbeek@gmail.com>": 2,
+        "elcabasa <ojonubagoodness@gmail.com>": 3,
+        "Truphile <salidmonreal@gmail.com>": 5,
+        "The-Big-Danny <danielobasy22@gmail.com>": 1,
+        "Goodness <ojonubagoodness@gmail.com>": 1,
+        "Marvell69 <adewunmimarvel@gmail.com>": 1,
+        "JOEL <ogunmodedejoel1@gmail.com>": 1,
+        "numdinkushi <74189821+numdinkushi@users.noreply.github.com>": 1,
+        "Sayandip Roy <161803450+shogun444@users.noreply.github.com>": 1,
+        "DEBORAH FUNMILOLA OLABOYE <deboraholaboye@gmail.com>": 2,
+        "opepraise <praiseopeyemi28@gmail.com>": 1,
+        "skylar <nonchalanttee22@gmail.com>": 1,
+        "Johnsource-hub <femijohn1007@gmail.com>": 1,
+        "CodeAlien <victortaiwoscroll78@gmail.com>": 1,
+        "whitezaddy <108463670+whitezaddy@users.noreply.github.com>": 2,
+        "Michael Anokam <michaelnathan505@gmail.com>": 1,
+        "dextro172-ui <dextro172@gmail.com>": 1,
+        "Raymond Abiola <60116085+RaymondAbiola@users.noreply.github.com>": 2,
+        "Oyakhilome Gift A <asekhamegift@gmail.com>": 1,
+        "Olaniyan Eniola <109947938+dot-enny@users.noreply.github.com>": 1,
+        "Abdul Omeiza <108739614+abdulomeiza@users.noreply.github.com>": 1,
+        "Hahfyeez <36053600+Hahfyeex@users.noreply.github.com>": 1,
+        "Emmanuel ogheneovo <emmanuelogheneovo17@gmail.com>": 1,
+        "Gt <95524505+best2025j@users.noreply.github.com>": 2,
+        "Jagadeesh B <jagadeesh26062002@gmail.com>": 1,
+        "Solomonsolomonsolomon <103282647+Solomonsolomonsolomon@users.noreply.github.com>": 1,
+        "Precious Ifeanyi <67829268+PreciousAnyi@users.noreply.github.com>": 2,
+        "Ahmad Abdulkareem <abdulkareemahmad413@gmail.com>": 1,
+        "drakkomaximo <57687342+drakkomaximo@users.noreply.github.com>": 2,
+        "Amarjeet patel <130923139+Amarjeet325@users.noreply.github.com>": 1,
+        "Luis Carri\u00f3n <41096968+luighis@users.noreply.github.com>": 1,
+        "Ekene Ngwudike <94962750+Ekene001@users.noreply.github.com>": 1,
+        "Nafisat  Aderayo Adekunle <98043346+Pheenah@users.noreply.github.com>": 2,
+        "Bigcheese-2 <118114682+Bigcheese-2@users.noreply.github.com>": 2,
+        "David Emulo <161654052+Davidemulo@users.noreply.github.com>": 3,
+        "Angel Mba <70325824+Michelle031@users.noreply.github.com>": 2,
+        "1nonlypiece <agentgangstar123@gmail.com>": 1
+      },
+      "first_commit": "1201390|1nonlypiece|agentgangstar123@gmail.com|2025-03-22 16:28:06 +0530|init",
+      "latest_commit": "c5e12b7|Olumidelala|olumide2956@gmail.com|2026-09-30 14:17:32 +0100|test(common): add failure-path and boundary coverage for PageHeader.stories.tsx (#1552)",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "Task2-practice": {
+    "path": "/home/lala_02/Task2-practice",
+    "stack": [
+      "Rust/Cargo"
+    ],
+    "subdirs": [
+      "src",
+      "target"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": false
+    }
+  },
+  "UnderSeal": {
+    "path": "/home/lala_02/UnderSeal",
+    "stack": [],
+    "subdirs": [
+      ".git",
+      "frontend",
+      "contracts"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/Olalolo22/UnderSeal.git"
+      },
+      "total_commits": 5,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 5
+      },
+      "first_commit": "352f410|Olumidelala|olumide2956@gmail.com|2026-07-19 04:33:01 +0100|Initial commit: Midnight Compact contracts and Next.js frontend base",
+      "latest_commit": "56f2596|Olumidelala|olumide2956@gmail.com|2026-07-19 14:55:07 +0100|docs: polished hackathon README",
+      "is_dirty": true,
+      "modified_count": 1,
+      "untracked_count": 0
+    }
+  },
+  "Veridian": {
+    "path": "/home/lala_02/Veridian",
+    "stack": [],
+    "subdirs": [],
+    "nested_git": [],
+    "git": {
+      "is_git": false
+    }
+  },
+  "Vicar": {
+    "path": "/home/lala_02/Vicar",
+    "stack": [
+      "Python"
+    ],
+    "subdirs": [
+      ".git",
+      "backend",
+      ".vscode",
+      "tests",
+      "Frontend",
+      ".pytest_cache"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/Cavista-Hackathon-2025/Vicar.git"
+      },
+      "total_commits": 11,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 10,
+        "Olalolo22 <116976810+Olalolo22@users.noreply.github.com>": 1
+      },
+      "first_commit": "d0a5f14|Olalolo22|116976810+Olalolo22@users.noreply.github.com|2025-02-22 12:11:26 +0100|Initial commit",
+      "latest_commit": "20ce65d|Olumidelala|olumide2956@gmail.com|2025-02-23 08:41:21 +0100|Moved files",
+      "is_dirty": true,
+      "modified_count": 3,
+      "untracked_count": 1
+    }
+  },
+  "aegis-ledger": {
+    "path": "/home/lala_02/aegis-ledger",
+    "stack": [
+      "Node/JS/TS",
+      "Supabase"
+    ],
+    "subdirs": [
+      ".git",
+      "scripts",
+      "supabase",
+      "src",
+      "public",
+      "node_modules"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "feat/colosseum-usdc-payroll",
+      "remotes": {
+        "origin": "git@github.com:Olalolo22/aegis-ledger.git"
+      },
+      "total_commits": 45,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 5,
+        "Olumide <Olumide2956@gmail.com>": 33,
+        "Olumide <olumide2956@gmail.com>": 7
+      },
+      "first_commit": "e81a7bd|Olumide|olumide2956@gmail.com|2026-04-26 21:23:42 +0100|checkpoint: stable custodial backend before zero-trust refactor",
+      "latest_commit": "4c73900|Olumidelala|olumide2956@gmail.com|2026-09-24 07:21:37 +0100|fix(payroll): resolve TEE batch failures, address curve validation, and Buffer polyfills",
+      "is_dirty": true,
+      "modified_count": 0,
+      "untracked_count": 1
+    }
+  },
+  "agent-challenge-readlater": {
+    "path": "/home/lala_02/agent-challenge-readlater",
+    "stack": [
+      "Node/JS/TS",
+      "Docker"
+    ],
+    "subdirs": [
+      "characters",
+      "nos_job_def",
+      ".eliza",
+      ".git",
+      "src",
+      "assets",
+      "dist"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/Olalolo22/agent-challenge.git"
+      },
+      "total_commits": 156,
+      "authors": {
+        "David Britt <djmb102@gmail.com>": 135,
+        "David Britt <djmbritt@users.noreply.github.com>": 4,
+        "Yogesh Khutwad <152191391+YogeshK34@users.noreply.github.com>": 1,
+        "KeesGeerligs <166137421+KeesGeerligs@users.noreply.github.com>": 16
+      },
+      "first_commit": "239fce2|David Britt|djmb102@gmail.com|2025-06-17 13:52:08 +0200|Init Mastra",
+      "latest_commit": "8adcc12|David Britt|djmb102@gmail.com|2026-04-01 11:33:51 +0200|Add embedding config to readme",
+      "is_dirty": true,
+      "modified_count": 4,
+      "untracked_count": 8
+    }
+  },
+  "agent-challenge-t": {
+    "path": "/home/lala_02/agent-challenge-t",
+    "stack": [
+      "Node/JS/TS",
+      "Docker"
+    ],
+    "subdirs": [
+      "characters",
+      "nos_job_def",
+      ".eliza",
+      ".git",
+      "src",
+      "assets",
+      "dist",
+      "data"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/Olalolo22/agent-challenge-fin.git"
+      },
+      "total_commits": 156,
+      "authors": {
+        "David Britt <djmb102@gmail.com>": 135,
+        "David Britt <djmbritt@users.noreply.github.com>": 4,
+        "Yogesh Khutwad <152191391+YogeshK34@users.noreply.github.com>": 1,
+        "KeesGeerligs <166137421+KeesGeerligs@users.noreply.github.com>": 16
+      },
+      "first_commit": "239fce2|David Britt|djmb102@gmail.com|2025-06-17 13:52:08 +0200|Init Mastra",
+      "latest_commit": "8adcc12|David Britt|djmb102@gmail.com|2026-04-01 11:33:51 +0200|Add embedding config to readme",
+      "is_dirty": true,
+      "modified_count": 4,
+      "untracked_count": 9
+    }
+  },
+  "agent-challenge-wealth": {
+    "path": "/home/lala_02/agent-challenge-wealth",
+    "stack": [
+      "Node/JS/TS",
+      "Docker"
+    ],
+    "subdirs": [
+      ".git",
+      "characters",
+      "nos_job_def",
+      "src",
+      "assets"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/Olalolo22/agent-challenge-wealth.git"
+      },
+      "total_commits": 156,
+      "authors": {
+        "David Britt <djmb102@gmail.com>": 135,
+        "David Britt <djmbritt@users.noreply.github.com>": 4,
+        "Yogesh Khutwad <152191391+YogeshK34@users.noreply.github.com>": 1,
+        "KeesGeerligs <166137421+KeesGeerligs@users.noreply.github.com>": 16
+      },
+      "first_commit": "239fce2|David Britt|djmb102@gmail.com|2025-06-17 13:52:08 +0200|Init Mastra",
+      "latest_commit": "8adcc12|David Britt|djmb102@gmail.com|2026-04-01 11:33:51 +0200|Add embedding config to readme",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "alx-higher_level_programming": {
+    "path": "/home/lala_02/alx-higher_level_programming",
+    "stack": [],
+    "subdirs": [
+      ".git",
+      "0x00-python-hello_world"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/Olalolo22/alx-higher_level_programming.git"
+      },
+      "total_commits": 12,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 12
+      },
+      "first_commit": "1517408|Olumidelala|olumide2956@gmail.com|2024-09-27 00:42:50 -0700|Added a script that runs a pyhton script and added the main file",
+      "latest_commit": "e61af4a|Olumidelala|olumide2956@gmail.com|2025-06-02 22:46:22 +0100|Mass pushing",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "alx-low_level_programming": {
+    "path": "/home/lala_02/alx-low_level_programming",
+    "stack": [],
+    "subdirs": [
+      "0x00-hello_world",
+      "0x03-debugging",
+      ".git",
+      "0x04-more_functions_nested_loops",
+      "0x01-variables_if_else_while",
+      "0x02-functions_nested_loops"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "master",
+      "remotes": {
+        "origin": "https://github.com/Olalolo22/alx-low_level_programming.git"
+      },
+      "total_commits": 69,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 66,
+        "Olalolo22 <116976810+Olalolo22@users.noreply.github.com>": 1,
+        "Muhammed <Olumide2956@gmail.com>": 2
+      },
+      "first_commit": "825c04b|Muhammed|Olumide2956@gmail.com|2023-12-16 16:23:31 -0800|preprocessor",
+      "latest_commit": "d2bfb59|Olumidelala|olumide2956@gmail.com|2025-04-18 22:23:56 +0100|Weird display",
+      "is_dirty": true,
+      "modified_count": 1,
+      "untracked_count": 2
+    }
+  },
+  "alx-polly": {
+    "path": "/home/lala_02/alx-polly",
+    "stack": [
+      "Node/JS/TS"
+    ],
+    "subdirs": [
+      "components",
+      ".git",
+      "app",
+      ".trae",
+      "public",
+      "lib",
+      ".cursor"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/Olalolo22/alx-polly.git"
+      },
+      "total_commits": 4,
+      "authors": {
+        "Danson <dansonkalaghe@gmail.com>": 4
+      },
+      "first_commit": "ff1b489|Danson|dansonkalaghe@gmail.com|2025-07-25 11:02:38 +0300|Create repo and add readme.MD",
+      "latest_commit": "20085bc|Danson|dansonkalaghe@gmail.com|2025-07-25 12:25:49 +0300|deletion",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "alx-polly2": {
+    "path": "/home/lala_02/alx-polly2",
+    "stack": [],
+    "subdirs": [
+      ".git",
+      "ALX-AI2",
+      "OneDrive"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/Olalolo22/alx-polly2.git"
+      },
+      "total_commits": 10,
+      "authors": {
+        "Olumide <olumide2956@gmail.com>": 9,
+        "Olalolo22 <116976810+Olalolo22@users.noreply.github.com>": 1
+      },
+      "first_commit": "39b5007|Olumide|olumide2956@gmail.com|2023-05-09 01:29:02 -0700|My first commit",
+      "latest_commit": "08bfaad|Olumide|olumide2956@gmail.com|2025-09-07 02:49:18 +0100|Tests produced",
+      "is_dirty": true,
+      "modified_count": 6,
+      "untracked_count": 1
+    }
+  },
+  "chat_backend": {
+    "path": "/home/lala_02/chat_backend",
+    "stack": [
+      "Python"
+    ],
+    "subdirs": [
+      "app",
+      ".vscode",
+      "venv",
+      ".pytest_cache"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": false
+    }
+  },
+  "count_pgm": {
+    "path": "/home/lala_02/count_pgm",
+    "stack": [
+      "Rust/Cargo"
+    ],
+    "subdirs": [
+      ".git",
+      "src",
+      "target"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "HEAD",
+      "remotes": {},
+      "total_commits": 0,
+      "authors": {},
+      "first_commit": "",
+      "latest_commit": "",
+      "is_dirty": true,
+      "modified_count": 0,
+      "untracked_count": 4
+    }
+  },
+  "example-zkloan": {
+    "path": "/home/lala_02/example-zkloan",
+    "stack": [
+      "Node/JS/TS"
+    ],
+    "subdirs": [
+      "zkloan-credit-scorer-ui",
+      "zkloan-credit-scorer-cli",
+      ".github",
+      "contract",
+      ".git",
+      "zkloan-credit-scorer-attestation-api"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/midnightntwrk/example-zkloan.git"
+      },
+      "total_commits": 71,
+      "authors": {
+        "Idris Olubisi <heedris2olubisi@gmail.com>": 9,
+        "Olanetsoft <heedris2olubisi@gmail.com>": 25,
+        "nstanford5 <67871053+nstanford5@users.noreply.github.com>": 7,
+        "Squirrel <giles.cope@shielded.io>": 4,
+        "copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>": 1,
+        "Giles Cope <gilescope@gmail.com>": 6,
+        "dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>": 1,
+        "JAlbertCode <JonathanAlbert0115@gmail.com>": 3,
+        "Lauren Lee <lauren@lolocoding.com>": 9,
+        "renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>": 1,
+        "Adam Reynolds <adam.reynolds@shielded.io>": 1,
+        "Hector Bulgarini <hbulgarini@gmail.com>": 3,
+        "Chris Ferry <chrisferry@gmail.com>": 1
+      },
+      "first_commit": "a2e3e3d|Chris Ferry|chrisferry@gmail.com|2026-02-22 15:57:11 -0500|Initial commit",
+      "latest_commit": "a0846fd|Idris Olubisi|heedris2olubisi@gmail.com|2026-07-17 12:22:27 +0100|Merge pull request #39 from midnightntwrk/chore/compat-matrix-alignment",
+      "is_dirty": true,
+      "modified_count": 3,
+      "untracked_count": 0
+    }
+  },
+  "finsa-directus-backend": {
+    "path": "/home/lala_02/finsa-directus-backend",
+    "stack": [
+      "Docker"
+    ],
+    "subdirs": [
+      "frontend-sdk",
+      ".git"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/FINSA-TECH-ORG/Finsa-directus-backend.git"
+      },
+      "total_commits": 1,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 1
+      },
+      "first_commit": "f409f35|Olumidelala|olumide2956@gmail.com|2026-05-25 19:31:47 +0100|initial commit: directus backend configured for railway deployment with automated bootstrap, schema apply, and hardened permissions",
+      "latest_commit": "f409f35|Olumidelala|olumide2956@gmail.com|2026-05-25 19:31:47 +0100|initial commit: directus backend configured for railway deployment with automated bootstrap, schema apply, and hardened permissions",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "finsa_backend": {
+    "path": "/home/lala_02/finsa_backend",
+    "stack": [
+      "Docker"
+    ],
+    "subdirs": [
+      ".git",
+      "core",
+      "venv",
+      "apps"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "HEAD",
+      "remotes": {},
+      "total_commits": 0,
+      "authors": {},
+      "first_commit": "",
+      "latest_commit": "",
+      "is_dirty": true,
+      "modified_count": 0,
+      "untracked_count": 6
+    }
+  },
+  "finsa_backend2": {
+    "path": "/home/lala_02/finsa_backend2",
+    "stack": [],
+    "subdirs": [],
+    "nested_git": [],
+    "git": {
+      "is_git": false
+    }
+  },
+  "fizz_bz": {
+    "path": "/home/lala_02/fizz_bz",
+    "stack": [
+      "Rust/Cargo"
+    ],
+    "subdirs": [
+      ".git",
+      "src",
+      "target"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "HEAD",
+      "remotes": {},
+      "total_commits": 0,
+      "authors": {},
+      "first_commit": "",
+      "latest_commit": "",
+      "is_dirty": true,
+      "modified_count": 0,
+      "untracked_count": 4
+    }
+  },
+  "harvest": {
+    "path": "/home/lala_02/harvest",
+    "stack": [
+      "Rust/Cargo",
+      "Solana/Anchor",
+      "Node/JS/TS"
+    ],
+    "subdirs": [
+      "programs",
+      "node_modules",
+      "idl",
+      "tests",
+      ".git",
+      "migrations",
+      "docs",
+      "scripts",
+      "app"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "git@github.com:Olalolo22/harvest.git",
+        "partner": "https://github.com/etvjay/harvest.git"
+      },
+      "total_commits": 45,
+      "authors": {
+        "Harvest <harvest@stocklana.fi>": 42,
+        "Ubuntu <ubuntu@ip-172-31-14-153.us-west-2.compute.internal>": 3
+      },
+      "first_commit": "ce82f1d|Harvest|harvest@stocklana.fi|2026-09-15 08:36:43 +0100|chore: anchor init scaffold + devnet config",
+      "latest_commit": "39f1afc|Harvest|harvest@stocklana.fi|2026-09-26 00:03:32 +0100|style: restore signature Harvest wheat emoji to brand headers and empty state",
+      "is_dirty": true,
+      "modified_count": 11,
+      "untracked_count": 0
+    }
+  },
+  "mb_ideas": {
+    "path": "/home/lala_02/mb_ideas",
+    "stack": [],
+    "subdirs": [],
+    "nested_git": [],
+    "git": {
+      "is_git": false
+    }
+  },
+  "meridian": {
+    "path": "/home/lala_02/meridian",
+    "stack": [
+      "Node/JS/TS"
+    ],
+    "subdirs": [
+      "api",
+      "packages",
+      "apps",
+      ".github",
+      ".git",
+      "docs",
+      "scripts"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "fix/issue-554",
+      "remotes": {
+        "origin": "https://github.com/drydocs/meridian.git"
+      },
+      "total_commits": 643,
+      "authors": {
+        "Daniel kalla <137341915+Danielkallala@users.noreply.github.com>": 1,
+        "Mojisola Dev <yimsco57@gmail.com>": 1,
+        "PEOLITE <peolite001@gmail.com>": 1,
+        "QwinDivy <qwindivy@gmail.com>": 1,
+        "Yaomin \ud83c\udf39 <149057725+Muyideen-js@users.noreply.github.com>": 1,
+        "Mohammed Lateef <latkid2020@gmail.com>": 1,
+        "Ogbodo Obiajulu <meloboy2000@gmail.com>": 1,
+        "Ayo_Dev <amireayodele2002@gmail.com>": 1,
+        "AYo101o <107185167+AYo101o@users.noreply.github.com>": 1,
+        "samlogy1 <akejusamuel0@gmail.com>": 1,
+        "Collins Ezedike-egwom <62267326+collinsezedike@users.noreply.github.com>": 187,
+        "dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>": 101,
+        "Lizzy brainz <ibochielizabeth@gmail.com>": 2,
+        "Edwin Aboje <144367782+abojeEdwin@users.noreply.github.com>": 1,
+        "northvictor <northvictor5042@proton.me>": 1,
+        "JClark011 <joelclar700@gmail.com>": 1,
+        "Ifeoluwa Sanni <47613365+pheobeayo@users.noreply.github.com>": 1,
+        "Dev Archer <opadijoayomipo@gmail.com>": 1,
+        "olu-cmd <olusumboolaniyan@gmail.com>": 1,
+        "summer-0ma <summerenyi@gmail.com>": 1,
+        "determined-001 <adenijiayomideay@gmail.com>": 2,
+        "blockchain-maxis <blockchainmaxis@gmail.com>": 2,
+        "Adefokun Adeoluwa <116833049+Adecom16@users.noreply.github.com>": 3,
+        "Damilola Maria Ajibade <damilolaajibade121@gmail.com>": 1,
+        "GazzyLee <francischiemerieogazi@gmail.com>": 1,
+        "subheeksh <komasubheeksh@gmail.com>": 1,
+        "Diya Maheshwari <diyamaheshwari124@gmail.com>": 12,
+        "Onyii1234 <christiana7059@gmail.com>": 2,
+        "CHKM001 <cnduka.2203652@stu.cu.edu.ng>": 1,
+        "Caner Yakupo\u011flu <caneryakupoglu@outlook.com>": 3,
+        "Malcolm-Wander <malcolmese06@icloud.com>": 2,
+        "Nwadimkpa Chidubem <135223997+mac-dubem@users.noreply.github.com>": 1,
+        "Abdussalam Abdulmujeeb Mujahid <95423370+Amas-01@users.noreply.github.com>": 1,
+        "CIFERBANS123 <abdulazizishaq212@gmail.com>": 1,
+        "OKORIE CHIGOZIE JEHOSHAPHAT <okoriechigozie99@gmail.com>": 1,
+        "Ayinkx <olayinkaawal00@gmail.com>": 1,
+        "Siddhant Tiwari <siddhant.2428cseaiml@kiet.edu>": 1,
+        "Ezedike-egwom Collins <ezedikecollins@gmail.com>": 174,
+        "Shepherd <shepherdlegen001@gmail.com>": 1,
+        "Siddhant Tiwari <siddhanttiwariknp@gmail.com>": 1,
+        "Aakriti Arya <aakritiarya2005@gmail.com>": 10,
+        "That guy <120946193+ezedike-evan@users.noreply.github.com>": 20,
+        "ezedike-evan <egwomevan323@gmail.com>": 16,
+        "blockchain-maxis <267648998+blockchain-maxis@users.noreply.github.com>": 1,
+        "Collins Ezedike-egwom <ezedikecollins@gmail.com>": 77
+      },
+      "first_commit": "5d13e62|Collins Ezedike-egwom|ezedikecollins@gmail.com|2026-04-17 19:48:34 +0100|feat: initial project scaffold",
+      "latest_commit": "05b251e|Daniel kalla|137341915+Danielkallala@users.noreply.github.com|2026-08-30 21:45:13 +0100|fix(contracts): error on malformed DeFindex valuation, add vault zero-assets backstop",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "prac_01": {
+    "path": "/home/lala_02/prac_01",
+    "stack": [
+      "Rust/Cargo"
+    ],
+    "subdirs": [
+      ".git",
+      "src",
+      "target"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "HEAD",
+      "remotes": {},
+      "total_commits": 0,
+      "authors": {},
+      "first_commit": "",
+      "latest_commit": "",
+      "is_dirty": true,
+      "modified_count": 0,
+      "untracked_count": 4
+    }
+  },
+  "practice-C": {
+    "path": "/home/lala_02/practice-C",
+    "stack": [],
+    "subdirs": [],
+    "nested_git": [],
+    "git": {
+      "is_git": false
+    }
+  },
+  "program-Olalolo22": {
+    "path": "/home/lala_02/program-Olalolo22",
+    "stack": [],
+    "subdirs": [
+      ".git",
+      "anchor_project",
+      "frontend"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "solution",
+      "remotes": {
+        "origin": "https://github.com/School-of-Solana/program-Olalolo22.git"
+      },
+      "total_commits": 3,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 3
+      },
+      "first_commit": "ba9222c|Olumidelala|olumide2956@gmail.com|2025-11-25 20:37:30 +0100|Final Submission",
+      "latest_commit": "dde9128|Olumidelala|olumide2956@gmail.com|2025-11-25 22:28:59 +0100|good fix",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "program-Olalolo22-copy": {
+    "path": "/home/lala_02/program-Olalolo22-copy",
+    "stack": [],
+    "subdirs": [
+      ".git",
+      "frontend"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "clean_submission",
+      "remotes": {
+        "origin": "https://github.com/School-of-Solana/program-Olalolo22.git"
+      },
+      "total_commits": 2,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 2
+      },
+      "first_commit": "ba9222c|Olumidelala|olumide2956@gmail.com|2025-11-25 20:37:30 +0100|Final Submission",
+      "latest_commit": "95c5f2a|Olumidelala|olumide2956@gmail.com|2025-11-25 20:40:32 +0100|Final Submission Light",
+      "is_dirty": true,
+      "modified_count": 48,
+      "untracked_count": 0
+    }
+  },
+  "rescue": {
+    "path": "/home/lala_02/rescue",
+    "stack": [
+      "Node/JS/TS"
+    ],
+    "subdirs": [
+      "components",
+      "lib",
+      ".git",
+      "rescue-protocol",
+      "app",
+      "public",
+      "verification"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "git@github.com:Olalolo22/rescue.git"
+      },
+      "total_commits": 34,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 34
+      },
+      "first_commit": "669c174|Olumidelala|olumide2956@gmail.com|2026-09-06 00:07:31 +0100|feat: initial rescue architecture, brainstorm, and milestone 0 verification suite",
+      "latest_commit": "aa6d6b2|Olumidelala|olumide2956@gmail.com|2026-09-10 18:57:12 +0100|chore(config): configure devnet cluster and portable wallet path in rescue-protocol",
+      "is_dirty": true,
+      "modified_count": 0,
+      "untracked_count": 1
+    }
+  },
+  "rescue2": {
+    "path": "/home/lala_02/rescue2",
+    "stack": [
+      "Node/JS/TS"
+    ],
+    "subdirs": [
+      "components",
+      "lib",
+      ".git",
+      "rescue-protocol",
+      "app",
+      "public",
+      "verification"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "git@github.com:Olalolo22/rescue2.git"
+      },
+      "total_commits": 27,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 16,
+        "vercel[bot] <35613825+vercel[bot]@users.noreply.github.com>": 5,
+        "v0 <it+v0agent@vercel.com>": 6
+      },
+      "first_commit": "035674f|v0|it+v0agent@vercel.com|2026-09-07 00:50:42 +0000|Initial commit from v0",
+      "latest_commit": "fa54b9d|Olumidelala|olumide2956@gmail.com|2026-09-10 10:21:16 +0100|docs: update README with hackathon-winning architecture, live telemetry, and benchmark proofs",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "routedock": {
+    "path": "/home/lala_02/routedock",
+    "stack": [
+      "Node/JS/TS",
+      "Supabase"
+    ],
+    "subdirs": [
+      "packages",
+      "node_modules",
+      "apps",
+      "supabase",
+      ".github",
+      ".changeset",
+      "agent",
+      ".git",
+      "target",
+      "docs",
+      "scripts",
+      "contracts",
+      "examples",
+      ".githooks"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "fix/issue-371-mainnet-deployment-docs",
+      "remotes": {
+        "fork": "git@github.com:Olalolo22/routedock.git",
+        "origin": "https://github.com/winsznx/routedock.git"
+      },
+      "total_commits": 429,
+      "authors": {
+        "Olalolo22 <olalolo22@github.com>": 20,
+        "Tim <68760559+winsznx@users.noreply.github.com>": 85,
+        "Yerimahjr <yerimahjr2@gmail.com>": 3,
+        "Storm <khameleonstorm@gmail.com>": 4,
+        "dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>": 5,
+        "Oscarj007 <tochukwujoseph50@gmail.com>": 3,
+        "somare <omareserome@gmail.com>": 2,
+        "Cerome360 <61514307+Cerome360@users.noreply.github.com>": 3,
+        "Times-stack <isrealnepalight@gmail.com>": 7,
+        "joydeelish <joydeelish25@gmail.com>": 10,
+        "DanbabaJr <304314335+DanbabaJr@users.noreply.github.com>": 1,
+        "Feranmi Isaac Ogunyileka <ogunyilekaferanmi@gmail.com>": 15,
+        "Promessa1 <misspromise57@gmail.com>": 2,
+        "TheWeirdDee <divinenation1@gmail.com>": 19,
+        "TS-mfon <mfonante8@gmail.com>": 16,
+        "simonpeters298 <simonpeters298@gmail.com>": 1,
+        "winsznx <timjosh507@gmail.com>": 87,
+        "Sakariyah Abdulhazeem <sakariyahabdulhazeem@gmail.com>": 9,
+        "simeontech <techiesimeon7@gmail.com>": 4,
+        "melanindebbie <deborahohiomah@gmail.com>": 7,
+        "Horlarmmy <aladetoheeb5@gmail.com>": 5,
+        "chiomailekuba <chiomailekuba11@gmail.com>": 5,
+        "jadonamite <jadonamite@gmail.com>": 4,
+        "anifast-123 <317337812+anifast-123@users.noreply.github.com>": 2,
+        "Feranmi Isaac Ogunyileka <105399177+Mayor-Isaac@users.noreply.github.com>": 4,
+        "Promessa1 <Promessa1@users.noreply.github.com>": 2,
+        "chiomailekuba <229507446+chiomailekuba@users.noreply.github.com>": 2,
+        "opencode <opencode@bot.com>": 2,
+        "Muhammed <116976810+Olalolo22@users.noreply.github.com>": 5,
+        "BernardOnuh <onuhbernard4@gmail.com>": 4,
+        "Olumidelala <olumide2956@gmail.com>": 10,
+        "MystiqueMide <splashmediahub@gmail.com>": 4,
+        "Jaydearcadian <desolatejayson@gmail.com>": 3,
+        "thisisouvik <souvikmandals10@gmail.com>": 6,
+        "Hotmopo <owolabioluwakemi41@gmail.com>": 4,
+        "dillon <dillon@routedock.com>": 2,
+        "ZENGXIAOMENG <zengxiaomeng99@gmail.com>": 1,
+        "Divine Dilibe <125990615+TheWeirdDee@users.noreply.github.com>": 5,
+        "Bernard.O <114490070+BernardOnuh@users.noreply.github.com>": 4,
+        "Ebuka Moses Okoye <okoyemoses83@gmail.com>": 3,
+        "Akpolo Ogagaoghene Prince <104951733+ogazboiz@users.noreply.github.com>": 1,
+        "alexandergraco2-sys <hcavil656@gmail.com>": 2,
+        "Ejirowebfi <ejirowebfi@gmail.com>": 4,
+        "Aman Koli <2025.amana@isu.ac.in>": 2,
+        "Sam_Rytech <107815081+Sam-Rytech@users.noreply.github.com>": 1,
+        "BOA <97275013+boalambo@users.noreply.github.com>": 1,
+        "Mfon <67503972+TS-mfon@users.noreply.github.com>": 1,
+        "Mrwicked <127976405+Mrwicks00@users.noreply.github.com>": 1,
+        "Jadonamite <jadonamite@gmail.com>": 4,
+        "Ifeoluwa Sanni <47613365+pheobeayo@users.noreply.github.com>": 1,
+        "Tim Oyelabi <oyelabitimothy@gmail.com>": 1,
+        "fadesany <fuhadadesanya0@gmail.com>": 4,
+        "Hovibby <eric22000055@gmail.com>": 1,
+        "Jidesx <138141666+wokedi@users.noreply.github.com>": 1,
+        "Sola Promise <solapromise11@gmail.com>": 1,
+        "k2ghostyou <keengkhalid@gmail.com>": 1,
+        "Ayomide <105206834+AvatarMiiDe@users.noreply.github.com>": 1,
+        "Marvin Michael Nkut <marvinnkut@gmail.com>": 1,
+        "winszn <68760559+winsznx@users.noreply.github.com>": 11,
+        "svector-anu <anuoluwakolapo94@gmail.com>": 4,
+        "Jefferson Youashi <119521983+clintjeff2@users.noreply.github.com>": 2,
+        "raizo07 <agadaraizo@gmail.com>": 1,
+        "Okorie Chigozie Jehoshaphat <okoriechigozie99@gmail.com>": 1,
+        "OluRemiFour <lekanayoola04@gmail.com>": 1
+      },
+      "first_commit": "e6bc7ea|winsznx|timjosh507@gmail.com|2026-04-13 10:17:38 +0100|RouteDock: unified payment execution layer for Stellar agents",
+      "latest_commit": "b32ecc1|Olalolo22|olalolo22@github.com|2026-09-30 03:30:55 +0100|docs: add --source-account to vault read-backs and native XLM sweep to emergency response",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "rst01": {
+    "path": "/home/lala_02/rst01",
+    "stack": [],
+    "subdirs": [],
+    "nested_git": [],
+    "git": {
+      "is_git": false
+    }
+  },
+  "rugroll": {
+    "path": "/home/lala_02/rugroll",
+    "stack": [
+      "Rust/Cargo",
+      "Solana/Anchor"
+    ],
+    "subdirs": [
+      ".git",
+      "app",
+      "programs",
+      "target"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "feat/onchain-er",
+      "remotes": {
+        "origin": "git@github.com:Olalolo22/rugroll.git"
+      },
+      "total_commits": 12,
+      "authors": {
+        "Olalolo22 <olumide2925@cloudshell>": 12
+      },
+      "first_commit": "70f2233|Olalolo22|olumide2925@cloudshell|2026-09-05 03:57:33 +0100|feat: initial RugRoll scaffold",
+      "latest_commit": "3bf1509|Olalolo22|olumide2925@cloudshell|2026-09-10 13:03:35 +0100|perf(cargo): optimize release profile for cloud shell memory constraints (disable fat lto)",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "rust-crash-course": {
+    "path": "/home/lala_02/rust-crash-course",
+    "stack": [],
+    "subdirs": [
+      ".git",
+      "notes",
+      "topics"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/Cyfrin/rust-crash-course.git"
+      },
+      "total_commits": 142,
+      "authors": {
+        "t4sk <tsk.nakamura@gmail.com>": 137,
+        "Dani G\u00e1mez Franco <gmzcodes@outlook.com>": 1,
+        "xyizko <164354015+xyizko@users.noreply.github.com>": 1,
+        "0xRektified <bugislife@proton.me>": 1,
+        "tsk <tsk>": 1,
+        "Yashwanth Sai Sollu <73354387+yashwanth1208@users.noreply.github.com>": 1
+      },
+      "first_commit": "f0d5312|t4sk|tsk.nakamura@gmail.com|2025-05-26 11:16:35 +0900|Initial commit",
+      "latest_commit": "19ea665|t4sk|tsk.nakamura@gmail.com|2025-10-13 10:05:03 +0200|Merge pull request #13 from Danziger/patch-1",
+      "is_dirty": true,
+      "modified_count": 1,
+      "untracked_count": 0
+    }
+  },
+  "sekured-realestate": {
+    "path": "/home/lala_02/sekured-realestate",
+    "stack": [
+      "Node/JS/TS"
+    ],
+    "subdirs": [
+      ".git",
+      "src",
+      "public"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "git@github.com:Olalolo22/sekured-realestate.git"
+      },
+      "total_commits": 10,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 10
+      },
+      "first_commit": "252def6|Olumidelala|olumide2956@gmail.com|2026-09-03 03:21:54 +0100|feat: initial prototype for SEKURED Real Estate Group & Belmont Residence",
+      "latest_commit": "6a8126c|Olumidelala|olumide2956@gmail.com|2026-09-03 04:55:31 +0100|redesign(mobile): replace nested cards with clean borderless mobile floorplan visualizer and fintech timeline",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "target": {
+    "path": "/home/lala_02/target",
+    "stack": [],
+    "subdirs": [
+      "rust-analyzer"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": false
+    }
+  },
+  "welcome-to-docker": {
+    "path": "/home/lala_02/welcome-to-docker",
+    "stack": [
+      "Node/JS/TS",
+      "Docker"
+    ],
+    "subdirs": [
+      ".git",
+      ".github",
+      "src",
+      "public"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/docker/welcome-to-docker.git"
+      },
+      "total_commits": 24,
+      "authors": {
+        "Cody Rigney <cody.rigney@docker.com>": 14,
+        "marisimon <104405305+marisimon@users.noreply.github.com>": 3,
+        "Nuno Cora\u00e7\u00e3o <nunocoracao@gmail.com>": 7
+      },
+      "first_commit": "c843665|Nuno Cora\u00e7\u00e3o|nunocoracao@gmail.com|2023-02-24 13:19:07 +0000|Initial commit",
+      "latest_commit": "373269c|Cody Rigney|cody.rigney@docker.com|2023-11-13 15:31:17 -0500|Add user config for automated merge. (#25)",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  },
+  "wetty": {
+    "path": "/home/lala_02/wetty",
+    "stack": [
+      "Node/JS/TS",
+      "Docker"
+    ],
+    "subdirs": [
+      ".husky",
+      "node_modules",
+      "conf",
+      ".github",
+      ".git",
+      "src",
+      "docs",
+      "containers"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "https://github.com/butlerx/wetty.git"
+      },
+      "total_commits": 517,
+      "authors": {
+        "amarzot-lowell-instruments <164072979+amarzot-lowell-instruments@users.noreply.github.com>": 1,
+        "Cian Butler <butlerx@notthe.cloud>": 113,
+        "dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>": 55,
+        "Mathias Magnusson <mathias@magnusson.space>": 1,
+        "David A Klein <35087175+kleinhammer@users.noreply.github.com>": 1,
+        "Nils1729 <45318774+Nils1729@users.noreply.github.com>": 1,
+        "jerch <jerch@rockborn.de>": 3,
+        "Shih-Wei Guo <tony2guo@gmail.com>": 1,
+        "jk-ethz <80681863+jk-ethz@users.noreply.github.com>": 1,
+        "gpancot <gpancot@users.noreply.github.com>": 1,
+        "i81b4u <43496745+i81b4u@users.noreply.github.com>": 1,
+        "Warr1024 <warr1024@gmail.com>": 2,
+        "Thomas Mullaney <2078150+tpmullan@users.noreply.github.com>": 1,
+        "Alex Cline <rev.a.r.cline@gmail.com>": 1,
+        "justluk <lukegriffith@gmail.com>": 1,
+        "Shimi <shimile@users.noreply.github.com>": 1,
+        "butlerx <butlerx@notthe.cloud>": 167,
+        "pablo-zarate <pablo.zarateg@gmail.com>": 1,
+        "Arturo R <jaquer@users.noreply.github.com>": 1,
+        "Userdocs <16525024+userdocs@users.noreply.github.com>": 1,
+        "Taha <tahayasinerol@live.com>": 1,
+        "Christian7573 <Christian7573@users.noreply.github.com>": 1,
+        "Aayush Garg-gamer1478 <74775129+gamer-12748@users.noreply.github.com>": 1,
+        "userdocs <16525024+userdocs@users.noreply.github.com>": 10,
+        "Georgelemental <georgelemental@gmail.com>": 1,
+        "Mathieu Geli <mathieu.geli@gmail.com>": 1,
+        "Sven Fischer <sven@leiderfischer.de>": 1,
+        "Dmytri Kleiner <dk@trick.ca>": 1,
+        "Kevin <kevin@vnucleus.com>": 1,
+        "Josua Frank <frank.josua@gmail.com>": 1,
+        "Janos Kasza <janos.kasza@logmein.com>": 2,
+        "Harrison Pace <harrison.pace@gmail.com>": 2,
+        "Dean Shub <deanshub@gmail.com>": 1,
+        "Loz Brown <github@protazoa.com>": 1,
+        "Sergei Ratnikov <sergeir82@gmail.com>": 1,
+        "Kyle Lucy <kmlucy@gmail.com>": 4,
+        "Ben Letchford <ben_letchford@debortoli.com.au>": 4,
+        "Janos Kasza <bipketto@gmail.com>": 1,
+        "Mihir Kumar <mihirpandey.13@gmail.com>": 1,
+        "Grant Handy <grantshandy@gmail.com>": 1,
+        "Ben Letchford <contact@benl.com.au>": 3,
+        "SouraDutta <33066261+SouraDutta@users.noreply.github.com>": 1,
+        "Jurre Vriesen <jurrevriesen@gmail.com>": 1,
+        "Vamshi K Ponnapalli <vamship@users.noreply.github.com>": 1,
+        "Felix Bartels <felix@host-consultants.de>": 1,
+        "Anthony Jund <antonyjund@gmail.com>": 4,
+        "Matthew Piercey <piercey.matthew@gmail.com>": 1,
+        "Krzysztof Suszy\u0144ski <krzysztof.suszynski@wavesoftware.pl>": 1,
+        "Henri <henri.ducrocq@gmail.com>": 3,
+        "Felix Pojtinger <felix@pojtinger.com>": 1,
+        "harryleesan <harry.lee.san.temp@gmail.com>": 1,
+        "Denis Kramer <d.kramer@soton.ac.uk>": 2,
+        "Imuli <i@imu.li>": 3,
+        "Josh Samuelson <js@puppetlabs.com>": 1,
+        "Koushik M.L.N <mln02koushik@gmail.com>": 3,
+        "cbutler <cbutler@demonware.net>": 3,
+        "Neale Pickett <neale@woozle.org>": 1,
+        "Oleg Kurapov <ok@2sheds.ru>": 4,
+        "Bertrand Roussel <broussel@sierrawireless.com>": 1,
+        "Oleg Kurapov <oleg@kurapov.com>": 2,
+        "Robert <robert@n5qm.com>": 1,
+        "mirtouf <mirtouf@gmail.com>": 3,
+        "nosemeocurrenada <nosemeocurrenada93@gmail.com>": 4,
+        "Strubbl <github@linux4tw.de>": 6,
+        "butlerx <cianbutlerx@gmail.com>": 9,
+        "Antonio Calatrava <antonio@antoniocalatrava.com>": 6,
+        "Tri Nguyen <tri@tridnguyen.com>": 1,
+        "Krishna Srinivas <krishna@minio.io>": 3,
+        "Farhan Khan <khanzf@gmail.com>": 1,
+        "Kasper Holbek Jensen <kholbekj@gmail.com>": 1,
+        "Andreas Kloeckner <inform@tiker.net>": 1,
+        "Krishna Srinivas <krishna.srinivas@gmail.com>": 33,
+        "Jarrett Gilliam <jarrettgilliam@gmail.com>": 2,
+        "Boyan Rabchev <TELERIK\\rabchev@rabchevlnx.telerik.com>": 4,
+        "Boyan Rabchev <boyan@rabchev.com>": 5,
+        "Luca Milanesio <luca.milanesio@gmail.com>": 4,
+        "Nathan LeClaire <nathan.leclaire@docker.com>": 2,
+        "James Turnbull <james@lovedthanlost.net>": 1
+      },
+      "first_commit": "4deed78|Krishna Srinivas|krishna.srinivas@gmail.com|2014-03-29 01:12:02 -0700|Initial commit",
+      "latest_commit": "643e88b|amarzot-lowell-instruments|164072979+amarzot-lowell-instruments@users.noreply.github.com|2024-07-20 11:57:22 -0400|Use esbuild Instead of Snowpack (and fix build error) (#530)",
+      "is_dirty": true,
+      "modified_count": 0,
+      "untracked_count": 1
+    }
+  },
+  "yinka-fashion": {
+    "path": "/home/lala_02/yinka-fashion",
+    "stack": [
+      "Node/JS/TS"
+    ],
+    "subdirs": [
+      ".git",
+      "src",
+      "public",
+      "node_modules"
+    ],
+    "nested_git": [],
+    "git": {
+      "is_git": true,
+      "branch": "main",
+      "remotes": {
+        "origin": "git@github.com:Olalolo22/yinka-fashion.git"
+      },
+      "total_commits": 4,
+      "authors": {
+        "Olumidelala <olumide2956@gmail.com>": 4
+      },
+      "first_commit": "799603e|Olumidelala|olumide2956@gmail.com|2026-09-03 01:21:08 +0100|feat: initial prototype for Yinka's Fashion Brand",
+      "latest_commit": "30374eb|Olumidelala|olumide2956@gmail.com|2026-09-03 02:01:46 +0100|brand: add real Yinkianny Stitches SVG logo (dress+hanger icon, pink+gold), update brand name and colors",
+      "is_dirty": false,
+      "modified_count": 0,
+      "untracked_count": 0
+    }
+  }
+}
