@@ -105,5 +105,21 @@ Deep infra work (probe reports, TEE benchmarks, architectural discoveries) shoul
 - **The "Native Turf" Trap (DO NOT REPEAT):**
   - Never force yourself to build an abstract toy game (like an 8-nation countdown clock) under the false assumption that a hackathon "only rewards games."
   - The 3rd place winner (*NoirWire*) built the exact financial primitive that maps directly to your proven strengths (*Harvest* tokenized equities + *Aegis* shielded private execution).
-  - If a hackathon track features infra, TEEs, or PER, **play on your home turf**: design high-impact financial primitives, dark pools, settlement systems, or execution engines.
   - Apply the **Blackout / HoldOut Compression Bar**: 1-sentence hook, 1 native infrastructure capability, zero prerequisite lore.
+
+### Case Study: StockLana & The "Two-Click / Zero-Condition Payoff" Trap (`Harvest` vs. `Draw` & `Roster`)
+- **The Core Hackathon Intent:** StockLana (604 project submissions, $126k pool) focused on tokenized equities (xStocks, PreStocks) to prove Solana can beat traditional brokerages.
+- **The Podium Reality:**
+  - 1st: *Roster Finance* ($35,000 — **The Exact Same Primitive as Harvest**: fully collateralized options on tokenized stocks, but packaged as *"Stock leverage without margin liquidation"* and supporting **PreStocks pre-IPO tokens**).
+  - 2nd: *Draw* ($20,000 — Vanilla "borrow against holdings" concept, packaged as a 1-click Privy/Kamino checkout button: *"Spend against your stock at checkout without selling"*).
+  - 3rd: *CRESCO* ($15,000 — Family/agent mandate boundaries with single-use exception nonces: *"Act alone inside the rules. Ask once for the exception"*).
+- **The Core Diagnosis & Failure Mode:**
+  - The macro thesis was 100% right: **options on tokenized equities took 1st place overall**.
+  - Code problems (keeper trust, admin reserve) were easily solvable in Rust, but the fatal flaw was **Cognitive Model Friction / The "If-Else" Payoff Trap**:
+    - *"If price < strike, you keep stock + USDC. Else if price >= strike, your stock is sold and you get all USDC."*
+    - If a user or frontend co-builder (Jay) cannot explain the outcome in 2 clicks without an "If/Else" conditional flowchart, the product creates split-brain cognitive friction before anyone deposits.
+- **The Permanent Rules (DO NOT REPEAT):**
+  1. **The "No Conditional If/Else" Payoff Rule:** The user's expected outcome must be stateable in one sentence with ZERO conditional branches. If an option primitive has two settlement paths, compress the narrative into a single desired outcome (e.g. *"Target-Exit Vault: Earn 15% APY while waiting to sell NVDA at $200"*).
+  2. **The "Frontend Co-Builder Test" (The Jay Test):** Pitch the user flow to your frontend partner before writing a single line of Rust. If the frontend dev struggles to explain the payoff without tooltips or multi-step decision trees, the packaging is broken.
+  3. **The Sponsor Integration Law:** In hackathons with named sponsor bounties (e.g. PreStocks), natively integrate the sponsor's asset into the core demo flow. Roster did this with PreStocks and secured judge buy-in; Harvest stuck purely to Backed Finance xStocks.
+  4. **Packaging Over Plumbing:** Draw won $20,000 with a 1-click checkout button on top of Kamino. In a 600-person sprint, the simplest idea with a 5-second Web2-style hook beats a 10-state institutional derivative engine.
