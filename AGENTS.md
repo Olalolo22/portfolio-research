@@ -19,11 +19,26 @@
 - **Financial context:** In a crucial life stage — needs income. Has active client/project work (WDC Construct and similar). Hackathons are supplemental, not primary income strategy. Never let a hack spiral into weeks of sunk effort on a low-probability prize.
 
 ## Career, Academic & Life Crossroads
-- **Post-Graduation Pathways (Graduating at 21):**
-  - **Financial Engineering Master's (MFE / Quant Finance):** Strong fit for translating finance degree + smart contract/vault systems into institutional credibility and overseas access. Main hesitation is the advanced quantitative bar (stochastic calculus, continuous-time finance, optimization). Calibration plan: Use Year 4 quantitative coursework + self-study simulations to test appetite and math comfort before committing to heavy tuition abroad.
-  - **CFA vs. Master's:** CFA is lower cost and flexible alongside work, but less technical/quantitative for pure protocol/quant roles. Keep options open until Year 4 performance and work data are in.
-  - **Traditional Finance & Campus Opportunities:** Targeting school's TIS organization (AIG front-office exposure) to experience markets/trading beyond standard IB.
-  - **Internship Strategy (Urgent Bridge):** Currently lacks formal internship credentials due to late applications. Even if commercial bank roles (accounting/clearing/reconciliation) feel uninspiring compared to building on-chain primitives, treat them pragmatically as an institutional filter-breaker and professional bridge. Do not reject corporate finance seats out of pride; leverage them as credibility while continuing to ship primitives in parallel.
+- **Post-Graduation Academic Trajectory (Graduating at 21, BSc Finance):**
+  - **The Refined Target Niche:** Not a generic MSc in Finance (avoids repetitive corporate finance/accounting) and not a pure theoretical MFE (avoids isolated measure-theoretic stochastic calculus without systems building). Also ruled out pure academic cryptography (self-audited: interest is in applying primitives, not inventing new zk/crypto mathematical proofs).
+  - **The Sweet Spot — Applied Market Microstructure & Protocol Architecture:** The intersection of **TradFi (options pricing, derivative payoffs, risk models, econometrics) + Systems Engineering (Rust, TypeScript, Python) + On-Chain Financial Primitives (DEX AMMs, liquidity fragmentation, MEV, settlement fragility, covered-call vaults, pre-trade risk/PTRS)**.
+  - **The Calgary Anchor (Geographic & Financial Pivot):**
+    - Cousin has Canadian Permanent Residency (PR) and is settled in **Calgary, Alberta** (completed Master's at University of Regina).
+    - Living with/near cousin saves **$15,000–$20,000 CAD/year** in living expenses. Alberta has 0% provincial sales tax (only 5% federal GST).
+    - Makes **University of Calgary (UCalgary)** the primary strategic academic target.
+  - **Target Institution & Faculty Overlap — Haskayne DeFi Laboratory (UCalgary):**
+    - Scurfield Hall (SH 134/154), led by **Prof. Alfred Lehar** (Academic Director — AMM microstructure, DEX liquidity fragmentation, Bitcoin/settlement fragility), **Prof. Marius Zoican** (Canada Research Chair in FinTech — MEV, flash loans, latency), and **Prof. KJ Choi**.
+    - **The "Unicorn Fit" Thesis:** Solves the lab's primary bottleneck: Finance graduate students lack production programming skills (Rust, Solana Anchor, Sui Move, indexing RPCs), while Computer Science students lack derivatives and financial econometrics. Olu's profile (BSc Finance + shipped protocols like *Harvest*, *RogueTrader*, *Aegis*, *Veil*) bridges both halves directly.
+    - **Two Degree Doors:**
+      1. *Door A: Master of Finance (MFin — FinTech Stream):* 16 months coursework + block weeks + `INTE 616` (paid corporate internship) or `INTE 617` (applied research project inside DeFi Lab).
+      2. *Door B: Thesis-Based MSc (CS or Management/Finance):* Funded research track (~CAD $20k–$25k/yr stipend/tuition coverage) requiring upfront faculty supervisor buy-in.
+  - **Target Professional Roles & Industry Titles (The Non-Linear Edge):**
+    - *DeFi / Protocol Architect (Mechanism Designer):* Translates TradFi mechanisms (covered calls, repo, settlement firewalls) into on-chain state machines and incentives.
+    - *Token Engineer / Quantitative Structurer:* Designs pool invariants, liquidity incentives, and risk parameter bounds.
+    - *Quantitative Smart Contract Engineer:* Ships production protocol infrastructure in Rust/Solidity with fixed-point math and oracle safety.
+    - *Digital Asset Research Analyst / On-Chain Microstructure Analyst:* Analyzes DEX liquidity fragmentation, MEV, and protocol systemic risk.
+- **Traditional Finance & Campus Opportunities:** Targeting school's TIS organization (AIG front-office exposure) to experience markets/trading beyond standard IB.
+- **Internship Strategy (Urgent Bridge):** Currently lacks formal internship credentials due to late applications. Even if commercial bank roles (accounting/clearing/reconciliation) feel uninspiring compared to building on-chain primitives, treat them pragmatically as an institutional filter-breaker and professional bridge. Do not reject corporate finance seats out of pride; leverage them as credibility while continuing to ship primitives in parallel.
 
 ## Verified Portfolio & Multi-Chain Systems Range
 - **Not a single-chain builder:** Demonstrated cross-ecosystem primitive engineering:
