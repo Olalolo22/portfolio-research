@@ -15,10 +15,10 @@
 
 | Category | Total Projects | Total User Commits | Description & Scope |
 | :--- | :---: | :---: | :--- |
-| **Category A: Core Solo / Lead Architect Protocols** | 7 | 205 | Protocols initiated, designed, and built end-to-end by the user (Solana, MagicBlock TEE, SP1 zkVM, Colosseum). |
-| **Category B: Production Client & Commercial Work** | 1 | 32 | Production full-stack / backend client deliverables for WebDevConstruct (`SJ_consulting`). |
-| **Category C: Multi-Contributor / Open-Source / Bounty Contributions** | 6 | 97 | Collaborative open-source & ecosystem codebases (Soroban/Stellar, Fastify/Node, Rust) with verified PRs/commits. |
-| **Category D: Hackathon Prototypes & Early Products** | 6 | 129 | Hackathon entries (Cavista, hackathons, Next.js AI agents, real estate). |
+| **Category A: Core Solo / Lead Architect Protocols** | 10 | 319 | Protocols initiated, designed, and built end-to-end by the user (Solana, MagicBlock TEE, Sui Move, Walrus, SP1 zkVM, Circom ZK). |
+| **Category B: Production Client & Commercial Work** | 3 | 87 | Production full-stack / backend client deliverables for WebDevConstruct (`SJ_consulting`, `WDC_Formatt`) and FINSA. |
+| **Category C: Multi-Contributor / Open-Source / Bounty Contributions** | 6 | 99 | Collaborative open-source & ecosystem codebases (Soroban/Stellar, Fastify/Node, Rust) with verified PRs/commits. |
+| **Category D: Hackathon Prototypes & Early Products** | 10 | 147 | Hackathon entries and developer workstations (Cavista, 3riage, Artemis telemetry, Next.js AI agents). |
 | **Category E: Structured Fellowships, Training & Cohorts** | 8 | 97 | School of Solana (Ackee Blockchain), HNG 13 Internship, ALX Software Engineering. |
 | **Category F: Local Experiments & Uncommitted Work** | 10 | N/A | Local experiments, uncommitted backends (`finsa_backend`, `chat_backend`), Rust algorithm practices. |
 | **Category G: Forks, Upstream Clones & Reference Repositories** | 8 | 0 | Third-party repos cloned for study, references, or unmodified upstream tools (`Betty`, `wetty`, `rust-crash-course`). |
@@ -33,12 +33,15 @@
 | **Rescue** | `/home/lala_02/rescue` | `git@github.com:Olalolo22/rescue.git`<br>`main` | Solana, Anchor, MagicBlock TEE / PER, Next.js, TypeScript | 34 / 34 (100%) | Deployed on Devnet (`ZnDqdjHjR1HuwyMehcfEGrxCt6QiCz58UW21VjbnGjf`). Implemented Keeper Crank, MEV attack simulator, confidential state in Intel TDX. | **E1 / E2** |
 | **Rescue2** | `/home/lala_02/rescue2` | `git@github.com:Olalolo22/rescue2.git`<br>`main` | Next.js, Tailwind, Solana Web3, WebSockets | 16 / 27 (User + v0/vercel) | Web frontend and live telemetry streaming for Rescue protocol with real-time TEE slot metrics. | **E1 / E2** |
 | **RugRoll** | `/home/lala_02/rugroll` | `git@github.com:Olalolo22/rugroll.git`<br>`feat/onchain-er` | Rust, Anchor, MagicBlock Ephemeral Rollup (ER), VRF, Next.js | 12 / 12 (100%) | On-chain 10ms crash game engine on Ephemeral Rollup. Program ID `DSfJQMFV...`, session keys, provably fair VRF seed. | **E1 / E2** |
-| **Harvest** | `/home/lala_02/harvest` | `git@github.com:Olalolo22/harvest.git`<br>`main` | Rust, Anchor, Solana, Pyth Oracles, Next.js 15, TypeScript | 45 / 45 (100%) | End-to-end automated yield farming & harvesting protocol with Pyth price push oracle feeds, keeper crank service, and dApp UI. | **E1 / E2** |
-| **Aegis Ledger** | `/home/lala_02/aegis-ledger` | `git@github.com:Olalolo22/aegis-ledger.git`<br>`feat/colosseum-usdc-payroll` | Node/TS, Supabase, MagicBlock TEE, Cloak ZK | 45 / 45 (100%) | Confidential USDC payroll protocol for Solana teams. Dual-rail batch settlement architecture (TEE <1s batch + Cloak ZK). | **E1 / E2** |
+| **Harvest** | `/home/lala_02/harvest` | `git@github.com:Olalolo22/harvest.git`<br>`v1.1-protocol-upgrades` | Rust, Anchor, Solana, Pyth Hermes, Next.js 15, TypeScript | 51 / 51 (100%) | Covered-call vault protocol with Pyth Hermes oracle feeds. Upgraded with Rule 5 (The Counterparty Invariant / Solver Escrows) and Rule 1 (Target-Exit Note). | **E1 / E2** |
+| **Aegis Ledger** | `/home/lala_02/aegis-ledger` | `git@github.com:Olalolo22/aegis-ledger.git`<br>`feature/dao-squads` | Node/TS, MagicBlock TEE, Cloak ZK, Squads v4 | 69 / 69 (100%) | Confidential USDC payroll protocol for Solana teams. Dual-rail batch settlement (TEE + ZK), Squads v4 multisig batch governance proposals (`cfaa420`), and fiat settlement rails. | **E1 / E2** |
 | **Mizan** | `/home/lala_02/Mizan` | `https://github.com/Olalolo22/Mizan.git`<br>`fix/evm-sp1-proof` | Rust, Succinct SP1 zkVM, EVM Solidity, TypeScript | 28 / 28 (100%) | Zero-knowledge proof verification pipeline on EVM using SP1 zkVM, ABI payload encoding, and proof verification contracts. | **E1 / E2** |
 | **Sentinel** | `/home/lala_02/Sentinel` | `https://github.com/Olalolo22/Sentinel.git`<br>`main` | Node/TS, Docker, Fastify, WebSockets | 46 / 50 (92%) | Autonomous agent security scanner and verification node. Implemented live scan state reactive sync across pages and A2MCP quote probing. | **E1 / E2** |
 | **Persist** | Remote GitHub (`Olalolo22/Persist`) | `https://github.com/Olalolo22/Persist.git`<br>`main` | Sui Move, Seal Threshold Crypto, Walrus Storage, TypeScript | 100% User (PR #2 merged) | Temporal Access Control protocol on Sui built for Sui Overflow 2026 (Walrus + Agentic Web tracks). Condition-gated, time-locked cryptographically sealed capsules with Walrus Blob storage and Guardian Agent memory extension. | **E1 / E2** |
 | **SolanaGuard** | Remote GitHub (`Olalolo22/TG-ct-auto-checker`) | `https://github.com/Olalolo22/TG-ct-auto-checker.git`<br>`main` | Node.js, Solana Web3, x402 Payments, Claude 3 Haiku, Telegram | 100% User | Autonomous Raydium token intelligence & risk agent built for OOBE x AceData Hackathon. Automated cron risk analysis, visual trading card, vocal threat alert, Telegram push, monetized via on-chain x402 payments. | **E1 / E2** |
+| **RogueTrader** | `/home/lala_02/roguetrader` | `https://github.com/Olalolo22/roguetrader.git`<br>`landing-v9` | Sui Move, Walrus MemWal, Tatum Gateway, x402, Next.js | 57 / 57 (100%) | Pre-Trade Risk System deployed on Sui Mainnet (Account `0xf7bbb...`, Package `0xe7c16...`) with 15 Walrus Mainnet blobs, x402 on-chain payment verification (`balanceChanges`), and 74.8% Brier error reduction. | **E1 / E2** |
+| **Veil Protocol** | `/home/lala_02/veil` | `https://github.com/Olalolo22/Veil.git`<br>`feat/unslop-stageshow-ui` | Solidity 0.8.24, Circom 2.1, Groth16, Next.js 14 | 9 / 9 (100%) | Confidential execution & settlement layer for autonomous agent economy on Robinhood Chain (`4663`) and EVM. Two-phase policy procurement + BN254 Groth16 ZK stealth settlement. | **E2** |
+| **The Last Pavilion** | `/home/lala_02/last-pavilion` | `git@github.com:Olalolo22/last-pavilion.git`<br>`main` | Rust, Anchor 0.29, MagicBlock PER, Next.js, Web Audio | 18 / 18 (100%) | Real-time 8-nation survival arena on Solana Devnet (`38iyWaZXa4nAZZxGYEGA6GqXhWE5g1dPt9ht9iFcxo63`) for MagicBlock Blitz 9. Monotonic 1:1 real-clock sync, audio singleton, and escalating death-refund salvage mechanics. | **E1 / E2** |
 
 ---
 
@@ -48,6 +51,7 @@
 | :--- | :--- | :--- | :--- | :---: | :--- | :---: |
 | **SJ Consulting (WebDevConstruct)** | `/home/lala_02/SJ_consulting` | `git@github.com:WebDevConstruct/SJ_consulting.git`<br>`main` | Supabase, PostgreSQL, Edge Functions (Deno/TS), Next.js | 32 / 32 (100%) | Production client system: CBT session management, real-time duel engine, subscription payment gates, CEO-governed payroll workflows, input sanitization. | **E1 / E2** |
 | **FINSA Directus Backend** | `/home/lala_02/finsa-directus-backend` | `https://github.com/FINSA-TECH-ORG/Finsa-directus-backend.git`<br>`main` | Directus 11, PostgreSQL 15, Redis 7, Docker, Node/TS SDK | 1 / 1 (100% initial architecture) | Official backend for FINSA student association website. 1,641-line schema snapshot (`directus-snapshot.yaml`), hardened public RBAC policy (`permissions-policy.json`), automated Railway bootstrap (`start.sh`, `Dockerfile`), and typed client SDK (`@finsa/directus-client`). | **E1 / E2** |
+| **WDC Formatt** | `/home/lala_02/WDC_Formatt` | Private Client Repo (`WebDevConstruct`)<br>`revamp` | Next.js 14, TypeScript, Prisma, PostgreSQL, WebKit APIs | 54 / 54 (100%) | Enterprise AI administrative document platform. Hardened mobile WebKit iOS Safari PDF blob streaming, fixed inverted plan tier 403 authorization bug, and resolved serverless Prisma connection pool leaks (`REVAMP_LOG.md`). | **E2** |
 
 ---
 
@@ -57,7 +61,7 @@
 
 | Project | Location | Remote URL / Current Branch | Total Commits | Verified User Commits | User's Specific Scope of Contribution | Evidence Category |
 | :--- | :--- | :--- | :---: | :---: | :--- | :---: |
-| **RouteDock** | `/home/lala_02/routedock` | `git@github.com:Olalolo22/routedock.git`<br>`fix/issue-371-mainnet-deployment-docs` | 429 | 50 | Fastify provider adapter in SDK, agent-vault tuple registration & mutation tests, mainnet deployment docs, emergency pause response. | **E1 / E2** |
+| **RouteDock** | `/home/lala_02/routedock` | `git@github.com:Olalolo22/routedock.git`<br>`fix/issue-556-hono-durable-session-bookkeeping` | 429 | 52 | Fastify provider adapter in SDK, agent-vault tuple registration, Hono durable session persistence (`#556`), mainnet deployment docs, emergency pause response. | **E1 / E2** |
 | **Stellar-iPredict** | `/home/lala_02/Stellar-iPredict` | `git@github.com:Olalolo22/Stellar-iPredict.git`<br>`test/issue-541-oracle-lifecycle-e2e` | 536 | 6 | End-to-end integration test for full optimistic oracle lifecycle (#541), API route auth fail-closed tests (#548), DB migration 0029 sort index sync. | **E1 / E2** |
 | **Credence Contracts** | `/home/lala_02/Credence-Contracts` | `git@github.com:Olalolo22/Credence-Contracts.git`<br>`test/issue-1313-cost-benchmark-boundary-recovery` | 1,367 | 2 | Boundary and recovery test suite for Soroban `cost.rs` (#1313), storage key optimization in `credence_registry` (#915). | **E1 / E2** |
 | **Stellarlend Frontend** | `/home/lala_02/Stellarlend-frontend` | `git@github.com:Olalolo22/Stellarlend-frontend.git`<br>`test/issue-1552-pageheader-stories-boundary` | 953 | 2 | Failure-path and boundary test coverage for `PageHeader.stories.tsx` (#1552) and `Navbar.tsx` (#1564). | **E1 / E2** |
@@ -71,7 +75,9 @@
 | Project | Location | Remote URL / Branch | Tech Stack | User Commits / Total | Latest Verified State | Evidence Category |
 | :--- | :--- | :--- | :--- | :---: | :--- | :---: |
 | **Ragent** | `/home/lala_02/Ragent` | `https://github.com/Olalolo22/Ragent.git`<br>`fix/vercel-500-errors` | Next.js, TypeScript, Tailwind | 75 / 75 (100%) | "AI agents hiring AI agents" marketplace prototype with agent profiles, task escrow, and Vercel SSR error handling. | **E2 / E3** |
-| **ProofPass** | `/home/lala_02/ProofPass` | `https://github.com/Jaydearcadian/ProofPass.git`<br>`main` | TypeScript, Web3, ZK | 20 / 24 (83%) | Hackathon prototype with collaborator `jaydearcadian`: Zero-knowledge accredited investor gating dApp. | **E2 / E3** |
+| **ProofPass** | `/home/lala_02/ProofPass` | `https://github.com/Jaydearcadian/ProofPass.git`<br>`main` | TypeScript, Web3, ZK | 20 / 24 (83%) | Hackathon prototype with collaborator `jaydearcadian`: Zero-knowledge accredited investor gating dApp. CPA attestation window extended to 365 days (`4e097ce`). | **E2 / E3** |
+| **Artemis Telemetry Link** | `/home/lala_02/artemis-telemetry-link` | `https://github.com/Olalolo22/artemis-telemetry-link.git`<br>`main` | Rust (Systems), SHA-256, HMAC, CRC-16 | 4 / 4 (100%) | Vehicle datalink framing (`0xAA55`), HMAC-SHA256 anti-replay command verification, RF PDR estimator, and failsafe state machine with 30 passing tests. | **E2** |
+| **3riage** | `/home/lala_02/3riage` | `https://github.com/Olalolo22/3riage.git`<br>`4public` | Python, GitHub REST/GraphQL, Rich CLI | 14 / 14 (100%) | Contributor-first triage workstation diffing commit vs review timestamps, resolving multi-reviewer deadlocks, and indexing 14-day claimable bounty PRs. | **E2** |
 | **Vicar** | `/home/lala_02/Vicar` | `https://github.com/Cavista-Hackathon-2025/Vicar.git`<br>`main` | Python, FastAPI | 11 / 11 (100%) | Cavista Hackathon 2025 submission: Backend API service. | **E2 / E3** |
 | **Converge** | `/home/lala_02/Converge` | `https://github.com/Olalolo22/Converge.git`<br>`main` | TypeScript / Full-stack | 14 / 14 (100%) | Early collaborative platform prototype. | **E2 / E3** |
 | **UnderSeal** | `/home/lala_02/UnderSeal` | `https://github.com/Olalolo22/UnderSeal.git`<br>`main` | TypeScript, Smart Contracts | 5 / 5 (100%) | Prototype for confidential underwriting for on-chain credit. | **E3** |
@@ -122,11 +128,11 @@
 
 ### A. Portfolio Synthesis Artifacts
 - [PORTFOLIO_OVERVIEW.md](file:///home/lala_02/portfolio-research/PORTFOLIO_OVERVIEW.md) — Comprehensive engineering profile, technical archetypes, standout strengths, and systems map.
-- [CLAIMS_LEDGER.md](file:///home/lala_02/portfolio-research/CLAIMS_LEDGER.md) — 24 unique verified claims (`CLM-001` through `CLM-024`) with strict Evidence Tiers (E1–E4) and on-chain proofs.
+- [CLAIMS_LEDGER.md](file:///home/lala_02/portfolio-research/CLAIMS_LEDGER.md) — 32 unique verified claims (`CLM-001` through `CLM-032`) with strict Evidence Tiers (E1–E4) and on-chain proofs.
 - [APPLICATION_EVIDENCE_BANK.md](file:///home/lala_02/portfolio-research/APPLICATION_EVIDENCE_BANK.md) — Tailored CV bullet points, 20-second elevator pitches, and STAR-format interview deep dives.
 - [GAPS_AND_NEXT_STEPS.md](file:///home/lala_02/portfolio-research/GAPS_AND_NEXT_STEPS.md) — Identified git/branch divergence gaps, uncommitted migrations, and high-ROI action items.
 - [BRANCH_AUDIT.md](file:///home/lala_02/portfolio-research/BRANCH_AUDIT.md) — Detailed branch audit across all multi-branch repositories.
-- [DEEP_BRANCH_ANALYSIS.md](file:///home/lala_02/portfolio-research/DEEP_BRANCH_ANALYSIS.md) — Line-by-line commit and diff-stat analysis across all 36 verified repositories.
+- [DEEP_BRANCH_ANALYSIS.md](file:///home/lala_02/portfolio-research/DEEP_BRANCH_ANALYSIS.md) — Line-by-line commit and diff-stat analysis across all verified repositories.
 
 ### B. Individual Project Dossiers (`PROJECT_DOSSIERS/`)
 1. [Rescue: Confidential TEE Liquidation Dark Pool](file:///home/lala_02/portfolio-research/PROJECT_DOSSIERS/rescue.md)
@@ -150,4 +156,10 @@
 19. [HNG13 Internship: Stages 0–3 APIs & Autonomous Telex Agent](file:///home/lala_02/portfolio-research/PROJECT_DOSSIERS/hng13.md)
 20. [Vicar: Cavista Hackathon Pharmacy Management Backend](file:///home/lala_02/portfolio-research/PROJECT_DOSSIERS/vicar_cavista.md)
 21. [ALX Software Engineering: Low-Level C & Systems Programming](file:///home/lala_02/portfolio-research/PROJECT_DOSSIERS/alx_software_engineering.md)
+22. [RogueTrader: Sui Mainnet Pre-Trade Risk System & Walrus Memory](file:///home/lala_02/portfolio-research/PROJECT_DOSSIERS/roguetrader.md)
+23. [Veil Protocol: Confidential Agent Execution & Groth16 Settlement on EVM](file:///home/lala_02/portfolio-research/PROJECT_DOSSIERS/veil.md)
+24. [The Last Pavilion: Real-Time Ephemeral Survival Arena on Solana](file:///home/lala_02/portfolio-research/PROJECT_DOSSIERS/last_pavilion.md)
+25. [WDC Formatt: Enterprise Document Platform & Mobile WebKit Hardening](file:///home/lala_02/portfolio-research/PROJECT_DOSSIERS/wdc_formatt.md)
+26. [Artemis Telemetry Link: Rust Systems Datalink & Failsafe Prototype](file:///home/lala_02/portfolio-research/PROJECT_DOSSIERS/artemis_telemetry_link.md)
+27. [3riage: Contributor-First GitHub Triage Engine in Python](file:///home/lala_02/portfolio-research/PROJECT_DOSSIERS/3riage.md)
 

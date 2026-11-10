@@ -4,9 +4,9 @@
 **Investigator:** Antigravity Engineering Portfolio Intelligence Analyst  
 **Repository Path:** [`/home/lala_02/harvest`](file:///home/lala_02/harvest)  
 **Remote URL:** [`git@github.com:Olalolo22/harvest.git`](https://github.com/Olalolo22/harvest)  
-**Active Feature Branch:** `design-v2` (+12 commits ahead of `main`)  
+**Active Branches:** `v1.1-protocol-upgrades` (51 commits), `design-v2`, `main`  
 **Solana Devnet Program ID:** [`34Y7acmqWosmkfPJjqRUQzrHFdxmxpQezLSvgD9bLJJo`](https://explorer.solana.com/address/34Y7acmqWosmkfPJjqRUQzrHFdxmxpQezLSvgD9bLJJo?cluster=devnet)  
-**Evidence Standard:** **E1 (Anchor Source Code, Fixed-Point Math, Automated Keeper Script)**
+**Evidence Standard:** **E1 (Anchor Source Code, Fixed-Point Math, Automated Keeper Script, Solver V2 Specs)**
 
 ---
 
@@ -83,6 +83,10 @@ flowchart TD
   - Added live keeper status and settled cycle ledger section showcasing the autonomous crank engine (`9e4d129`).
   - Added institutional ARCHITECTURE specification with mathematical options pricing models, PDA directory, and settlement state diagrams (`6a02c43`).
   - Enhanced modal UX: smooth scrolling, body scroll locking, and max-height constraints (`ea4a776`).
+- **Feature Branch (`v1.1-protocol-upgrades`):** **51 commits total** (`69c89f2`):
+  - **The Counterparty Invariant (Rule 5):** Replaced simulated internal protocol reserves with verified external solver / market maker escrows (`SolverEscrow` PDA) locked upfront before user collateral exposure.
+  - **Target-Exit / Assignment Shock Elimination (Rule 1):** Reframed piecewise payoff from confusing "If/Else" conditionals into an institutional "Sell High / Target Exit Note" intent where both paths fulfill user goals.
+  - **The Trojan Horse Wedge (Rule 4):** Simplified consumer onboarding into a 1-click vault entrance while preserving multi-asset Token-2022 derivative mechanics underneath.
 
 ---
 

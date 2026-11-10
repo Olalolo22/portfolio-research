@@ -6,32 +6,37 @@ This document represents the definitive, evidence-backed engineering profile of 
 
 ### Primary Engineering Archetype: **High-Assurance Systems & Protocol Architect**
 - **Core Domain:** High-performance distributed infrastructure, zero-knowledge verification circuits, confidential execution environments (TEE / Ephemeral Rollups), high-assurance financial/credit state machines, and asynchronous backend systems.
-- **Languages:** Rust (Systems, Solana Anchor, Soroban, SP1 zkVM), TypeScript / JavaScript (Node.js, Deno, Bun, Next.js), Python (FastAPI, Flask, Pytest), Move (Sui), C (Unix Low-Level, POSIX).
-- **Databases & Storage:** PostgreSQL (15+ with RLS and PL/pgSQL RPCs), Supabase, Directus, Redis, Walrus (Decentralized Blob Storage), SQLite.
-- **Infrastructure & Protocols:** MagicBlock Private Ephemeral Rollups (TEE / Intel TDX), Succinct SP1 zkVM, Docker, Cloudflare Workers, Pyth Hermes Oracles, x402 Micropayments, Paystack API, Seal Threshold Encryption.
+- **Languages:** Rust (Systems, Solana Anchor, Soroban, SP1 zkVM), TypeScript / JavaScript (Node.js, Deno, Bun, Next.js), Python (FastAPI, Flask, Pytest, Click), Move (Sui), Solidity (EVM 0.8.x), Circom 2.1 (Groth16 / Poseidon), C (Unix Low-Level, POSIX).
+- **Databases & Storage:** PostgreSQL (15+ with RLS and PL/pgSQL RPCs), Supabase, Directus, Redis, Walrus (Decentralized Blob Storage & MemWal), SQLite.
+- **Infrastructure & Protocols:** MagicBlock Private Ephemeral Rollups (TEE / Intel TDX), Succinct SP1 zkVM, Circom & SnarkJS, Docker, Sui gRPC, Pyth Hermes Oracles, HTTP 402 (x402) Micropayments, Tatum Gateway, Squads v4 Multisig, Seal Threshold Encryption.
 
 ---
 
 ## 2. Quantitative Verification Metrics
 
-Across the 36 local repositories and 71 relevant GitHub repositories evaluated:
-- **Total Production / Architected Code Authored:** >65,000 lines of verified, non-scaffolded source code.
-- **On-Chain Deployments & Verified Program IDs:**
+Across the 42 local repositories and 75 relevant GitHub repositories evaluated:
+- **Total Production / Architected Code Authored:** >80,000 lines of verified, non-scaffolded source code.
+- **On-Chain Deployments & Verified Identifiers:**
+  - **Sui Mainnet & Walrus Storage:**
+    - RogueTrader Pre-Trade Risk System: Sui Mainnet MemWal Account `0xf7bbb0464e0088b39df94354701fdeef69ccfd7e15b59964b1ac73c30c44e223`, Package `0xe7c16fbea0560e7057e2bf7422feaa4fb313749fc69c9e9092fac7a33b81d7f5`, verified settlement tx `5VGXV3D6nT8N3vw67LyJTXRQNkiLY8bLaJoAs1iqEJ2N`, 15 Walrus Mainnet Blobs.
+    - Persist: Sui Move condition-gated capsules, Walrus permanent blob storage, and Seal threshold keying.
   - **Solana Devnet:**
+    - The Last Pavilion Survival Arena: `38iyWaZXa4nAZZxGYEGA6GqXhWE5g1dPt9ht9iFcxo63`
     - Rescue Dark Pool: `ZnDqdjHjR1HuwyMehcfEGrxCt6QiCz58UW21VjbnGjf`
     - RugRoll Crash Game: `DSfJQMFV36ib2Kd4c9bSkV9M9ZWmhhVCjTb7hhtACwyS`
     - Harvest Covered-Call Vault: `34Y7acmqWosmkfPJjqRUQzrHFdxmxpQezLSvgD9bLJJo`
     - Tip Protocol (School of Solana): PDA-based tipping program
-  - **EVM (X Layer / Ethereum Sepolia):**
-    - Mizan ZKSukukGate & SukukToken verifier contracts
-    - SentinelBond bonding contract
-  - **Sui Devnet:** Persist Walrus blob registration and Seal threshold keying
-  - **Stellar / Soroban:** RouteDock agent vaults, ProofPass investor gate, Credence DAO cost benchmarks
+  - **EVM (Robinhood Chain ID 4663, X Layer, Ethereum Sepolia):**
+    - Veil Protocol: `VeilSettlementHub.sol` note commitment & nullifier registry with BN254 Groth16 ZK verifier
+    - Mizan: ZKSukukGate & SukukToken verifier contracts (SP1 zkVM verification)
+    - Sentinel: SentinelBond bonding contract
+  - **Stellar / Soroban:** RouteDock agent vaults (#313 constructor, #556 durable Hono sessions), ProofPass investor gate, Credence DAO cost benchmarks
 - **Commercial & Enterprise Systems Delivered:**
+  - **WDC Formatt (WebDevConstruct):** Production AI document generation platform hardening: iOS WebKit asynchronous PDF blob streaming fixes, inverted subscription tier 403 authorization remediation, atomic quota stream synchronization, and serverless Prisma connection pool singleton.
   - **Finsa Directus Backend:** 1,641-line relational snapshot, 13 custom collections, RBAC policy with 10 granular permission sets, `@finsa/directus-client` TypeScript SDK.
   - **SJ Consulting Platform (WebDevConstruct):** 12 PostgreSQL migrations (>130KB schema), 8 production Deno Edge Functions, Paystack HMAC-SHA512 webhook integration, real-time peer duels, UNILAG admission engine.
 - **Open-Source Protocol Impact:**
-  - Over 4,000 lines of rigorous test suites and security fixes merged or submitted across top Stellar/Soroban protocols (`routedock`, `Stellar-iPredict`, `Credence-Contracts`, `Disciplr-backend`, `meridian`).
+  - Over 4,200 lines of rigorous test suites, cryptographic verifiers, and security fixes merged or submitted across top protocols (`routedock`, `Stellar-iPredict`, `Credence-Contracts`, `Disciplr-backend`, `meridian`).
 
 ---
 
